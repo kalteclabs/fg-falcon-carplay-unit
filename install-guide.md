@@ -1,4 +1,4 @@
-# FG FALCON CARPLAY UNIT INSTALL GUIDE
+<img alt="KALTEC · FG FALCON CARPLAY UNIT · INSTALL GUIDE" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-install-header.png" width="100%">
 
 FG FALCON SINGLE-DIN Head Unit Install Guide v1.0 by KALTEC 
 
