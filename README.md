@@ -1,4 +1,4 @@
-# FG FALCON CARPLAY UNIT
+<img alt="KALTEC · FG FALCON CARPLAY UNIT" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-header.png" width="100%">
 
 Fit a single-DIN CarPlay head unit in the FG Falcon tissue box slot: printed bracket, plug-in or hardwired power, full install guide. Free to build, or KALTEC provide ready-made kits to plug-and-play if you'd rather not.
 
