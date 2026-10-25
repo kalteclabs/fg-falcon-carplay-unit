@@ -45,7 +45,7 @@ Any CarPlay head unit works, as long as it's **single DIN**: the standard 18 × 
 
 | Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
-| Single-DIN head unit | $50. Any single-DIN unit works. Depending on the one you buy, it might come with an antenna, a reverse camera or an external GPS module. These all plug into the back of the unit and get tucked away behind it | AliExpress | 'Single din head unit' · 'Single din CarPlay' |
+| Single-DIN head unit | $50. Any single-DIN unit works. Depending on the one you buy, it might come with an antenna, a reverse camera or an external GPS module. These all plug into the back of the unit and get tucked away behind it | [AliExpress](https://www.aliexpress.com/item/1005007025889615.html) | 'Single din head unit' · 'Single din CarPlay' |
 | 2 plastic Ford interior clips (HE08) | $4 for a 50 pack. Reuse the pair off your tissue box. Only buy these if yours break, which happens a lot on older Falcons. KALTEC brackets come with spare clips | [AliExpress](https://www.aliexpress.com/item/32989988241.html) | 'HE08 clips' · 'Ford interior trim clips' |
 | Audio cable, 2× RCA to 3.5 mm | $4. Carries the sound from the head unit's RCA outs into the Falcon's AUX port, so it plays through the factory speakers. The factory stereo switches to AUX by itself every time you start the car | [AliExpress](https://www.aliexpress.com/item/1326108747.html) · [Bunnings](https://www.bunnings.com.au/antsig-1-5m-3-5mm-aux-to-rca-cable_p0286420) | 'RCA to 3.5 mm' · 'RCA to AUX cable' |
 
@@ -96,7 +96,7 @@ Hides the cables by taking power from the fuse box. Nothing in the car gets cut.
 > [!NOTE]
 > **Using the cigarette lighter?** You can skip this whole section.
 
-Reference only. The steps for finding your fuses and fitting the taps are in the install guide.
+Reference only. The steps for finding your fuses and fitting the taps are in the [install guide](install-guide.md#f5-pick-your-fuses-and-connect-the-taps).
 
 Layouts are similar across FG models and years, but not identical. Always check your own car first: the layout is usually printed inside the fuse box lid, and it's always in the owner's manual.
 
@@ -123,7 +123,7 @@ This layout suits most FG and FG MkII Falcons. The highlighted fuses are good on
 
 ### LOSES THE CLOCK AND SETTINGS WHEN THE CAR TURNS OFF
 
-- **Plug-in:** that's normal. BATTERY and ACC are joined, so the unit starts fresh each time. Use the fuse box route if you want them kept.
+- **Plug-in:** that's normal. BATTERY and ACC are joined, so the unit starts fresh each time. Use the [fuse box route](install-guide.md#fuse-box-power) if you want them kept.
 - **Fuse box:** BATTERY (yellow) and ACC (red) are swapped, or both are on key-on fuses. BATTERY must go on an **always-on** fuse.
 
 ### NO SOUND
@@ -135,7 +135,7 @@ This layout suits most FG and FG MkII Falcons. The highlighted fuses are good on
 ### FLAT BATTERY, OR THE UNIT STAYS ON WITH THE KEY OUT
 
 - **Fuse box:** ACC (red) is on an always-on fuse. Move it to a key-on fuse. Key off, the unit must switch off.
-- **Plug-in:** if your cigarette lighter stays live with the key out, purchase a cig plug with a ON/OFF switch, or use the fuse box route.
+- **Plug-in:** if your cigarette lighter stays live with the key out, purchase a cig plug with a ON/OFF switch, or use the [fuse box route](install-guide.md#fuse-box-power).
 <sub>IMAGE COMING SOON: cig lighter plug with switch </sub>
 
 ### BRACKET IS LOOSE OR THE CLIPS WON'T SEAT
@@ -149,7 +149,7 @@ This layout suits most FG and FG MkII Falcons. The highlighted fuses are good on
 ### HEAD UNIT IS TOO TIGHT OR TOO TALL FOR THE BRACKET
 
 - Take off the metal sleeve if your unit came with one. It isn't used.
-- Make sure you've printed the latest STL from Releases, at 100% scale.
+- Make sure you've printed the latest STL from [Releases](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest), at 100% scale.
 - Lightly sand the ridges inside the bracket, evenly on both sides, until it presses in.
 - Unit too **loose** instead? Add thin inserts or tape inside the bracket so it fits tight.
 - Odd-sized unit? Adjust the STL to fit your size, as long as the power out is the same, this will work for any unit!
@@ -163,7 +163,7 @@ This layout suits most FG and FG MkII Falcons. The highlighted fuses are good on
 
 ### NO RADIO ON THE HEAD UNIT
 
-- The head unit needs its own antenna plugged into the **ANT** socket on the back. The Falcon's antenna stays on the factory stereo. Search AliExpress for 'car radio antenna stick on' if yours didn't come with one.
+- The head unit needs its own [car radio antenna](https://www.aliexpress.com/item/1005005732812892.html) plugged into the **ANT** socket on the back. The Falcon's antenna stays on the factory stereo. Search AliExpress for 'car radio antenna stick on' if yours didn't come with one.
 - The blue **ANT** wire is not the antenna. Keep it taped off.
 - Don't need it? The factory radio still works as normal.
 
