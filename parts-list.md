@@ -18,8 +18,7 @@ FG FALCON SINGLE-DIN Head Unit Parts List v1.0 by KALTEC
 
 **The bracket is provided free by KALTEC.** Download the 3D print file from the bracket page and print it. The right print settings are included with the STL.
 
-Print in **PETG or ASA, never PLA**, 
-If your car sits in the sun, a UV clear coat protects the print, see [Optional Parts](#optional)
+Print in **PETG or ASA**, if your car sits in the sun or has no tint, ensure the bracked is protected with UV clear coat. see [Optional Parts](#optional)
 
 To build this yourself it costs about **A$65–75**, and most of that price is the head unit itself (about $50).
 
@@ -29,7 +28,7 @@ To build this yourself it costs about **A$65–75**, and most of that price is t
 
 ## PARTS
 
-Images coming soon. Prices are rough, in AUD, from October 2026. The links are the exact parts I used, but listings change and sellers come and go. copy the **search term** into AliExpress and pick the cheapest seller with good reviews.
+Images coming soon. Prices are in AUD. The links are the exact parts I used, but listings change and sellers come and go. copy the **search term** into AliExpress and pick the cheapest seller with good reviews.
 _Most links are AliExpress, its the cheapest supplier. But i've also added some Supercheap Auto or Bunnings links so you can grab items the same day._
 
 ### BEFORE YOU BUY A HEAD UNIT
@@ -66,7 +65,7 @@ Hides the cables by taking power from the fuse box. Nothing in the car gets cut.
 
 | Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
-| 2 fuse taps, mini blade | $5 for a 5 pack. A fuse tap slots into the fuse box in place of a fuse. It holds the car's original fuse plus a second fuse for the head unit, so both get power from the same slot. It pulls straight back out | [AliExpress](https://www.aliexpress.com/item/1005010560224519.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-add-a-circuit-twin-mini-fuse/726757.html) | 'Mini blade fuse tap' · 'Add a circuit mini' |
+| 2 fuse taps, mini blade | $5 for a 5 pack. A fuse tap holds the car's original fuse plus a second fuse for the head unit, so both get power from the same slot. It allows us to get power easily to the carplay unit without cutting into any wires. | [AliExpress](https://www.aliexpress.com/item/1005010560224519.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-add-a-circuit-twin-mini-fuse/726757.html) | 'Mini blade fuse tap' · 'Add a circuit mini' |
 | Mini blade fuses | $4 for a 6 pack. **Only needed if your fuse taps don't come with fuses** | [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-fuses-mini-blade-assorted-6-pack/726752.html) | 'Mini blade fuse' |
 | Wire | $10 for 3 meters, more than enough. Extends the head unit's power wires so they reach the fuse box | [AliExpress](https://www.aliexpress.com/item/1005009017260144.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-cable-single-core-15a-4mm-x-4m-blue/376702.html) | '0.75 mm² automotive wire' · '18 AWG automotive wire' |
 
@@ -76,8 +75,8 @@ Hides the cables by taking power from the fuse box. Nothing in the car gets cut.
 
 | Part | About | Where to buy | Search term |
 | --- | --- | --- | --- |
-| Spare power harness | $4. A spare copy of the head unit's power plug, so you can make both leads (plug-in and fuse box) and swap between them, or keep the original untouched. Must match your unit's plug | [AliExpress](https://www.aliexpress.com/item/1005006782766797.html) | 'Car stereo ISO cable male' · 'ISO wiring harness male plug' |
-| UV clear coat | $28. If your windows aren't tinted, this protects the bracket from Australian summer heat and sun | [Supercheap](https://www.supercheapauto.com.au/p/mtn-mtn-pro-high-heat-clear-coat-400ml-spray-paint/688225.html) | 'UV clear coat spray' · 'High heat clear coat' |
+| Spare power harness | $4. A spare copy of the head unit's power plug, incase you need a new one. The provided link is for genenic chinese head unit power cables. | [AliExpress](https://www.aliexpress.com/item/1005006782766797.html) | 'Car stereo ISO cable male' · 'ISO wiring harness male plug' |
+| UV clear coat | $28. If your windows aren't tinted to ensures minimal warping over extended time in the heat.| [Supercheap](https://www.supercheapauto.com.au/p/mtn-mtn-pro-high-heat-clear-coat-400ml-spray-paint/688225.html) | 'UV clear coat spray' · 'High heat clear coat' |
 
 ### TOOLS
 
