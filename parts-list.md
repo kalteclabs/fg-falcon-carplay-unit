@@ -2,19 +2,22 @@
 
 FG FALCON SINGLE-DIN Head Unit Parts List v1.0 by KALTEC
 
-Parts list for FG and FG MkII FALCON. Every link, price and item you need to build your Falcon unit as cheaply and easily as possible, all provided free by KALTEC.
+## Parts list for FG and FG MkII FALCON. Every link, price and item you need to build your Falcon unit as cheaply and easily as possible, all provided free by KALTEC.
 
-**Jump to:** [Free bracket](#free-bracket-3d-print-file) · [Parts](#parts) · [Fuse box layouts](#fuse-box-layouts) · [Common issues](#common-issues)
+**Jump to:** · [Parts](#parts) · [Fuse box layouts](#fuse-box-layouts) · [Common issues](#common-issues)
+
+<br>
 
 ## FREE BRACKET 3D PRINT FILE
 
-This replaces your tissue box (the tray in the dash), with no screws required.
+This replaces your tissue box (the tray in the dash), with no screws required!
 
 <sub>IMAGE COMING SOON: 3D render of the bracket.</sub>
 
 **The bracket is provided free by KALTEC.** Download the 3D print file from the bracket page and print it. The right print settings are included with the STL.
 
-Print in **PETG or ASA, never PLA**, because PLA softens in a hot car. If your car sits in the sun, a UV clear coat protects the print (see optional parts).
+Print in **PETG or ASA, never PLA**, 
+If your car sits in the sun, a UV clear coat protects the print, see [Optional Parts](#optional)
 
 > [!TIP]
 > Don't have a 3D printer? KALTEC brackets and full kits are coming late November, to make this build as easy as possible.
@@ -27,13 +30,12 @@ To build the head unit yourself with wiring costs about **A$65–75**, and most 
 
 ## PARTS
 
-Images coming soon. Prices are rough, in AUD, from October 2026. The links are the exact parts I used, but listings change and sellers come and go. If a link is dead, or you want it cheaper, copy the **search term** into AliExpress and pick the cheapest seller with good reviews.
-
-Most links are AliExpress, the cheapest option. I've also added Supercheap Auto or Bunnings links so you can grab items the same day.
+Images coming soon. Prices are rough, in AUD, from October 2026. The links are the exact parts I used, but listings change and sellers come and go. copy the **search term** into AliExpress and pick the cheapest seller with good reviews.
+Most links are AliExpress, its the cheapest supplier. But i've also added Supercheap Auto or Bunnings links so you can grab items the same day.
 
 ### BEFORE YOU BUY A HEAD UNIT
 
-Any cheap CarPlay head unit works, as long as it's **single DIN**: the standard 18 × 5 cm size, not double DIN.
+Any CarPlay head unit works, as long as it's **single DIN**: the standard 18 × 5 cm size, not double DIN.
 
 > [!NOTE]
 > Wireless CarPlay is worth the extra few dollars, but wired units work exactly the same for this project. I've bought and tested both!
@@ -66,7 +68,7 @@ Hides the cables by taking power from the fuse box. Nothing in the car gets cut.
 | Part | About | Where to buy | Search term |
 | --- | --- | --- | --- |
 | 2 fuse taps, mini blade | $5 for a 5 pack. A fuse tap slots into the fuse box in place of a fuse. It holds the car's original fuse plus a second fuse for the head unit, so both get power from the same slot. It pulls straight back out | AliExpress · Supercheap | 'Mini blade fuse tap' · 'Add a circuit mini' |
-| Mini blade fuses | $4 for a 6 pack. Only needed if your fuse taps don't come with fuses | Supercheap | 'Mini blade fuse' |
+| Mini blade fuses | $4 for a 6 pack. **Only needed if your fuse taps don't come with fuses** | Supercheap | 'Mini blade fuse' |
 | Wire | $2 for 3 m, more than enough. Extends the head unit's power wires so they reach the fuse box | AliExpress · Supercheap | '0.75 mm² automotive wire' · '18 AWG automotive wire' |
 
 **Fuse box total: about A$75**
