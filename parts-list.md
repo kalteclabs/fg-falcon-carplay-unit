@@ -88,7 +88,7 @@ Nothing in the car gets cut or spliced, Instead we extend the head unit's two po
 - Optional: a multimeter or test light
 **You'll also need** a KALTEC bracket, or a 3D printer + PETG or ASA filament to print your own.
 
-Once you have all the items needed, fit the unit in your Falcon with the [install guide](install-guide.md).
+Once you have all the items needed,** star this repo** and fit the unit in your Falcon with the [install guide](install-guide.md).
 
 ---
 
@@ -177,6 +177,5 @@ Layouts are similar across FG models and years, but not identical. Always check 
 ---
 
 **KALTEC · CC BY-SA 4.0 · [github.com/kalteclabs/fg-falcon-carplay-unit](https://github.com/kalteclabs/fg-falcon-carplay-unit)**
-FG FALCON SINGLE-DIN Head Unit Parts List v1.0 by KALTEC
 
-This guide and it's photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
+This guide and it's photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0. FG FALCON SINGLE-DIN Head Unit Parts List v1.0
