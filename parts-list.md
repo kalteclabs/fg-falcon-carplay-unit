@@ -86,30 +86,28 @@ Hides the cables by taking power from the fuse box. Nothing in the car gets cut.
 - Optional: a plastic trim tool
 - Optional: a multimeter or test light
 
-**You'll also need** a KALTEC bracket, or a 3D printer and PETG or ASA filament to print your own.
+**You'll also need** a KALTEC bracket, or a 3D printer + PETG or ASA filament to print your own.
 
 ---
 
-## FUSE BOX LAYOUTS
+## FUSE BOX LAYOUT
 
 > [!NOTE]
 > **Using the cigarette lighter?** You can skip this whole section.
 
 Reference only. The steps for finding your fuses and fitting the taps are in the [install guide](install-guide.md#f5-pick-your-fuses-and-connect-the-taps).
 
-Layouts are similar across FG models and years, but not identical. Always check your own car first: the layout is usually printed inside the fuse box lid, and it's always in the owner's manual.
+Layouts are similar across FG models and years, but not identical. Always check your own car first: the layout is usually printed inside the fuse box lid, or check the owner's manual.
 
 <sub>IMAGE COMING SOON: fuse layout printed on the inside of the lid.</sub>
 
-### GENERAL FG LAYOUT
-
-This layout suits most FG and FG MkII Falcons. The highlighted fuses are good ones to tap.
+If you cant find yours ive made a basic layout that suites most FG falcons, The highlighted fuses are good ones to tap.
 
 <sub>IMAGE COMING SOON: general FG fuse box layout, redrawn in KALTEC style, with a good always-on fuse and a good key-on fuse highlighted.</sub>
 
 ---
 
-## COMMON ISSUES
+## TROUBLESHOOTING
 
 ### NO POWER
 
