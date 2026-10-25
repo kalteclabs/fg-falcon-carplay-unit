@@ -44,7 +44,7 @@ Any CarPlay head unit works, as long as it's **single DIN**: the standard 18 × 
 
 ### EVERYONE
 
-| Part | About | Where to buy | Search term |
+| Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
 | Single-DIN head unit | $50. Any single-DIN unit works. Depending on the one you buy, it might come with an antenna, a reverse camera or an external GPS module. These all plug into the back of the unit and get tucked away behind it | AliExpress: use the search terms | 'Single din head unit' · 'Single din CarPlay' |
 | 2 plastic Ford interior clips (HE08) | $4 for a 50 pack. Reuse the pair off your tissue box. Only buy these if yours break, which happens a lot on older Falcons. KALTEC brackets come with spare clips | AliExpress | 'HE08 clips' · 'Ford interior trim clips' |
@@ -55,7 +55,7 @@ Any CarPlay head unit works, as long as it's **single DIN**: the standard 18 × 
 
 The easy one. A cigarette plug lead joins to the head unit's power plug and plugs into the factory outlet. Nothing in the car gets touched.
 
-| Part | About | Where to buy | Search term |
+| Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
 | Cigarette plug lead | $3 for 2. Plugs into the factory outlet under the tissue box slot. Get one with a **10 A fuse** in the tip (unscrew the ring to check), and never one bigger than the head unit's own fuse | AliExpress | 'Fused cigarette plug 10A' · 'Cigarette lighter male plug' |
 
@@ -65,7 +65,7 @@ The easy one. A cigarette plug lead joins to the head unit's power plug and plug
 
 Hides the cables by taking power from the fuse box. Nothing in the car gets cut. You extend the head unit's two power wires to reach the fuse box, then push the fuse taps into place.
 
-| Part | About | Where to buy | Search term |
+| Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
 | 2 fuse taps, mini blade | $5 for a 5 pack. A fuse tap slots into the fuse box in place of a fuse. It holds the car's original fuse plus a second fuse for the head unit, so both get power from the same slot. It pulls straight back out | AliExpress · Supercheap | 'Mini blade fuse tap' · 'Add a circuit mini' |
 | Mini blade fuses | $4 for a 6 pack. **Only needed if your fuse taps don't come with fuses** | Supercheap | 'Mini blade fuse' |
