@@ -18,6 +18,8 @@ START HERE
 
 > PROJECT WORK IN PROGRESS: The pre-made kits, free STL file and full guide land next month. The parts list and install guide are public now. I'm currently making video tutorials and adding photos to the docs this week!
 
-Star this repo to follow along.
+---
+
+Star this repo to support the project and motivate me to roll this out quicker!
 
 Designed by KALTEC · github.com/kalteclabs · CERN-OHL-S-2.0
