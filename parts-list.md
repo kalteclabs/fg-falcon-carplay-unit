@@ -68,7 +68,7 @@ Hides the cables by taking power from the fuse box. Nothing in the car gets cut.
 | --- | --- | --- | --- |
 | 2 fuse taps, mini blade | $5 for a 5 pack. A fuse tap slots into the fuse box in place of a fuse. It holds the car's original fuse plus a second fuse for the head unit, so both get power from the same slot. It pulls straight back out | AliExpress · Supercheap | 'Mini blade fuse tap' · 'Add a circuit mini' |
 | Mini blade fuses | $4 for a 6 pack. **Only needed if your fuse taps don't come with fuses** | Supercheap | 'Mini blade fuse' |
-| Wire | $2 for 3 m, more than enough. Extends the head unit's power wires so they reach the fuse box | AliExpress · Supercheap | '0.75 mm² automotive wire' · '18 AWG automotive wire' |
+| Wire | $10 for 3 meters, more than enough. Extends the head unit's power wires so they reach the fuse box | AliExpress · Supercheap | '0.75 mm² automotive wire' · '18 AWG automotive wire' |
 
 **Fuse box total: about A$75**
 
@@ -87,7 +87,7 @@ Hides the cables by taking power from the fuse box. Nothing in the car gets cut.
 - Optional: a plastic trim tool
 - Optional: a multimeter or test light
 
-**You'll also need** a KALTEC bracket, or a 3D printer and PETG or ASA filament.
+**You'll also need** a KALTEC bracket, or a 3D printer and PETG or ASA filament to print your own.
 
 ---
 
