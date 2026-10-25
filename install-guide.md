@@ -2,7 +2,8 @@
 
 FG FALCON SINGLE-DIN Head Unit Install Guide v1.1 by KALTEC
 
-for the Ford FG and FG MkII FALCON. A full step-by-step guide to building your own, with every part listed and the bracket file free. Video and photo instructions coming soon.
+for all Ford FG and FGX models. A full step-by-step guide to building your own carplay unit for about 70 dollars.
+Parts list, 3D Print file for the custom bracket, and step-by-step guides all provided for FREE by KALTEC, with pre-made kits coming late November
 
 There are two ways to power the CarPlay head unit in the Ford Falcon:
 
