@@ -1,7 +1,5 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT · PARTS LIST" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-parts-header.png" width="100%">
 
-FG FALCON SINGLE-DIN Head Unit Parts List v1.0 by KALTEC
-
 ### Parts list for FG and FG MkII FALCON. Every link, price and item you need to build your Falcon unit as cheaply and easily as possible, all provided free by KALTEC. 
 
 **Jump to:** [Parts](#parts) · [Fuse box layout](#fuse-box-layout) · [Troubleshooting](#troubleshooting)
@@ -179,5 +177,6 @@ Layouts are similar across FG models and years, but not identical. Always check 
 ---
 
 **KALTEC · CC BY-SA 4.0 · [github.com/kalteclabs/fg-falcon-carplay-unit](https://github.com/kalteclabs/fg-falcon-carplay-unit)**
+FG FALCON SINGLE-DIN Head Unit Parts List v1.0 by KALTEC
 
-This guide and it's photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo, and share your changes under the same licence. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
+This guide and it's photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
