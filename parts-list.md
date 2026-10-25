@@ -98,7 +98,7 @@ Nothing in the car gets cut or spliced, Instead we extend the head unit's two po
 
 Layouts are similar across FG models and years, but not identical. Always check your own car first: the layout is usually printed inside the fuse box lid, or check the owner's manual.
 
-**If you cant find yours ive made a basic layout that suites most FG falcons,** The highlighted fuses are good ones to tap.
+**If you cant find yours ive made a basic layout that suits most FG Falcons,** The highlighted fuses are good ones to tap.
 
 <sub>IMAGE COMING SOON: general FG fuse box layout, redrawn in KALTEC style, with a good always-on fuse and a good key-on fuse highlighted.</sub>
 
@@ -135,7 +135,7 @@ Layouts are similar across FG models and years, but not identical. Always check 
 ### FLAT BATTERY, OR THE UNIT STAYS ON WITH THE KEY OUT
 
 - **Fuse box:** ACC (red) is on an always-on fuse. Move it to a key-on fuse. Key off, the unit must switch off.
-- **Plug-in:** if your cigarette lighter stays live with the key out, purchase a cig plug with a ON/OFF switch, or use the [fuse box route](install-guide.md#fuse-box-power).
+- **Plug-in:** if your cigarette lighter stays live with the key out, purchase a cig plug with an ON/OFF switch, or use the [fuse box route](install-guide.md#fuse-box-power).
 <sub>IMAGE COMING SOON: cig lighter plug with switch </sub>
 
 ---
@@ -146,7 +146,7 @@ Layouts are similar across FG models and years, but not identical. Always check 
 - Wiring bunched up behind the unit can push the bracket out. Tuck it to the sides so nothing gets pinched.
 - Push the bracket in evenly, both sides at once, until both clips click.
 - Sometimes the console edges might interfere with the bracket, you might need to flex them with your hands to secure the unit
-<sub>IMAGE COMING SOON: the plastic sides of the console slot higlighted </sub>
+<sub>IMAGE COMING SOON: the plastic sides of the console slot highlighted </sub>
 
 ---
 
