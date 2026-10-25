@@ -1,10 +1,8 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT · INSTALL GUIDE" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-install-header.png" width="100%">
 
-FG FALCON SINGLE-DIN Head Unit Install Guide v1.0 by KALTEC 
+FG FALCON SINGLE-DIN Head Unit Install Guide v1.1 by KALTEC
 
-for FG FALCON, full steps for DIY or PLUG-AND-PLAY with a KALTEC kit.
-
-**Jump to install guides:** [Plug and play](#plug-and-play-in-10-minutes) · [Hardwire](#hardwire-it)
+for the Ford FG and FG MkII FALCON. A full step-by-step guide to building your own, with every part listed and the bracket file free. Video and photo instructions coming soon.
 
 There are two ways to power the CarPlay head unit in the Ford Falcon:
 
@@ -12,227 +10,188 @@ There are two ways to power the CarPlay head unit in the Ford Falcon:
 
 <sub>IMAGE COMING SOON: head unit with cigarette plug setup.</sub>
 
-**Power with the fuse box (about 30–45 minutes):** attach two fuse taps in your fuse box and hide the cable for a more integrated setup. *A little more time-consuming, as you need to take the interior panels off to hide the cable.*
+**Power with the fuse box (about 30–45 minutes):** attach two fuse taps in your fuse box and hide the cable for a more integrated setup. Keeps the clock and settings, and frees up the cigarette lighter. *A little more time-consuming, as you need to take the interior panels off to hide the cable.*
 
-<sub>IMAGE COMING SOON: head unit with fuse box (hardwired) setup.</sub>
+<sub>IMAGE COMING SOON: head unit with fuse box setup.</sub>
 
-## PLUG AND PLAY IN 10 MINUTES
+## YOU NEED
 
-No panels off, no fuses, no car wiring touched. Powered from the cigarette lighter.
+Everything needed is in the parts list.
 
-> [!NOTE]
-> **Hardwiring?** Do steps 1–3, then go to [HARDWIRE IT](#hardwire-it).
+- [ ]  The bracket to replace the tissue box, 3D print file free from KALTEC
+- [ ]  A single-DIN head unit, standard size 18 × 5 cm
+- [ ]  An RCA to 3.5 mm audio cable
+- [ ]  Heat-shrink and electrical tape, if you're making your own lead
 
-**You need:**
+Either:
 
-- [ ] The bracket: print it, or buy one from KALTEC
-- [ ] 2 Ford interior clips: reuse the pair on the back of your tissue box ([parts list](build-it.md#parts))
-- [ ] A single-DIN head unit ([parts list](build-it.md#parts))
-- [ ] A cigarette plug lead with red (+) and black (−) wires, or a ready-made KALTEC lead ([parts list](build-it.md#parts))
-- [ ] An RCA to 3.5 mm audio cable ([parts list](build-it.md#parts))
-
-<sub>IMAGE COMING SOON: the plug-in parts laid out.</sub>
+- [ ]  **Cigarette lighter power:** a cigarette male plug lead
+- [ ]  **Fuse box power:** 2 mini blade fuse taps, about 2 m of extra wire, and a socket for the ground bolt
 
 ## 1. TAKE OUT THE TISSUE BOX
 
-No tools or screws needed. Grip the bottom lip and pull it firmly towards you. It's held by two clips and pops straight out.
+No tools needed. Grip the bottom lip and pull it firmly towards you. It's held by two clips and pops straight out.
 
 > [!TIP]
-> Keep the tissue box. It clips back in if you ever remove the bracket.
+Keep the tissue box. It clips back in if you ever remove the bracket.
+> 
 
 <sub>IMAGE COMING SOON: tissue box with arrows showing where to pull from.</sub>
 
 ## 2. PUT THE CLIPS ON THE BRACKET
 
-The tissue box is held in by two plastic interior clips, the same kind Ford uses on its interior trim. Slide them off the tissue box and onto the bracket's two tabs, one on each. If you buy a KALTEC bracket, spare clips are included.
+Slide the two yellow plastic clips off the tissue box and onto the bracket's two tabs, one on each. KALTEC brackets come with the clips already fitted.
 
 > [!NOTE]
-> These clips are fragile, and on older Falcons they often break. You can order a set online for very little: search AliExpress for HE08 clips, or see the [parts list](build-it.md#parts).
+The clips are fragile when you flex them off the tissue box. If one breaks, a 50 pack costs a few dollars: see the parts list.
+> 
 
 <sub>IMAGE COMING SOON: clips on the bracket tabs.</sub>
 
-## 3. FIT THE HEAD UNIT
+## 3. MAKE THE POWER LEAD
 
-Press the head unit into the bracket from the front until it sits flush. It's a tight press fit, so push firmly and evenly. *If your unit came with a metal sleeve, remove it.*
-
-> [!TIP]
-> If your head unit doesn't fit perfectly in the bracket, sand the ridges (sides) inside the bracket or add inserts to ensure it fits tight. Another option is adjusting the STL file, it was made to fit all single-din head units but some cheaper units are slightly smaller.
-
-<sub>IMAGE COMING SOON: head unit pressed into the bracket.</sub>
-
-## CHOOSE YOUR POWER
+Build the power lead before you install the head unit. if you powering via fuse box skip this step and go to FUSE BOX POWER, then come back to step 4.
 
 > [!IMPORTANT]
-> Plug-in via cigarette port: carry on to [step 4](#4-cigarette-power-plug).
->
-> Fuse box (like a dash cam or any other head unit): go to [HARDWIRE IT](#hardwire-it).
-
-## 4. CIGARETTE POWER PLUG
-
-> [!TIP]
-> **Bought a ready-made plug-in lead from KALTEC?** Skip this step and go to [step 5](#5-plug-in).
+> 
+> 
+> **Bought a ready-made cigarette lead from KALTEC?** connect your power cable and go straight to step 4.
+> 
 
 You're joining the head unit's wiring plug to a cigarette plug lead. It's only three wires.
 
 > [!NOTE]
-> Go by the **label** on the wire or in your manual, because colours change between head units.
+Go by the **label** on the wire or in your manual, because colours change between head units.
+> 
+1. Join **BATTERY / B+** (usually yellow) and **ACC** (usually red) together. These are the two power wires from your head unit's power plug.
+2. Connect the joined wires to the cigarette plug's **red (+)** wire.
+    
+    <sub>IMAGE COMING SOON: both wires from the head unit joined, then connected to the cigarette plug's positive.</sub>
+    
+3. Join the head unit's **GND** (the thick black wire) to the cigarette plug's **black (−)** wire. A second, thinner black wire labelled **KEY-GND** is for steering wheel controls, not ground.
+    
+    <sub>IMAGE COMING SOON: the two ground wires joined together.</sub>
+    
+4. Tape off every other wire, each one on its own. They aren't used.
 
-1. Find **BATTERY / B+** (usually yellow) and **ACC** (usually red, sometimes labelled IGNITION). Join them together, then connect them to the cigarette plug's **red (+)** wire.
-
-   <sub>IMAGE COMING SOON: both wires from the head unit joined, then connected to the cigarette plug's positive.</sub>
-
-2. Join the head unit's **GND** (usually the thick black wire) to the cigarette plug's **black (negative / ground)** wire. If your unit has a second, thinner black wire labelled **KEY-GND**, that's for steering wheel controls, not ground.
-
-   <sub>IMAGE COMING SOON: the head unit's and the cigarette plug's ground wires joined together.</sub>
-
-3. Tape off every other wire, each one on its own. They aren't used.
+**How to join two wires:** slide heat-shrink onto one wire, strip about 1 cm off both ends, twist them together tightly, then slide the heat-shrink over the join and shrink it.
 
 <sub>IMAGE COMING SOON: finished plug-in lead.</sub>
 
-## 5. PLUG IN
+Now you can connect the cigarette plug into the outlet under the slot, so its ready for the head unit to be connected.
 
-1. Plug the power lead into the back of the head unit.
-2. Plug the audio cable into the head unit's red and white RCA plugs.
-3. If your head unit came with a reverse camera or radio antenna, plug them in.
+## 4. PLUG IN
 
-   <sub>IMAGE COMING SOON: the back of the unit with each plug identified (RCA L and R, POWER, ANTENNA, REVERSE CAMERA).</sub>
+> [!IMPORTANT]
+Plug everything into the back of the head unit **now**. Once the bracket is in, the back of the unit is hard to reach. is easily removed if you do forget anything!
+> 
+1. Plug the audio cable into the red and white RCA outs (**L-OUT / R-OUT**, not MIC IN), and the other end into the car's AUX. *Most Falcons have the AUX right next to the cigarette lighter.*
+2. If your head unit came with a reverse camera or radio antenna, plug them in.
+3. If you havent already you can plug your head units power cable in.
 
-4. Plug the cigarette plug into the cigarette lighter located in your car right under the slot. *Hardwired? Skip this one.*
-5. Plug the other end of the audio cable into the car's AUX input. *Most Falcons have the AUX directly next to the cigarette lighter. If your AUX is in the console bin, you'll need a longer audio cable.*
+<sub>IMAGE COMING SOON: the back of the unit with each plug identified (RCA L and R, POWER, ANTENNA, REVERSE CAMERA).</sub>
 
-   <sub>IMAGE COMING SOON: AUX plugged in next to the cigarette lighter.</sub>
+## 5. SECURE IT
 
-   <sub>IMAGE COMING SOON: AUX plugged in inside the console bin.</sub>
+Press the head unit into the bracket from the front until it sits flush. It's a tight press fit, so push firmly and evenly. *If your unit came with a metal sleeve, remove it.*
 
-## 6. TEST IT BEFORE YOU CLIP IT IN
+<sub>IMAGE COMING SOON: head unit pressed into the bracket.</sub>
 
-1. Turn the key on, or start the car.
-2. The head unit should start up, and the factory stereo switches to AUX by itself when it sees the cable. *If it doesn't, press <kbd>MEDIA</kbd> until it shows AUX.*
-3. Connect your phone and play something. With wireless CarPlay it pairs once, then connects by itself every time after that. With wired CarPlay, connect your phone with a cable and test.
-4. Confirm AUX, radio, antenna and GPS is working as it should.
-
-> [!TIP]
-> Something not right? See [common issues](build-it.md#common-issues).
-
-<sub>IMAGE COMING SOON: AUX selected on the factory stereo.</sub>
-
-## 7. CLIP IT IN
-
-1. Tuck the wiring in behind the head unit so nothing gets pinched.
-2. Line the bracket up with the slot and push it in evenly until both clips click into place.
-3. Press each corner firmly. It should sit flush with the dash and not move or rattle.
-4. If you powered the unit via the fuse box it is now time to clip the interior panels back on to hide the cables.
+1. Make sure the yellow clips are on your bracket.
+2. Tuck the wiring behind the head unit so nothing gets pinched.
+3. Line the bracket up with the console and push it in evenly until it clicks securely into place.
 
 <sub>IMAGE COMING SOON: bracket clipped in.</sub>
 
-**Done.** The head unit turns on and off with the key. On plug-in power it starts fresh each time, so it won't keep the clock or settings. [Hardwire it](#hardwire-it) if you want those kept.
+## 7. TEST IT
+
+1. Turn the key on. The head unit starts up, and the factory stereo switches to AUX by itself. *If it doesn't, press <kbd>MEDIA</kbd> until it shows AUX.*
+2. Connect your phone and play something. Check maps, radio and anything else your unit has.
+3. **Fuse box:** turn the key off. The unit must switch off. Turn it back on: the clock and settings should still be there. Then clip the interior panels back on.
+
+> [!TIP]
+Something not right? The bracket pops straight back out. See common issues.
+> 
+
+<sub>IMAGE COMING SOON: AUX selected on the factory stereo, with Spotify open.</sub>
+
+**Done.** The head unit turns on and off with the key. Support the project by liking the repo!
 
 ---
 
-## HARDWIRE IT
-
-> [!IMPORTANT]
-> **Start here after step 3.** You'll finish back at [step 5](#5-plug-in).
-
-Keeps the clock and settings, and frees up the cigarette lighter. About 30–45 minutes.
+## FUSE BOX POWER
 
 > [!TIP]
-> **Bought a ready-made hardwired lead from KALTEC?** Skip H1 and start at [H2](#h2-plug-it-in-and-ground-it).
+**Bought a ready-made fuse box lead from KALTEC?** Skip F1 and start at F2.
+> 
 
-**You need:**
+Your head unit comes with a power plug, and we only need 3 of its wires. The two power wires get extended to reach the fuse box and plug into it with fuse taps. The ground wire goes to a bolt in the slot. Check your manual for the right wires. They're usually:
 
-- [ ] The bracket: print it, or buy one from KALTEC
-- [ ] 2 Ford interior clips: reuse the pair on the back of your tissue box ([parts list](build-it.md#parts))
-- [ ] A single-DIN head unit ([parts list](build-it.md#parts))
-- [ ] An RCA to 3.5 mm audio cable ([parts list](build-it.md#parts))
-- [ ] 2 mini blade fuse taps with fuses, or a ready-made KALTEC hardwired lead ([parts list](build-it.md#parts))
-- [ ] Wire, if you're making the lead: 1 m for BATTERY, 1 m for ACC, about 20 cm for GND ([parts list](build-it.md#parts))
-- [ ] Heat-shrink and electrical tape, if you're making the lead
-- [ ] A socket for the ground bolt
-- [ ] A multimeter (optional)
-- [ ] A plastic trim tool (optional)
+| Wire | Usually | Goes to |
+| --- | --- | --- |
+| BATTERY / B+ 12V | Yellow | A fuse that's **always on**. Keeps the clock and settings |
+| ACC | Red | A fuse that's **on with the key only**. Turns the unit on and off |
+| GND | Black (the thick one) | A bolt inside the tissue box slot |
 
-### HOW IT'S WIRED
+### F1. MAKE THE LEAD
 
-| Label | Usually | Does | Goes to |
-| --- | --- | --- | --- |
-| BATTERY / B+ | Yellow | Constant power, keeps the memory | Fuse tap on a fuse that's **always on** |
-| ACC | Red | Turns the unit on with the key | Fuse tap on a fuse that's **on with the key only** |
-| GND | Black (the thick one) | Ground | Nearest bolt inside the tissue box slot |
+Use the wiring plug that came with your head unit. Join wires the same way as in step 3.
 
-> [!WARNING]
-> 1. Never put ACC on an always-on fuse. The head unit might drain the battery.
-> 2. Never tap airbag (SRS), ABS, engine (PCM) or fuel pump fuses.
-
-### H1. MAKE THE HARDWIRED LEAD
-
-Use the wiring plug that came with your head unit. Join wires the same way as in [step 4](#4-cigarette-power-plug).
-
-1. Join 1 m of wire to **BATTERY** and 1 m to **ACC**, to reach the fuse box. Join about 20 cm to **GND**, to reach a bolt in the slot.
-2. Join the far end of BATTERY to a fuse tap and label it ALWAYS ON.
-3. Join the far end of ACC to the other fuse tap and label it KEY ON.
+1. Join 1 m of wire to **BATTERY** and 1 m to **ACC**. Join about 20 cm to **GND**.
+2. Crimp a fuse tap onto the end of BATTERY and label it ALWAYS ON.
+3. Crimp the other fuse tap onto the end of ACC and label it KEY ON.
 4. Strip about 1 cm off the end of GND, or crimp on a ring terminal.
-5. Tape off every other wire, each one on its own, including a thin black KEY-GND wire if your unit has one.
+5. Tape off every other wire, each one on its own, including the thin black KEY-GND if your unit has one.
 
-<sub>IMAGE COMING SOON: finished hardwired lead.</sub>
+<sub>IMAGE COMING SOON: finished fuse box lead.</sub>
 
-### H2. PLUG IT IN AND GROUND IT
+### F2. CONNECT THE GROUND
 
-1. Plug the lead into the back of the head unit.
-2. With the tissue box out, you can see two factory bolts inside the slot. Either one works as ground. Undo one, wrap the GND wire around it, and tighten it back down.
+With the tissue box out, you can see two factory bolts inside the slot. Either one works. Undo one, wrap the GND wire around it, and tighten it back down. Leave the power plug sitting in the slot.
 
 <sub>IMAGE COMING SOON: ground wire under the slot bolt.</sub>
 
-### H3. ROUTE IT TO THE FUSE BOX
+### F3. FIND THE FUSE BOX
 
-> [!TIP]
-> The interior panels pop off with plastic clips. Use a trim tool if you have one, or pull firmly from the corners.
-
-1. Pop off the two plastic panels on the driver's side of the centre console, below the slot.
-
-   <sub>IMAGE COMING SOON: removing the upper console panel.</sub>
-
-   <sub>IMAGE COMING SOON: removing the lower console panel.</sub>
-
-2. Run BATTERY and ACC from the slot down behind the panels, then behind the steering column to the fuse box, so nothing shows.
-3. Leave the panels off for now. They go back on in [step 7](#7-clip-it-in), once you've tested.
-
-<sub>IMAGE COMING SOON: the lead routed to the fuse box.</sub>
-
-### H4. FIND YOUR FUSES
-
-The fuse box is under the dash in the driver's footwell, to the right of the steering column. Remove the cover to expose it.
+It's under the dash in the driver's footwell, to the right of the steering column. Pull the cover off to see the fuses.
 
 <sub>IMAGE COMING SOON: the exposed fuse box.</sub>
 
-Layouts are similar across FG models and years, but not identical. To check your layout, use any of these:
+### F4. ROUTE THE WIRES
 
-- The label inside the fuse box lid
-- The fuse chart in your owner's manual
-- Google your Ford model and year with "fuse box"
-- I've collected some common layouts here: [fuse box layouts](build-it.md#fuse-box-layouts)
+1. Pop off the two plastic panels on the driver's side of the centre console, below the slot. Use a trim tool, or pull firmly from the corners.
+    
+    <sub>IMAGE COMING SOON: removing the console panels.</sub>
+    
+2. Run BATTERY and ACC down behind the panels, then behind the steering column to the fuse box, so nothing shows.
+3. Leave the panels off until you've tested in step 7.
 
-Pick one fuse that's always on (for BATTERY) and one that's on with the key only (for ACC). Stay away from anything airbag, ABS, engine or fuel pump.
+<sub>IMAGE COMING SOON: the wires routed to the fuse box.</sub>
+
+### F5. PICK YOUR FUSES AND CONNECT THE TAPS
+
+1. Find your layout. It's usually printed inside the fuse box lid, and it's always in the owner's manual. Stuck? See the fuse box layouts.
+2. Pick two fuses for non-critical accessories, like interior lights, the radio or the power outlets: one **always on** for BATTERY, one **on with the key only** for ACC.
+    
+    > [!WARNING]
+    Never put ACC on an always-on fuse, or the unit never switches off and flattens your battery. Never tap airbag (SRS), ABS, engine (PCM) or fuel pump fuses.
+    > 
+3. Pull out each fuse you picked. Put it in its tap's lower slot, exactly as it was, and never swap it for a bigger one.
+4. Put a new fuse in the tap's upper slot. Never bigger than the head unit's own fuse (on the back of the unit, or on its wiring plug).
+5. Push the ALWAYS ON tap into the always-on fuse's slot, and the KEY ON tap into the key-on fuse's slot.
+
+<sub>IMAGE COMING SOON: fuse taps installed in the fuse box, labelled ALWAYS ON and KEY ON.</sub>
 
 > [!TIP]
-> New to fuse taps? It's the same method as hardwiring a dash cam, tapping into your car's power without cutting any cables. *I watched these videos to learn how to do it. I have no electrical or mechanical experience. It's super easy, needs no special tools and is really cheap!*
->
-> - [Fitting a fuse tap (dash cam hardwire)](https://www.youtube.com/watch?v=Hj4f70pEXC4)
-> - [Fuse tap walkthrough](https://www.youtube.com/watch?v=K2iKXj82354&t=258s)
+New to fuse taps? It's the same method as fitting a dash cam, tapping into your car's power without cutting any cables. *I watched these videos to learn how to do it. I have no electrical or mechanical experience. It's super easy, needs no special tools and is really cheap!*
+> 
+> - Fitting a fuse tap (dash cam)
+> - Fuse tap walkthrough
 
-### H5. FIT THE FUSE TAPS
-
-1. Pull out the original fuse. Put it in the tap's lower slot and the new fuse in the upper slot.
-2. Push the ALWAYS ON tap into the always-on fuse's slot, and the KEY ON tap into the key-on fuse's slot.
-
-<sub>IMAGE COMING SOON: fuse taps installed in fuse boc.</sub>
-
-### H6. FINISH
-
-Go back to [step 5](#5-plug-in). The power lead is already in, so plug in the audio cable and antenna, and skip the cigarette plug.
+Your power plug is now grounded, connected to the fuse box and waiting in the slot. The hard part is done! Continue to step 4, where you plug everything into the unit and secure it to the dash.
 
 ---
 
-**KALTEC · CC BY-SA 4.0 · [github.com/kalteclabs/fg-falcon-carplay-unit](https://github.com/kalteclabs/fg-falcon-carplay-unit)**
+**KALTEC · CC BY-SA 4.0 · github.com/kalteclabs/fg-falcon-carplay-unit**
 
-This guide and its photos are free to share and adapt under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/): credit KALTEC with a link to this repo, and share your changes under the same licence. The bracket design is free to build, change and sell under [CERN-OHL-S-2.0](../LICENSE).
+This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo, and share your changes under the same licence. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
