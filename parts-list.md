@@ -88,7 +88,7 @@ Nothing in the car gets cut or spliced, Instead we extend the head unit's two po
 - Optional: a multimeter or test light
 **You'll also need** a KALTEC bracket, or a 3D printer + PETG or ASA filament to print your own.
 
-Once you have all the items needed,** star this repo** and fit the unit in your Falcon with the [install guide](install-guide.md).
+Once you have all the items needed, **star this repo** and fit the unit in your Falcon with the [install guide](install-guide.md).
 
 ---
 
