@@ -6,7 +6,7 @@
 
 ---
 
-## THERE ARE TWO WAYS TO POWER THE CARPLAY HEAD UNIT
+### THERE ARE TWO WAYS TO POWER THE CARPLAY HEAD UNIT
 
 **Power with the cigarette lighter (about 10 minutes):** the easiest way. Plug the unit into the cigarette lighter and have a full plug-and-play setup within minutes. *It's easily removable as well, just don't throw out your tissue box!*
 
@@ -17,7 +17,7 @@
 <sub>IMAGE COMING SOON: head unit with fuse box setup.</sub>
 
 > [!TIP]
-> If you buy a KALTEC kit (coming late November), everything is provided, so you just pop your old tray out and plug this in. Otherwise, the DIY setup only needs a power lead, the 3D printed bracket (file provided) and your head unit of choice. Follow the steps below to get up and running.
+> If you buy a KALTEC kit, everything is provided, so you just pop your old tray out and plug this in. Otherwise, the DIY setup needs a power lead, the 3D printed bracket (file provided) and your head unit of choice. Follow the steps below to get up and running.
 
 ---
 
@@ -26,7 +26,7 @@
 Everything needed is in the [parts list](parts-list.md#parts).
 
 - [ ] The bracket to replace the tissue box, 3D print file _provided free from KALTEC_
-- [ ] A single-DIN head unit, standard size 18 × 5 cm, _any will work!_
+- [ ] A single-DIN head unit, _any will work!_
 - [ ] An RCA to 3.5 mm audio cable
 
 Either:
@@ -49,37 +49,37 @@ No tools needed. Grip the bottom lip and pull it firmly towards you. It's held b
 
 ## 2. PUT THE CLIPS ON THE BRACKET
 
-Slide the two yellow plastic clips off the tissue box and onto the bracket's two tabs, one on each. KALTEC brackets come with the clips already fitted.
+> [!TIP]
+> Skip this step if you got a pre-made bracket or kit, as KALTEC brackets come with the clips already fitted
 
-> [!NOTE]
-> The clips are fragile when you flex them off the tissue box. If one breaks, a 50 pack costs a few dollars: see the [parts list](parts-list.md#everyone).
+Slide the two yellow plastic clips off the tissue box and onto the bracket's two tabs, one on each. 
+_The clips are fragile when you flex them off the tissue box. If one breaks, a 50 pack costs a few dollars: see the [parts list](parts-list.md#everyone)._
 
 <sub>IMAGE COMING SOON: clips on the bracket tabs.</sub>
 
 ---
 
 ## 3. MAKE THE CIGARETTE POWER LEAD
+If you're powering the unit via the fuse box, skip this step and go to [FUSE BOX POWER](#fuse-box-power), then come back to [step 4](#4-plug-in).
 
 > [!IMPORTANT]
-> **Powering via the fuse box?** Skip this step and go to [FUSE BOX POWER](#fuse-box-power), then come back to [step 4](#4-plug-in).
->
-> **Bought a ready-made lead from KALTEC?** Skip this step, connect your power cable and go straight to [step 4](#4-plug-in).
+> **Got a kit from KALTEC?** Skip this step, connect your power cable and go straight to [step 4](#4-plug-in).
 
 Build the power lead before you install the head unit. You're joining the head unit's wiring plug to a cigarette plug lead. It's only three wires.
-
-> [!NOTE]
-> Go by the **label** on the wire or in your manual, because colours change between head units.
 
 1. Join **BATTERY / B+** (usually yellow) and **ACC** (usually red) together. These are the two power wires from your head unit's power plug.
 2. Connect the joined wires to the cigarette plug's **red (+)** wire.
 
-   <sub>IMAGE COMING SOON: both wires from the head unit joined, then connected to the cigarette plug's positive.</sub>
+      <sub>IMAGE COMING SOON: both wires from the head unit joined, then connected to the cigarette plug's positive.</sub>
 
-3. Join the head unit's **GND** (the thick black wire) to the cigarette plug's **black (−)** wire. A second, thinner black wire labelled **KEY-GND** is for steering wheel controls, not ground.
+> [!NOTE]
+> Go by the **label** on the wire or in your manual, because colours change between head units.
+
+4. Join the head unit's **GND** (the thick black wire) to the cigarette plug's **black (−)** wire. A second, thinner black wire labelled **KEY-GND** is for steering wheel controls, not ground.
 
    <sub>IMAGE COMING SOON: the two ground wires joined together.</sub>
 
-4. Tape off every other wire, each one on its own. They aren't used.
+5. Tape off every other wire, each one on its own. They aren't used.
 
 **How to join two wires:** slide heat-shrink onto one wire, strip about 1 cm off both ends, twist them together tightly, then slide the heat-shrink over the join and shrink it.
 
@@ -90,9 +90,6 @@ Now plug the cigarette plug into the outlet under the slot, so it's ready for th
 ---
 
 ## 4. PLUG IN
-
-> [!IMPORTANT]
-> Plug everything into the back of the head unit **now**. Once the bracket is in, the back of the unit is hard to reach. It pops back out easily if you do forget anything!
 
 1. Plug the audio cable into the red and white RCA outs (**L-OUT / R-OUT**, not MIC IN), and the other end into the car's AUX. *Most Falcons have the AUX right next to the cigarette lighter.*
 2. If your head unit came with a reverse camera or radio antenna, plug them in.
