@@ -61,7 +61,8 @@ The easy one. A cigarette plug lead joins to the head unit's power plug and plug
 
 ### FUSE BOX POWER
 
-Hides the cables by taking power from the fuse box. Nothing in the car gets cut. You extend the head unit's two power wires to reach the fuse box, then push the fuse taps into place.
+Hides the cables by taking power from the fuse box. 
+This method also does not require any tapping into the Falcons own wiring or power, Instead we extend the head unit's two power wires to reach the fuse box, then connect and push the fuse taps into place, once we've identified which ones to tap into.
 
 | Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
@@ -78,6 +79,8 @@ Hides the cables by taking power from the fuse box. Nothing in the car gets cut.
 | Spare power harness | $4. A spare copy of the head unit's power plug, incase you need a new one. The provided link is for genenic chinese head unit power cables. | [AliExpress](https://www.aliexpress.com/item/1005006782766797.html) | 'Car stereo ISO cable male' · 'ISO wiring harness male plug' |
 | UV clear coat | $28. If your windows aren't tinted to ensures minimal warping over extended time in the heat.| [Supercheap](https://www.supercheapauto.com.au/p/mtn-mtn-pro-high-heat-clear-coat-400ml-spray-paint/688225.html) | 'UV clear coat spray' · 'High heat clear coat' |
 
+---
+
 ### TOOLS
 
 - Wire strippers
@@ -90,18 +93,12 @@ Hides the cables by taking power from the fuse box. Nothing in the car gets cut.
 
 ---
 
-## FUSE BOX LAYOUT
-
-> [!NOTE]
-> **Using the cigarette lighter?** You can skip this whole section.
-
-Reference only. The steps for finding your fuses and fitting the taps are in the [install guide](install-guide.md#f5-pick-your-fuses-and-connect-the-taps).
+### FUSE BOX LAYOUT
+**If you're powering the unit via the cigarette port, you can skip this.** 
+The steps for finding your fuses and fitting the taps are in the [install guide](install-guide.md#f5-pick-your-fuses-and-connect-the-taps).
 
 Layouts are similar across FG models and years, but not identical. Always check your own car first: the layout is usually printed inside the fuse box lid, or check the owner's manual.
-
-<sub>IMAGE COMING SOON: fuse layout printed on the inside of the lid.</sub>
-
-If you cant find yours ive made a basic layout that suites most FG falcons, The highlighted fuses are good ones to tap.
+**If you cant find yours ive made a basic layout that suites most FG falcons,** The highlighted fuses are good ones to tap.
 
 <sub>IMAGE COMING SOON: general FG fuse box layout, redrawn in KALTEC style, with a good always-on fuse and a good key-on fuse highlighted.</sub>
 
@@ -118,10 +115,14 @@ If you cant find yours ive made a basic layout that suites most FG falcons, The 
 - **Fuse box:** fuse taps go in one way round. Pull the tap out, flip it around and push it back in. Also check the tapped fuse is live with a meter, and that the ground bolt is tight.
 - Unit turns on, then cuts out by itself? The blue **ANT** wire may be touching power. Tape it off on its own.
 
+---
+
 ### LOSES THE CLOCK AND SETTINGS WHEN THE CAR TURNS OFF
 
 - **Plug-in:** that's normal. BATTERY and ACC are joined, so the unit starts fresh each time. Use the [fuse box route](install-guide.md#fuse-box-power) if you want them kept.
 - **Fuse box:** BATTERY (yellow) and ACC (red) are swapped, or both are on key-on fuses. BATTERY must go on an **always-on** fuse.
+
+---
 
 ### NO SOUND
 
@@ -129,11 +130,15 @@ If you cant find yours ive made a basic layout that suites most FG falcons, The 
 - The factory stereo isn't on AUX. Press <kbd>MEDIA</kbd> until it shows AUX.
 - Check the cable is pushed fully into the AUX port, and turn up the volume on the head unit as well as the car.
 
+---
+
 ### FLAT BATTERY, OR THE UNIT STAYS ON WITH THE KEY OUT
 
 - **Fuse box:** ACC (red) is on an always-on fuse. Move it to a key-on fuse. Key off, the unit must switch off.
 - **Plug-in:** if your cigarette lighter stays live with the key out, purchase a cig plug with a ON/OFF switch, or use the [fuse box route](install-guide.md#fuse-box-power).
 <sub>IMAGE COMING SOON: cig lighter plug with switch </sub>
+
+---
 
 ### BRACKET IS LOOSE OR THE CLIPS WON'T SEAT
 
@@ -143,6 +148,8 @@ If you cant find yours ive made a basic layout that suites most FG falcons, The 
 - Sometimes the console edges might interfere with the bracket, you might need to flex them with your hands to secure the unit
 <sub>IMAGE COMING SOON: the plastic sides of the console slot higlighted </sub>
 
+---
+
 ### HEAD UNIT IS TOO TIGHT OR TOO TALL FOR THE BRACKET
 
 - Take off the metal sleeve if your unit came with one. It isn't used.
@@ -151,12 +158,16 @@ If you cant find yours ive made a basic layout that suites most FG falcons, The 
 - Unit too **loose** instead? Add thin inserts or tape inside the bracket so it fits tight.
 - Odd-sized unit? Adjust the STL to fit your size, as long as the power out is the same, this will work for any unit!
 
+---
+
 ### CARPLAY WON'T CONNECT
 
 - **Wired:** use a good data cable (some cheap ones only charge), plugged into the unit's USB port.
 - **Wireless:** Bluetooth and Wi-Fi both on. Forget the car on your phone and pair again.
 - Check CarPlay is allowed on your phone: Settings → General → CarPlay.
 - Restart the head unit: key off, wait 10 seconds, key on.
+
+---
 
 ### NO RADIO ON THE HEAD UNIT
 
