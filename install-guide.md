@@ -15,17 +15,17 @@ Parts list, 3D Print file for the custom bracket, and step-by-step guides all pr
 
 <sub>IMAGE COMING SOON: head unit with fuse box setup.</sub>
 
+if you buy a KALTEC Kit, everything will be provided so you can just pop your old tray out and plug this in, otherwise the DIY setup only requires the power wire, 3d printed bracket (file provided), and your head unit of choice! follow the steps below to get up and running.
+
 ## YOU NEED
 
 Everything needed is in the parts list.
 
-- [ ]  The bracket to replace the tissue box, 3D print file free from KALTEC
-- [ ]  A single-DIN head unit, standard size 18 × 5 cm
+- [ ]  The bracket to replace the tissue box, 3D print file _provided free from KALTEC_
+- [ ]  A single-DIN head unit, standard size 18 × 5 cm, _any will work!_
 - [ ]  An RCA to 3.5 mm audio cable
-- [ ]  Heat-shrink and electrical tape, if you're making your own lead
-
+      
 Either:
-
 - [ ]  **Cigarette lighter power:** a cigarette male plug lead
 - [ ]  **Fuse box power:** 2 mini blade fuse taps, about 2 m of extra wire, and a socket for the ground bolt
 
@@ -49,25 +49,24 @@ The clips are fragile when you flex them off the tissue box. If one breaks, a 50
 
 <sub>IMAGE COMING SOON: clips on the bracket tabs.</sub>
 
-## 3. MAKE THE POWER LEAD
-
-Build the power lead before you install the head unit. if you powering via fuse box skip this step and go to FUSE BOX POWER, then come back to step 4.
+## 3. MAKE THE CIGARETTE POWER LEAD
 
 > [!IMPORTANT]
 > 
 > 
-> **Bought a ready-made cigarette lead from KALTEC?** connect your power cable and go straight to step 4.
-> 
+> **Bought a ready-made lead from KALTEC?** skip this step, connect your power cable and go straight to step 4.
+>
 
+Build the power lead before you install the head unit. if you powering via fuse box skip this step and go to FUSE BOX POWER, then come back to step 4.
 You're joining the head unit's wiring plug to a cigarette plug lead. It's only three wires.
 
-> [!NOTE]
-Go by the **label** on the wire or in your manual, because colours change between head units.
-> 
 1. Join **BATTERY / B+** (usually yellow) and **ACC** (usually red) together. These are the two power wires from your head unit's power plug.
 2. Connect the joined wires to the cigarette plug's **red (+)** wire.
     
     <sub>IMAGE COMING SOON: both wires from the head unit joined, then connected to the cigarette plug's positive.</sub>
+> [!NOTE]
+Go by the **label** on the wire or in your manual, because colours change between head units.
+> 
     
 3. Join the head unit's **GND** (the thick black wire) to the cigarette plug's **black (−)** wire. A second, thinner black wire labelled **KEY-GND** is for steering wheel controls, not ground.
     
@@ -173,10 +172,9 @@ It's under the dash in the driver's footwell, to the right of the steering colum
 
 1. Find your layout. It's usually printed inside the fuse box lid, and it's always in the owner's manual. Stuck? See the fuse box layouts.
 2. Pick two fuses for non-critical accessories, like interior lights, the radio or the power outlets: one **always on** for BATTERY, one **on with the key only** for ACC.
-    
-    > [!WARNING]
-    Never put ACC on an always-on fuse, or the unit never switches off and flattens your battery. Never tap airbag (SRS), ABS, engine (PCM) or fuel pump fuses.
-    > 
+> [!TIP]
+Never put ACC on an always-on fuse, or the unit never switches off and flattens your battery. Dont tap airbag (SRS), ABS, engine (PCM) or fuel pump fuses.
+> 
 3. Pull out each fuse you picked. Put it in its tap's lower slot, exactly as it was, and never swap it for a bigger one.
 4. Put a new fuse in the tap's upper slot. Never bigger than the head unit's own fuse (on the back of the unit, or on its wiring plug).
 5. Push the ALWAYS ON tap into the always-on fuse's slot, and the KEY ON tap into the key-on fuse's slot.
