@@ -2,15 +2,17 @@
 
 FG FALCON SINGLE-DIN Head Unit Parts List v1.0 by KALTEC
 
-## Parts list for FG and FG MkII FALCON. Every link, price and item you need to build your Falcon unit as cheaply and easily as possible, all provided free by KALTEC.
+### Parts list for FG and FG MkII FALCON. Every link, price and item you need to build your Falcon unit as cheaply and easily as possible, all provided free by KALTEC. 
 
 **Jump to:** · [Parts](#parts) · [Fuse box layouts](#fuse-box-layouts) · [Common issues](#common-issues)
 
-<br>
+---
 
 ## FREE BRACKET 3D PRINT FILE
+### This replaces your tissue box (the tray in the dash), with no screws required!
 
-This replaces your tissue box (the tray in the dash), with no screws required!
+> [!TIP]
+> Don't have a 3D printer? KALTEC brackets and full kits are coming late November, to make this build as easy as possible.
 
 <sub>IMAGE COMING SOON: 3D render of the bracket.</sub>
 
@@ -18,9 +20,6 @@ This replaces your tissue box (the tray in the dash), with no screws required!
 
 Print in **PETG or ASA, never PLA**, 
 If your car sits in the sun, a UV clear coat protects the print, see [Optional Parts](#optional)
-
-> [!TIP]
-> Don't have a 3D printer? KALTEC brackets and full kits are coming late November, to make this build as easy as possible.
 
 To build the head unit yourself with wiring costs about **A$65–75**, and most of that price is the head unit itself (about $50).
 
@@ -46,10 +45,10 @@ Any CarPlay head unit works, as long as it's **single DIN**: the standard 18 × 
 
 | Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
-| Single-DIN head unit | $50. Any single-DIN unit works. Depending on the one you buy, it might come with an antenna, a reverse camera or an external GPS module. These all plug into the back of the unit and get tucked away behind it | AliExpress: use the search terms | 'Single din head unit' · 'Single din CarPlay' |
+| Single-DIN head unit | $50. Any single-DIN unit works. Depending on the one you buy, it might come with an antenna, a reverse camera or an external GPS module. These all plug into the back of the unit and get tucked away behind it | AliExpress | 'Single din head unit' · 'Single din CarPlay' |
 | 2 plastic Ford interior clips (HE08) | $4 for a 50 pack. Reuse the pair off your tissue box. Only buy these if yours break, which happens a lot on older Falcons. KALTEC brackets come with spare clips | AliExpress | 'HE08 clips' · 'Ford interior trim clips' |
 | Audio cable, 2× RCA to 3.5 mm | $4. Carries the sound from the head unit's RCA outs into the Falcon's AUX port, so it plays through the factory speakers. The factory stereo switches to AUX by itself every time you start the car | AliExpress · Bunnings | 'RCA to 3.5 mm' · 'RCA to AUX cable' |
-| Heat-shrink and electrical tape | $5. For joining wires and taping off the ones you don't use | Any | 'Heat shrink tubing kit' |
+
 
 ### PLUG-IN POWER (CIGARETTE LIGHTER)
 
@@ -113,9 +112,6 @@ This layout suits most FG and FG MkII Falcons. The highlighted fuses are good on
 
 ## COMMON ISSUES
 
-> [!WARNING]
-> **Anything hot, smoking or smelling burnt: unplug it straight away.** Don't reconnect until you've found the cause.
-
 ### NO POWER
 
 - **Both** BATTERY (yellow) and ACC (red) need power for the unit to turn on. Check both joins.
@@ -135,18 +131,20 @@ This layout suits most FG and FG MkII Falcons. The highlighted fuses are good on
 - The audio cable is in **MIC IN** instead of the RCA outs. Move it to **L-OUT / R-OUT** (red and white).
 - The factory stereo isn't on AUX. Press <kbd>MEDIA</kbd> until it shows AUX.
 - Check the cable is pushed fully into the AUX port, and turn up the volume on the head unit as well as the car.
-- Unit has a 3.5 mm LINE OUT instead of RCA? You need a 3.5 mm to 3.5 mm cable, not the RCA one.
 
 ### FLAT BATTERY, OR THE UNIT STAYS ON WITH THE KEY OUT
 
 - **Fuse box:** ACC (red) is on an always-on fuse. Move it to a key-on fuse. Key off, the unit must switch off.
-- **Plug-in:** if your cigarette lighter stays live with the key out, unplug the lead when you leave the car, or use the fuse box route.
+- **Plug-in:** if your cigarette lighter stays live with the key out, purchase a cig plug with a ON/OFF switch, or use the fuse box route.
+<sub>IMAGE COMING SOON: cig lighter plug with switch </sub>
 
 ### BRACKET IS LOOSE OR THE CLIPS WON'T SEAT
 
 - Check both clips are pushed all the way onto the tabs. Cracked or worn clips? Replace them, they're cheap (parts).
 - Wiring bunched up behind the unit can push the bracket out. Tuck it to the sides so nothing gets pinched.
 - Push the bracket in evenly, both sides at once, until both clips click.
+- Sometimes the console edges might interfere with the bracket, you might need to flex them with your hands to secure the unit
+<sub>IMAGE COMING SOON: the plastic sides of the console slot higlighted </sub>
 
 ### HEAD UNIT IS TOO TIGHT OR TOO TALL FOR THE BRACKET
 
@@ -154,7 +152,7 @@ This layout suits most FG and FG MkII Falcons. The highlighted fuses are good on
 - Make sure you've printed the latest STL from Releases, at 100% scale.
 - Lightly sand the ridges inside the bracket, evenly on both sides, until it presses in.
 - Unit too **loose** instead? Add thin inserts or tape inside the bracket so it fits tight.
-- Odd-sized unit? Open an issue with the unit's name and measurements.
+- Odd-sized unit? Adjust the STL to fit your size, as long as the power out is the same, this will work for any unit!
 
 ### CARPLAY WON'T CONNECT
 
@@ -168,10 +166,6 @@ This layout suits most FG and FG MkII Falcons. The highlighted fuses are good on
 - The head unit needs its own antenna plugged into the **ANT** socket on the back. The Falcon's antenna stays on the factory stereo. Search AliExpress for 'car radio antenna stick on' if yours didn't come with one.
 - The blue **ANT** wire is not the antenna. Keep it taped off.
 - Don't need it? The factory radio still works as normal.
-
----
-
-**Next:** fit it with the install guide.
 
 ---
 
