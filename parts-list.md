@@ -4,7 +4,7 @@ FG FALCON SINGLE-DIN Head Unit Parts List v1.0 by KALTEC
 
 ### Parts list for FG and FG MkII FALCON. Every link, price and item you need to build your Falcon unit as cheaply and easily as possible, all provided free by KALTEC. 
 
-**Jump to:** [Parts](#parts) · [Fuse box layouts](#fuse-box-layouts) · [Common issues](#common-issues)
+**Jump to:** [Parts](#parts) · [Fuse box layout](#fuse-box-layout) · [Troubleshooting](#troubleshooting)
 
 ---
 
@@ -94,10 +94,10 @@ This method also does not require any tapping into the Falcons own wiring or pow
 ---
 
 ### FUSE BOX LAYOUT
-**If you're powering the unit via the cigarette port, you can skip this.** 
-The steps for finding your fuses and fitting the taps are in the [install guide](install-guide.md#f5-pick-your-fuses-and-connect-the-taps).
+**If you're powering the unit via the cigarette port, you can skip this.** The steps for finding your fuses are in the [install guide](install-guide.md#f5-pick-your-fuses-and-connect-the-taps).
 
 Layouts are similar across FG models and years, but not identical. Always check your own car first: the layout is usually printed inside the fuse box lid, or check the owner's manual.
+
 **If you cant find yours ive made a basic layout that suites most FG falcons,** The highlighted fuses are good ones to tap.
 
 <sub>IMAGE COMING SOON: general FG fuse box layout, redrawn in KALTEC style, with a good always-on fuse and a good key-on fuse highlighted.</sub>
