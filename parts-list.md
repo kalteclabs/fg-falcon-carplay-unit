@@ -12,15 +12,15 @@ FG FALCON SINGLE-DIN Head Unit Parts List v1.0 by KALTEC
 ### This replaces your tissue box (the tray in the dash), with no screws required!
 
 > [!TIP]
-> Don't have a 3D printer? KALTEC brackets and full kits are coming late November, to make this build as easy as possible stick around!
+> Don't have a 3D printer? KALTEC brackets and full kits are coming late November, to make this build as easy as possible, stick around!
 
 <sub>IMAGE COMING SOON: 3D render of the bracket.</sub>
 
 **The bracket is provided free by KALTEC.** Download the 3D print file from the bracket page and print it. The right print settings are included with the STL.
 
-Print in **PETG or ASA**, if your car sits in the sun or has no tint, ensure the bracked is protected with UV clear coat. see [Optional Parts](#optional)
+Print in **PETG or ASA**, if your car sits in the sun or has no tint, ensure the bracket is protected with UV clear coat. see [Optional Parts](#optional)
 
-To build this yourself it costs about **A$65–75**, and most of that price is the head unit itself (about $50).
+Building this yourself costs about **A$65–75**, and most of that price is the head unit itself (about $50).
 
 **Whether you power it from the cigarette lighter or the fuse box, every other part is a few dollars each, and the bracket is free.**
 
@@ -29,7 +29,7 @@ To build this yourself it costs about **A$65–75**, and most of that price is t
 ## PARTS
 
 Images coming soon. Prices are in AUD. The links are the exact parts I used, but listings change and sellers come and go. copy the **search term** into AliExpress and pick the cheapest seller with good reviews.
-_Most links are AliExpress, its the cheapest supplier. But i've also added some Supercheap Auto or Bunnings links so you can grab items the same day._
+_Most links are AliExpress, it's the cheapest supplier. But i've also added some Supercheap Auto or Bunnings links so you can grab items the same day._
 
 ### BEFORE YOU BUY A HEAD UNIT
 
@@ -62,13 +62,13 @@ The easy one. A cigarette plug lead joins to the head unit's power plug and plug
 ### FUSE BOX POWER
 
 Hides the cables by taking power from the fuse box. 
-This method also does not require any tapping into the Falcons own wiring or power, Instead we extend the head unit's two power wires to reach the fuse box, then connect and push the fuse taps into place, once we've identified which ones to tap into.
+Nothing in the car gets cut or spliced, Instead we extend the head unit's two power wires to reach the fuse box, then connect and push the fuse taps into place, once we've identified which ones to tap into.
 
 | Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
 | 2 fuse taps, mini blade | $5 for a 5 pack. A fuse tap holds the car's original fuse plus a second fuse for the head unit, so both get power from the same slot. It allows us to get power easily to the carplay unit without cutting into any wires. | [AliExpress](https://www.aliexpress.com/item/1005010560224519.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-add-a-circuit-twin-mini-fuse/726757.html) | 'Mini blade fuse tap' · 'Add a circuit mini' |
 | Mini blade fuses | $4 for a 6 pack. **Only needed if your fuse taps don't come with fuses** | [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-fuses-mini-blade-assorted-6-pack/726752.html) | 'Mini blade fuse' |
-| Wire | $10 for 3 meters, more than enough. Extends the head unit's power wires so they reach the fuse box | [AliExpress](https://www.aliexpress.com/item/1005009017260144.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-cable-single-core-15a-4mm-x-4m-blue/376702.html) | '0.75 mm² automotive wire' · '18 AWG automotive wire' |
+| Wire | $10 for 4 metres, more than enough. Extends the head unit's power wires so they reach the fuse box | [AliExpress](https://www.aliexpress.com/item/1005009017260144.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-cable-single-core-15a-4mm-x-4m-blue/376702.html) | '0.75 mm² automotive wire' · '18 AWG automotive wire' |
 
 **Fuse box total: about A$75**
 
@@ -77,7 +77,7 @@ This method also does not require any tapping into the Falcons own wiring or pow
 | Part | About | Where to buy | Search term |
 | --- | --- | --- | --- |
 | Spare power harness | $4. A spare copy of the head unit's power plug, incase you need a new one. The provided link is for genenic chinese head unit power cables. | [AliExpress](https://www.aliexpress.com/item/1005006782766797.html) | 'Car stereo ISO cable male' · 'ISO wiring harness male plug' |
-| UV clear coat | $28. If your windows aren't tinted to ensures minimal warping over extended time in the heat.| [Supercheap](https://www.supercheapauto.com.au/p/mtn-mtn-pro-high-heat-clear-coat-400ml-spray-paint/688225.html) | 'UV clear coat spray' · 'High heat clear coat' |
+| UV clear coat | $28. If your windows aren’t tinted, this protects the bracket from UV over time.| [Supercheap](https://www.supercheapauto.com.au/p/mtn-mtn-pro-high-heat-clear-coat-400ml-spray-paint/688225.html) | 'UV clear coat spray' · 'High heat clear coat' |
 
 ---
 
@@ -111,9 +111,9 @@ Layouts are similar across FG models and years, but not identical. Always check 
 - **Both** BATTERY (yellow) and ACC (red) need power for the unit to turn on. Check both joins.
 - GND goes on the **thick** black wire. A thin black **KEY-GND** wire is for steering wheel controls, not ground.
 - Check the fuse on the back of the head unit.
-- **Plug-in:** push the cig plug all the way in, and check the fuse in its tip (unscrew the ring). Test the outlet with a phone charger with the key on.
+- **Plug-in:** push the cig plug all the way in, and check the fuse in it's tip (unscrew the ring). Test the outlet with a phone charger with the key on.
 - **Fuse box:** fuse taps go in one way round. Pull the tap out, flip it around and push it back in. Also check the tapped fuse is live with a meter, and that the ground bolt is tight.
-- Unit turns on, then cuts out by itself? The blue **ANT** wire may be touching power. Tape it off on its own.
+- Unit turns on, then cuts out by itself? The blue **ANT** wire may be touching power. Tape it off on it's own.
 
 ---
 
@@ -142,7 +142,7 @@ Layouts are similar across FG models and years, but not identical. Always check 
 
 ### BRACKET IS LOOSE OR THE CLIPS WON'T SEAT
 
-- Check both clips are pushed all the way onto the tabs. Cracked or worn clips? Replace them, they're cheap (parts).
+- Check both clips are pushed all the way onto the tabs. Cracked or worn clips? Replace them, they're cheap ([parts](#everyone)).
 - Wiring bunched up behind the unit can push the bracket out. Tuck it to the sides so nothing gets pinched.
 - Push the bracket in evenly, both sides at once, until both clips click.
 - Sometimes the console edges might interfere with the bracket, you might need to flex them with your hands to secure the unit
@@ -171,12 +171,12 @@ Layouts are similar across FG models and years, but not identical. Always check 
 
 ### NO RADIO ON THE HEAD UNIT
 
-- The head unit needs its own [car radio antenna](https://www.aliexpress.com/item/1005005732812892.html) plugged into the **ANT** socket on the back. The Falcon's antenna stays on the factory stereo. Search AliExpress for 'car radio antenna stick on' if yours didn't come with one.
+- The head unit needs it's own [car radio antenna](https://www.aliexpress.com/item/1005005732812892.html) plugged into the **ANT** socket on the back. The Falcon's antenna stays on the factory stereo. Search AliExpress for 'car radio antenna stick on' if yours didn't come with one.
 - The blue **ANT** wire is not the antenna. Keep it taped off.
 - Don't need it? The factory radio still works as normal.
 
 ---
 
-**KALTEC · CC BY-SA 4.0 · github.com/kalteclabs/fg-falcon-carplay-unit**
+**KALTEC · CC BY-SA 4.0 · [github.com/kalteclabs/fg-falcon-carplay-unit](https://github.com/kalteclabs/fg-falcon-carplay-unit)**
 
-This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo, and share your changes under the same licence. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
+This guide and it's photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo, and share your changes under the same licence. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
