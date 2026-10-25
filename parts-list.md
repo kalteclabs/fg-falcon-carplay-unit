@@ -4,7 +4,7 @@ FG FALCON SINGLE-DIN Head Unit Parts List v1.0 by KALTEC
 
 ### Parts list for FG and FG MkII FALCON. Every link, price and item you need to build your Falcon unit as cheaply and easily as possible, all provided free by KALTEC. 
 
-**Jump to:** · [Parts](#parts) · [Fuse box layouts](#fuse-box-layouts) · [Common issues](#common-issues)
+**Jump to:** [Parts](#parts) · [Fuse box layouts](#fuse-box-layouts) · [Common issues](#common-issues)
 
 ---
 
@@ -46,8 +46,8 @@ Any CarPlay head unit works, as long as it's **single DIN**: the standard 18 × 
 | Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
 | Single-DIN head unit | $50. Any single-DIN unit works. Depending on the one you buy, it might come with an antenna, a reverse camera or an external GPS module. These all plug into the back of the unit and get tucked away behind it | AliExpress | 'Single din head unit' · 'Single din CarPlay' |
-| 2 plastic Ford interior clips (HE08) | $4 for a 50 pack. Reuse the pair off your tissue box. Only buy these if yours break, which happens a lot on older Falcons. KALTEC brackets come with spare clips | AliExpress | 'HE08 clips' · 'Ford interior trim clips' |
-| Audio cable, 2× RCA to 3.5 mm | $4. Carries the sound from the head unit's RCA outs into the Falcon's AUX port, so it plays through the factory speakers. The factory stereo switches to AUX by itself every time you start the car | AliExpress · Bunnings | 'RCA to 3.5 mm' · 'RCA to AUX cable' |
+| 2 plastic Ford interior clips (HE08) | $4 for a 50 pack. Reuse the pair off your tissue box. Only buy these if yours break, which happens a lot on older Falcons. KALTEC brackets come with spare clips | [AliExpress](https://www.aliexpress.com/item/32989988241.html) | 'HE08 clips' · 'Ford interior trim clips' |
+| Audio cable, 2× RCA to 3.5 mm | $4. Carries the sound from the head unit's RCA outs into the Falcon's AUX port, so it plays through the factory speakers. The factory stereo switches to AUX by itself every time you start the car | [AliExpress](https://www.aliexpress.com/item/1326108747.html) · [Bunnings](https://www.bunnings.com.au/antsig-1-5m-3-5mm-aux-to-rca-cable_p0286420) | 'RCA to 3.5 mm' · 'RCA to AUX cable' |
 
 
 ### PLUG-IN POWER (CIGARETTE LIGHTER)
@@ -56,7 +56,7 @@ The easy one. A cigarette plug lead joins to the head unit's power plug and plug
 
 | Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
-| Cigarette plug lead | $3 for 2. Plugs into the factory outlet under the tissue box slot. Get one with a **10 A fuse** in the tip (unscrew the ring to check), and never one bigger than the head unit's own fuse | AliExpress | 'Fused cigarette plug 10A' · 'Cigarette lighter male plug' |
+| Cigarette plug lead | $3 for 2. Plugs into the factory outlet under the tissue box slot. Get one with a **10 A fuse** in the tip (unscrew the ring to check), and never one bigger than the head unit's own fuse | [AliExpress](https://www.aliexpress.com/item/1005007145876029.html) | 'Fused cigarette plug 10A' · 'Cigarette lighter male plug' |
 
 **Plug-in total: about A$65**
 
@@ -66,9 +66,9 @@ Hides the cables by taking power from the fuse box. Nothing in the car gets cut.
 
 | Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
-| 2 fuse taps, mini blade | $5 for a 5 pack. A fuse tap slots into the fuse box in place of a fuse. It holds the car's original fuse plus a second fuse for the head unit, so both get power from the same slot. It pulls straight back out | AliExpress · Supercheap | 'Mini blade fuse tap' · 'Add a circuit mini' |
-| Mini blade fuses | $4 for a 6 pack. **Only needed if your fuse taps don't come with fuses** | Supercheap | 'Mini blade fuse' |
-| Wire | $10 for 3 meters, more than enough. Extends the head unit's power wires so they reach the fuse box | AliExpress · Supercheap | '0.75 mm² automotive wire' · '18 AWG automotive wire' |
+| 2 fuse taps, mini blade | $5 for a 5 pack. A fuse tap slots into the fuse box in place of a fuse. It holds the car's original fuse plus a second fuse for the head unit, so both get power from the same slot. It pulls straight back out | [AliExpress](https://www.aliexpress.com/item/1005010560224519.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-add-a-circuit-twin-mini-fuse/726757.html) | 'Mini blade fuse tap' · 'Add a circuit mini' |
+| Mini blade fuses | $4 for a 6 pack. **Only needed if your fuse taps don't come with fuses** | [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-fuses-mini-blade-assorted-6-pack/726752.html) | 'Mini blade fuse' |
+| Wire | $10 for 3 meters, more than enough. Extends the head unit's power wires so they reach the fuse box | [AliExpress](https://www.aliexpress.com/item/1005009017260144.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-cable-single-core-15a-4mm-x-4m-blue/376702.html) | '0.75 mm² automotive wire' · '18 AWG automotive wire' |
 
 **Fuse box total: about A$75**
 
@@ -76,8 +76,8 @@ Hides the cables by taking power from the fuse box. Nothing in the car gets cut.
 
 | Part | About | Where to buy | Search term |
 | --- | --- | --- | --- |
-| Spare power harness | $4. A spare copy of the head unit's power plug, so you can make both leads (plug-in and fuse box) and swap between them, or keep the original untouched. Must match your unit's plug | AliExpress | 'Car stereo ISO cable male' · 'ISO wiring harness male plug' |
-| UV clear coat | $28. If your windows aren't tinted, this protects the bracket from Australian summer heat and sun | Supercheap | 'UV clear coat spray' · 'High heat clear coat' |
+| Spare power harness | $4. A spare copy of the head unit's power plug, so you can make both leads (plug-in and fuse box) and swap between them, or keep the original untouched. Must match your unit's plug | [AliExpress](https://www.aliexpress.com/item/1005006782766797.html) | 'Car stereo ISO cable male' · 'ISO wiring harness male plug' |
+| UV clear coat | $28. If your windows aren't tinted, this protects the bracket from Australian summer heat and sun | [Supercheap](https://www.supercheapauto.com.au/p/mtn-mtn-pro-high-heat-clear-coat-400ml-spray-paint/688225.html) | 'UV clear coat spray' · 'High heat clear coat' |
 
 ### TOOLS
 
