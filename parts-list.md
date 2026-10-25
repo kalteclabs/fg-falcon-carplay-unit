@@ -12,7 +12,7 @@ FG FALCON SINGLE-DIN Head Unit Parts List v1.0 by KALTEC
 ### This replaces your tissue box (the tray in the dash), with no screws required!
 
 > [!TIP]
-> Don't have a 3D printer? KALTEC brackets and full kits are coming late November, to make this build as easy as possible.
+> Don't have a 3D printer? KALTEC brackets and full kits are coming late November, to make this build as easy as possible stick around!
 
 <sub>IMAGE COMING SOON: 3D render of the bracket.</sub>
 
@@ -21,7 +21,7 @@ FG FALCON SINGLE-DIN Head Unit Parts List v1.0 by KALTEC
 Print in **PETG or ASA, never PLA**, 
 If your car sits in the sun, a UV clear coat protects the print, see [Optional Parts](#optional)
 
-To build the head unit yourself with wiring costs about **A$65–75**, and most of that price is the head unit itself (about $50).
+To build this yourself it costs about **A$65–75**, and most of that price is the head unit itself (about $50).
 
 **Whether you power it from the cigarette lighter or the fuse box, every other part is a few dollars each, and the bracket is free.**
 
@@ -30,14 +30,14 @@ To build the head unit yourself with wiring costs about **A$65–75**, and most 
 ## PARTS
 
 Images coming soon. Prices are rough, in AUD, from October 2026. The links are the exact parts I used, but listings change and sellers come and go. copy the **search term** into AliExpress and pick the cheapest seller with good reviews.
-Most links are AliExpress, its the cheapest supplier. But i've also added Supercheap Auto or Bunnings links so you can grab items the same day.
+_Most links are AliExpress, its the cheapest supplier. But i've also added some Supercheap Auto or Bunnings links so you can grab items the same day._
 
 ### BEFORE YOU BUY A HEAD UNIT
 
 Any CarPlay head unit works, as long as it's **single DIN**: the standard 18 × 5 cm size, not double DIN.
 
 > [!NOTE]
-> Wireless CarPlay is worth the extra few dollars, but wired units work exactly the same for this project. I've bought and tested both!
+> Wireless CarPlay is worth the extra few dollars, but wired units work exactly the same for this project. _I've bought and tested both!_
 
 <sub>IMAGE COMING SOON: simplified 3D render of a single-DIN head unit, KALTEC style, with the 18 × 5 cm dimensions marked.</sub>
 
@@ -45,9 +45,9 @@ Any CarPlay head unit works, as long as it's **single DIN**: the standard 18 × 
 
 | Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
-| Single-DIN head unit | $50. Any single-DIN unit works. Depending on the one you buy, it might come with an antenna, a reverse camera or an external GPS module. These all plug into the back of the unit and get tucked away behind it | [AliExpress](https://www.aliexpress.com/item/1005007025889615.html) | 'Single din head unit' · 'Single din CarPlay' |
-| 2 plastic Ford interior clips (HE08) | $4 for a 50 pack. Reuse the pair off your tissue box. Only buy these if yours break, which happens a lot on older Falcons. KALTEC brackets come with spare clips | [AliExpress](https://www.aliexpress.com/item/32989988241.html) | 'HE08 clips' · 'Ford interior trim clips' |
-| Audio cable, 2× RCA to 3.5 mm | $4. Carries the sound from the head unit's RCA outs into the Falcon's AUX port, so it plays through the factory speakers. The factory stereo switches to AUX by itself every time you start the car | [AliExpress](https://www.aliexpress.com/item/1326108747.html) · [Bunnings](https://www.bunnings.com.au/antsig-1-5m-3-5mm-aux-to-rca-cable_p0286420) | 'RCA to 3.5 mm' · 'RCA to AUX cable' |
+| Single-DIN head unit | $50. Any single-DIN unit works. Depending on the one you buy, it might come with an antenna, a reverse camera or an external GPS module. | [AliExpress](https://www.aliexpress.com/item/1005007025889615.html) | 'Single din head unit' · 'Single din CarPlay' |
+| 2 plastic Ford interior clips | $4 for a 50 pack. Reuse the pair off your tissue box. Only buy these if yours break. KALTEC brackets and kits come with spare clips. | [AliExpress](https://www.aliexpress.com/item/32989988241.html) | 'HE08 clips' · 'Ford interior trim clips' |
+| Audio cable, 2× RCA to 3.5 mm | $4. Carries the sound from the head unit's RCA outs into the Falcon's AUX port, so it plays through the factory speakers. | [AliExpress](https://www.aliexpress.com/item/1326108747.html) · [Bunnings](https://www.bunnings.com.au/antsig-1-5m-3-5mm-aux-to-rca-cable_p0286420) | 'RCA to 3.5 mm' · 'RCA to AUX cable' |
 
 
 ### PLUG-IN POWER (CIGARETTE LIGHTER)
@@ -56,7 +56,7 @@ The easy one. A cigarette plug lead joins to the head unit's power plug and plug
 
 | Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
-| Cigarette plug lead | $3 for 2. Plugs into the factory outlet under the tissue box slot. Get one with a **10 A fuse** in the tip (unscrew the ring to check), and never one bigger than the head unit's own fuse | [AliExpress](https://www.aliexpress.com/item/1005007145876029.html) | 'Fused cigarette plug 10A' · 'Cigarette lighter male plug' |
+| Cigarette plug lead | $3 for 2. Plugs into the factory outlet under the tissue box slot. Get one with a **10 A fuse**. | [AliExpress](https://www.aliexpress.com/item/1005007145876029.html) | 'Fused cigarette plug 10A' · 'Cigarette lighter male plug' |
 
 **Plug-in total: about A$65**
 
