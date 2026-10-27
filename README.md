@@ -4,14 +4,15 @@
 
 ---
 
-KALTEC is providing a full install guide, and print files** for free**, so you can build it yourself for about A$65–75, or ready-made kits will be coming soon to plug and play if you'd rather not.
+KALTEC is providing a full install guide, and print files **for free**, so you can build it yourself for about A$65–75, or ready-made kits will be coming soon to plug and play if you'd rather not.
 
 ---
 
 START HERE
+add section, this is first thing people see so imagsd and engaging, then they decide their power type and click into the install guide then parts list, this part should inspire them to check the repo out and diy it, later when we have kits we will advertise them here also 
 
-- **[Parts list](parts-list.md):** everything needed for this project, with links and prices
 - **[Install guide](install-guide.md):** step by step. About 10 minutes on the cigarette lighter, or 30–45 minutes through the fuse box
+- **[Parts list](parts-list.md):** everything needed for this project, with links and prices
 - **[Troubleshooting](parts-list.md#troubleshooting):** fixes for common issues
 
 <sub>IMAGE COMING SOON: the finished head unit fitted in the Falcon dash.</sub>
