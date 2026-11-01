@@ -65,7 +65,7 @@ Nothing in the car gets cut or spliced, Instead we extend the head unit's two po
 | Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
 | 2 fuse taps, mini blade | $5 for a 5 pack. A fuse tap holds the car's original fuse plus a second fuse for the head unit, so both get power from the same slot. It allows us to get power easily to the carplay unit without cutting into any wires. | [AliExpress](https://www.aliexpress.com/item/1005010560224519.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-add-a-circuit-twin-mini-fuse/726757.html) | 'Mini blade fuse tap' · 'Add a circuit mini' |
-| Mini blade fuses | $4 for a 6 pack. **Only needed if your fuse taps don't come with fuses** | [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-fuses-mini-blade-assorted-6-pack/726752.html) | 'Mini blade fuse' |
+| Mini blade fuses: one **10A** and one **5A** | $4 for a 6 pack. One for each fuse tap: **10A** in the ALWAYS ON tap, **5A** in the KEY ON tap. Fuse taps often come with random values, so don't rely on those. This pack includes both. | [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-fuses-mini-blade-assorted-6-pack/726752.html) | 'Mini blade fuse 10A' · 'Mini blade fuse 5A' |
 | Wire | $10 for 4 metres, more than enough. Extends the head unit's power wires so they reach the fuse box | [AliExpress](https://www.aliexpress.com/item/1005009017260144.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-cable-single-core-15a-4mm-x-4m-blue/376702.html) | '0.75 mm² automotive wire' · '18 AWG automotive wire' |
 
 **Fuse box total: about A$75**

@@ -168,8 +168,8 @@ Your head unit comes with a power plug, and we only need 3 of its wires. The two
 Use the wiring plug that came with your head unit. Join wires the same way as in [step 3](#3-make-the-cigarette-power-lead).
 
 1. Join 1 m of wire to **BATTERY** and 1 m to **ACC**. Join about 20 cm to **GND**.
-2. Crimp a fuse tap onto the end of BATTERY and label it ALWAYS ON.
-3. Crimp the other fuse tap onto the end of ACC and label it KEY ON.
+2. Crimp a fuse tap onto the end of BATTERY and label it **ALWAYS ON – 10A**.
+3. Crimp the other fuse tap onto the end of ACC and label it **KEY ON – 5A**.
 4. Strip about 1 cm off the end of GND, or crimp on a ring terminal.
 5. Tape off every other wire, each one on its own, including the thin black KEY-GND if your unit has one.
 
@@ -215,7 +215,7 @@ It's under the dash in the driver's footwell, to the right of the steering colum
    > Never put ACC on an always-on fuse, or the unit never switches off and flattens your battery. Don't tap airbag (SRS), ABS, engine (PCM) or fuel pump fuses.
 
 3. Pull out each fuse you picked. Put it in its tap's lower slot, exactly as it was, and never swap it for a bigger one.
-4. Put a new fuse in the tap's upper slot. Never bigger than the head unit's own fuse (on the back of the unit, or on its wiring plug).
+4. Put a new fuse in each tap's upper slot: **10A** in the ALWAYS ON (BATTERY) tap, and **5A** in the KEY ON (ACC) tap. Don't use the fuses that came with your taps unless they're these values.
 5. Push the ALWAYS ON tap into the always-on fuse's slot, and the KEY ON tap into the key-on fuse's slot.
 
 <sub>IMAGE COMING SOON: fuse taps installed in the fuse box, labelled ALWAYS ON and KEY ON.</sub>
