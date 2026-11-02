@@ -53,7 +53,7 @@ The easy one. A cigarette plug lead joins to the head unit's power plug and plug
 
 | Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
-| Cigarette plug lead | $3 for 2. Plugs into the factory outlet under the tissue box slot. Get one with a **10 A fuse**. | [AliExpress](https://www.aliexpress.com/item/1005007145876029.html) | 'Fused cigarette plug 10A' · 'Cigarette lighter male plug' |
+| Cigarette plug lead | $3 for 2. Plugs into the factory outlet under the tissue box slot. Get one with a **10 A fuse** and wire that's **0.75 mm² or thicker**. | [AliExpress](https://www.aliexpress.com/item/1005007145876029.html) | 'Fused cigarette plug 10A' · 'Cigarette lighter male plug' |
 
 **Plug-in total: about A$65**
 
@@ -93,7 +93,7 @@ Once you have all the items needed, **star this repo** and fit the unit in your 
 ---
 
 ### FUSE BOX LAYOUT
-**If you're powering the unit via the cigarette port, you can skip this.** The steps for finding your fuses are in the [install guide](install-guide.md#f5-pick-your-fuses-and-connect-the-taps).
+**If you're powering the unit via the cigarette port, you can skip this.** The steps for finding your fuses are in the [install guide](install-guide.md#75-pick-your-fuses-and-connect-the-taps).
 
 Layouts are similar across FG models and years, but not identical. Always check your own car first: the layout is usually printed inside the fuse box lid, or check the owner's manual.
 
@@ -111,14 +111,14 @@ Layouts are similar across FG models and years, but not identical. Always check 
 - GND goes on the **thick** black wire. A thin black **KEY-GND** wire is for steering wheel controls, not ground.
 - Check the fuse on the back of the head unit.
 - **Plug-in:** push the cig plug all the way in, and check the fuse in it's tip (unscrew the ring). Test the outlet with a phone charger with the key on.
-- **Fuse box:** fuse taps go in one way round. Pull the tap out, flip it around and push it back in. Also check the tapped fuse is live with a meter, and that the ground bolt is tight.
+- **Fuse box:** check the tapped fuse is live with a meter, and that the ground bolt is tight.
 - Unit turns on, then cuts out by itself? The blue **ANT** wire may be touching power. Tape it off on it's own.
 
 ---
 
 ### LOSES THE CLOCK AND SETTINGS WHEN THE CAR TURNS OFF
 
-- **Plug-in:** that's normal. BATTERY and ACC are joined, so the unit starts fresh each time. Use the [fuse box route](install-guide.md#fuse-box-power) if you want them kept.
+- **Plug-in:** that's normal. BATTERY and ACC are joined, so the unit starts fresh each time. Use the [fuse box route](install-guide.md#7-fuse-box-power) if you want them kept.
 - **Fuse box:** BATTERY (yellow) and ACC (red) are swapped, or both are on key-on fuses. BATTERY must go on an **always-on** fuse.
 
 ---
@@ -134,7 +134,7 @@ Layouts are similar across FG models and years, but not identical. Always check 
 ### FLAT BATTERY, OR THE UNIT STAYS ON WITH THE KEY OUT
 
 - **Fuse box:** ACC (red) is on an always-on fuse. Move it to a key-on fuse. Key off, the unit must switch off.
-- **Plug-in:** if your cigarette lighter stays live with the key out, purchase a cig plug with an ON/OFF switch, or use the [fuse box route](install-guide.md#fuse-box-power).
+- **Plug-in:** if your cigarette lighter stays live with the key out, purchase a cig plug with an ON/OFF switch, or use the [fuse box route](install-guide.md#7-fuse-box-power).
 <sub>IMAGE COMING SOON: cig lighter plug with switch </sub>
 
 ---

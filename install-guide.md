@@ -32,7 +32,7 @@ Everything needed is in the [parts list](parts-list.md#parts).
 Either:
 
 - [ ] **Cigarette lighter power:** a cigarette male plug lead
-- [ ] **Fuse box power:** 2 mini blade fuse taps, about 2 m of extra wire, and a socket for the ground bolt
+- [ ] **Fuse box power:** 2 mini blade fuse taps, a 10A and a 5A mini blade fuse, about 2 m of extra wire, and a socket for the ground bolt
 
 ## 1. TAKE OUT THE TISSUE BOX
 
@@ -54,7 +54,7 @@ _The clips are fragile when you flex them off the tissue box. If one breaks, a 5
 <sub>IMAGE COMING SOON: clips on the bracket tabs.</sub>
 
 
-## 3 MAKE THE CIGARETTE POWER LEAD
+## 3. MAKE THE CIGARETTE POWER LEAD
 
 **If you're powering the unit via the fuse box**, skip this step and go to [step 7](#7-fuse-box-power). 
 
@@ -72,9 +72,9 @@ Use the power plug. It's the one with the red, yellow and black wires.
 ### 3.2 FIND YOUR THREE WIRES
 | Wire | Usually | Goes to |
 | --- | --- | --- |
-| BATTERY / B+ 12V | Yellow | A fuse that's **always on**. Keeps the clock and settings |
-| ACC | Red | A fuse that's **on with the key only**. Turns the unit on and off |
-| GND | Black (the thick one) | A bolt inside the tissue box slot |
+| BATTERY / B+ 12V | Yellow | The cigarette plug's **red (+)**, joined with ACC |
+| ACC | Red | The cigarette plug's **red (+)**, joined with BATTERY |
+| GND | Black (the thick one) | The cigarette plug's **black (−)** |
 
 > [!NOTE]
 > Go by the **label** in your manual, because colours change between head units. 
@@ -97,6 +97,8 @@ Twist the bare ends of BATTERY and ACC together tightly. So they can go to the s
 ### 3.4 CONNECT TO THE CIGARETTE PLUG LEAD
 Connect the twisted BATTERY + ACC to the cigarette plug's red (+) wire.
 Connect GND to the cigarette plug's black (−) wire.
+
+Unscrew the tip of the cigarette plug and check there's a **10A** fuse inside. If it's a different value, swap it for a 10A.
 <!-- images/install/03-7-connect-to-cig-lead.svg -->
 
 <sub>IMAGE COMING SOON: red and yellow joining the cig lead's red (+), black joining black (−).</sub>
@@ -144,14 +146,14 @@ Press the head unit into the bracket from the front until it sits flush. It's a 
 
 <sub>IMAGE COMING SOON: AUX selected on the factory stereo, with Spotify open.</sub>
 
-## **Done.** The head unit turns on and off with the key. Support the project by **starring this repo**!
+**Done.** The head unit turns on and off with the key. Support the project by **starring this repo**!
 
 ---
 
 ## 7. FUSE BOX POWER
 
 > [!TIP]
-> **Bought a ready-made fuse box lead from KALTEC?** Skip F1 and start at [F2](#f2-connect-the-ground).
+> **Bought a ready-made fuse box lead from KALTEC?** Skip 7.1 and start at [7.2](#72-connect-the-ground).
 
 Your head unit comes with a power plug, and we only need 3 of its wires. The two power wires get extended to reach the fuse box and plug into it with fuse taps. The ground wire goes to a bolt in the slot. Check your manual for the right wires. They're usually:
 
@@ -171,7 +173,7 @@ Use the wiring plug that came with your head unit. Join wires the same way as in
 2. Crimp a fuse tap onto the end of BATTERY and label it **ALWAYS ON – 10A**.
 3. Crimp the other fuse tap onto the end of ACC and label it **KEY ON – 5A**.
 4. Strip about 1 cm off the end of GND, or crimp on a ring terminal.
-5. Tape off every other wire, each one on its own, including the thin black KEY-GND if your unit has one.
+5. Cut every other wire on the power plug down and heat-shrink them. Ensure no wires touch.
 
 <sub>IMAGE COMING SOON: finished fuse box lead.</sub>
 
@@ -231,11 +233,6 @@ Your power plug is now grounded, connected to the fuse box and waiting in the sl
 ---
 
 **KALTEC · CC BY-SA 4.0 · [github.com/kalteclabs/fg-falcon-carplay-unit](https://github.com/kalteclabs/fg-falcon-carplay-unit)**
-
-This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
-
-FG FALCON SINGLE-DIN Head Unit Install Guide v1.1
-
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
