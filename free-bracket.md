@@ -21,9 +21,9 @@
 
 | File | Use it for |
 | --- | --- |
-| `kaltec-fg-bracket-v1.0.3mf` | **Start here.** Open in Bambu Studio or OrcaSlicer with my PETG settings already set. |
-| `kaltec-fg-bracket-v1.0.stl` | Plain model, for any slicer. Use the settings below. |
+| `kaltec-fg-bracket-v1.0.stl` | **Start here.** The model, for any slicer. Use the settings below. |
 | `kaltec-fg-bracket-v1.0.step` | The CAD file, for changing the design. |
+| `kaltec-fg-bracket-v1.0.3mf` | Coming soon: ready to print, with my settings already set. |
 
 > [!TIP]
 > Don't have a 3D printer? KALTEC brackets come with the clips already fitted. Kits are coming soon, stick around!
@@ -36,9 +36,9 @@ Print in **PETG or ASA**.
 
 | | PETG | ASA |
 | --- | --- | --- |
-| Good for | Most people, easy to print on any printer | The best finish, and it handles sun and heat best |
-| Printing | No enclosure needed | Needs an enclosed printer and good ventilation |
-| In the car | Fine. If your car sits in the sun or has no tint, give it a [UV clear coat](parts-list.md#optional) | Ready as is |
+| Good for | Test fits, and daily use in a shaded cabin | The final bracket. The best finish, and it handles sun and heat best |
+| Printing | Easy on any printer, no enclosure needed | Needs an enclosed printer and good ventilation |
+| In the car | Softens at about 75–80 °C. If your car sits in the sun or has no tint, use ASA or give it a [UV clear coat](parts-list.md#optional) | Ready as is |
 
 > [!WARNING]
 > **Don't print it in PLA.** It softens in a hot car and the bracket sags.
@@ -47,39 +47,40 @@ Print in **PETG or ASA**.
 
 ## PRINT SETTINGS
 
-Using the 3MF? These are already set. Using the STL? Copy these.
+Tested on a Bambu Lab H2S with a 0.4 mm nozzle, sliced in Bambu Studio. Start from your printer's standard profile for the filament, then set these.
 
 | Setting | PETG | ASA |
 | --- | --- | --- |
-| Orientation | Face down, flat on the plate | ASA SETTINGS COMING SOON |
-| Supports | None | |
-| Brim | Auto (5 mm) | |
-| Nozzle | 0.4 mm | |
-| Layer height | 0.2 mm | |
-| Walls | 2 | |
-| Top / bottom layers | 5 / 3 | |
-| Infill | 15%, grid | |
-| Nozzle / bed temp | 255 °C / 70 °C | |
-| Plate | Textured PEI | |
-| Print time | TODO | |
-| Filament used | TODO g | |
+| Orientation | Front face (the lip you see in the car) flat on the bed | Same |
+| Supports | Off | Off |
+| Layer height | 0.2 mm | 0.2 mm |
+| Walls | 5 | 5 |
+| Top / bottom layers | 5 / 5 | 5 / 5 |
+| Infill | 40% gyroid | 40% gyroid |
+| Nozzle temp | Profile + 10 °C (250–255 °C) | Your ASA profile |
+| Part cooling fan | 30–40% | Your ASA profile's low setting |
+| Enclosure | Not needed | Chamber heat on, door shut |
+| Print time | TODO | TODO |
+| Filament used | TODO g | TODO g |
 
-The 3MF is set up for a **Bambu Lab H2S** with Generic PETG. On another printer, use its standard PETG profile with the settings above.
+No supports needed: everything rises straight up or leans less than 45°, and the KALTEC lettering is recessed. Footprint is 225 × 95.8 mm, 58 mm tall. **Print it at 100% scale.** Scaling it changes the fit for the head unit and the clips.
 
-**Print it at 100% scale.** Scaling it changes the fit for the head unit and the clips.
+> [!NOTE]
+> ASA settings are a starting point, I'm test printing them next. ASA shrinks more than PETG as it cools, so the fit can come out slightly tighter. Check the first print: the unit should push in by hand.
 
-<sub>IMAGE COMING SOON: the bracket on the print bed, in the right orientation.</sub>
+<sub>IMAGE COMING SOON: the bracket on the print bed, front face down.</sub>
 
 ---
 
 ## AFTER PRINTING
 
-1. Pull it off the plate and clean off any strings or brim.
-2. Slide the two plastic Ford interior clips off your tissue box onto the bracket's two tabs. Broken clips? They're cheap, see the [parts list](parts-list.md#everyone).
+1. Pull it off the plate and clean off any strings.
+2. Slide the two plastic Ford interior clips off your tissue box onto the bracket's two tabs at the top corners. Broken clips? They're cheap, see the [parts list](parts-list.md#everyone).
 3. Test fit the head unit before it goes in the car. It should press in firmly and stay put.
 
-**Too tight?** Take off any metal sleeve the unit came with, then lightly sand the ridges inside the bracket, evenly on both sides, until it presses in.
+**Too tight?** That's intended, sanding beats a wiggle. Take off any metal sleeve the unit came with, then sand the **ceiling ribs** inside the bracket a little at a time, then the floor ribs, until it pushes in by hand.
 **Too loose?** Add thin inserts or tape inside the bracket so it fits tight.
+**Painting or clear coating?** Mask the cutout, the ribs and the tabs first.
 
 <sub>IMAGE COMING SOON: clips fitted on the bracket tabs.</sub>
 
@@ -90,6 +91,8 @@ Ready? Fit it with the [install guide](install-guide.md).
 ## CHANGE IT
 
 Got an odd-sized head unit? Open the STEP file and adjust the bracket to suit. As long as it's single DIN, the rest of the build stays the same.
+
+As designed, the cutout is **179.0 × 52.62 mm**, for a **178 × 51.82 mm** head unit with its sleeve removed. Four ribs on the floor and four on the ceiling grip it top to bottom, with one rib on each side wall.
 
 The bracket design is free to build, change and sell under [CERN-OHL-S-2.0](LICENSE.md). If you share a changed version, credit KALTEC with a link to this repo and release it under the same licence.
 
