@@ -8,6 +8,10 @@
 
 <sub>IMAGE COMING SOON: the bracket in the car, with and without the head unit, side by side.</sub>
 
+
+> [!TIP]
+> Don't have a 3D printer? KALTEC brackets are coming soon, stick around! To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
+
 ---
 
 ## DOWNLOAD
@@ -23,7 +27,8 @@ Removing the tray and fitting the bracket is covered step by step in the [instal
 | **Printables** | Coming soon |
 | **MakerWorld** | Coming soon |
 
-**Other files:** [Download STL](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.stl) (any slicer) · [Download STEP](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.step) (CAD, to change the design)
+**Other files:** [Download STL](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.stl) · [Download STEP](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.step)
+
 
 > [!TIP]
 > Don't have a 3D printer? KALTEC brackets are coming soon, stick around! To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
@@ -46,7 +51,6 @@ Tested on a Bambu Lab H2S with a 0.4 mm nozzle. Start from your printer's standa
 | Part cooling fan | 30–40% | Your ASA profile's low setting |
 | Enclosure | Not needed | Chamber heat on, door shut |
 | Print time | N/A | N/A |
-| Filament used | N/A | N/A |
 
 No supports needed: everything rises straight up or leans less than 45°, and the KALTEC lettering is recessed. The footprint is 225 × 95.8 mm, 58 mm tall. **Print it at 100% scale.** Scaling it changes the fit for the head unit and the clips.
 
@@ -74,11 +78,11 @@ Print in **PETG or ASA**.
 
 ## FITMENT
 
-**Too tight?** That's intended. Take off any metal sleeve your unit came with, then lightly sand the small ridges inside the bracket, evenly on both sides, until the unit pushes in snug.
+**Too tight?** That's intended. Ensure the metal sleeve your unit came with is removed, then lightly sand the small ridges inside the 3D printed bracket, until the unit pushes in snug.
 
 **Too loose?** Add thin inserts or tape inside the bracket. The unit should be tight, with no wiggle.
 
-**Odd-sized head unit?** Open the STEP file and adjust the bracket to suit. As long as it's single DIN, the rest of the build stays the same. The bracket design is free to build, change and sell under [CERN-OHL-S-2.0](LICENSE.md). If you share a changed version, credit KALTEC with a link to this repo and release it under the same licence.
+**Odd-sized head unit?** Open the STEP file and adjust the bracket to suit. The bracket design is free to build, change and sell under [CERN-OHL-S-2.0](LICENSE.md). If you share a changed version, credit KALTEC with a link to this repo and release it under the same licence.
 
 Ready? Fit it with the [install guide](install-guide.md).
 
