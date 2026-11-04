@@ -14,7 +14,7 @@
 
 <sub>IMAGE COMING SOON: 3D render of the bracket.</sub>
 
-**The bracket is provided free by KALTEC.** Download the 3D print file from the bracket page and print it. The right print settings are included with the STL.
+**The bracket is provided free by KALTEC.** Download the 3D print file from the [free bracket page](free-bracket.md) and print it. The right print settings are included with the STL.
 
 Print in **PETG or ASA**, if your car sits in the sun or has no tint, ensure the bracket is protected with UV clear coat. see [Optional Parts](#optional)
 
@@ -152,10 +152,10 @@ Layouts are similar across FG models and years, but not identical. Always check 
 ### HEAD UNIT IS TOO TIGHT OR TOO TALL FOR THE BRACKET
 
 - Take off the metal sleeve if your unit came with one. It isn't used.
-- Make sure you've printed the latest STL from [Releases](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest), at 100% scale.
+- Make sure you've printed the latest STL from the [free bracket page](free-bracket.md#download), at 100% scale.
 - Lightly sand the ridges inside the bracket, evenly on both sides, until it presses in.
 - Unit too **loose** instead? Add thin inserts or tape inside the bracket so it fits tight.
-- Odd-sized unit? Adjust the STL to fit your size, as long as the power out is the same, this will work for any unit!
+- Odd-sized unit? Adjust the [STEP file](free-bracket.md#change-it) to fit your size, as long as the power out is the same, this will work for any unit!
 
 ---
 

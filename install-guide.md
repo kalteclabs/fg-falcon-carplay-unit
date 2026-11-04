@@ -17,7 +17,7 @@
 <sub>IMAGE COMING SOON: head unit with fuse box setup.</sub>
 
 > [!TIP]
-> If you buy a KALTEC kit, everything is provided, so you just pop your old tray out and plug this in. Otherwise, the DIY setup needs a power lead, the 3D printed bracket (file provided) and your head unit of choice. Follow the steps below to get up and running.
+> If you buy a KALTEC kit, everything is provided, so you just pop your old tray out and plug this in. Otherwise, the DIY setup needs a power lead, the 3D printed bracket ([file provided free](free-bracket.md)) and your head unit of choice. Follow the steps below to get up and running.
 
 ---
 
@@ -25,7 +25,7 @@
 
 Everything needed is in the [parts list](parts-list.md#parts).
 
-- [ ] The bracket to replace the tissue box, 3D print file _provided free from KALTEC_
+- [ ] The bracket to replace the tissue box, 3D print file _provided free from KALTEC_ on the [free bracket page](free-bracket.md)
 - [ ] A single-DIN head unit, _any will work!_
 - [ ] An RCA to 3.5 mm audio cable
 
