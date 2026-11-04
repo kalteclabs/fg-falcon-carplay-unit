@@ -1,53 +1,61 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT · FREE BRACKET" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-bracket-header.png" width="100%">
 
-### Free 3D print files for the FG and FG MkII FALCON CarPlay bracket. Download, print and fit it yourself, all provided free by KALTEC.
-
-**Jump to:** [Download](#download) · [Filament](#filament) · [Print settings](#print-settings) · [After printing](#after-printing) · [Change it](#change-it)
+## Free 3D print files for the FG and FG MkII FALCON. 
+### Replace your tissue box with a bracket to support a single DIN head unit, used for installing Carplay or aftermarket stereos 
+**Jump to:** [Download](#download) · [Print settings](#print-settings) 
 
 ---
 
-## DOWNLOAD
-### The bracket replaces your tissue box (the tray in the dash). No screws, no DIN sleeve: the head unit presses straight in.
+IMAGE of bracket in car with and without unit side by side
 
-<sub>IMAGE COMING SOON: 3D render of the bracket.</sub>
+---
+# DOWNLOAD
+## The bracket replaces your tissue box (the tray in the dash). No screws, just pull out the tray and pop in the bracket, allowing for a single-din head unit to take its place.
+### click here for more details on removing your tissue tray and inserting the bracket. 
 
-**[Spin the 3D preview](bracket/kaltec-fg-bracket-v1.0.stl)** to see it before you print.
+**[3D preview](bracket/kaltec-fg-bracket-v1.0.stl)**
 
-| Where | Link |
-| --- | --- |
+Download 3MF
+*make table with no heading*
 | GitHub | [Download v1.0](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest) |
 | Printables | Coming soon |
 | MakerWorld | Coming soon |
 
-| File | Use it for |
-| --- | --- |
-| `kaltec-fg-bracket-v1.0.stl` | **Start here.** The model, for any slicer. Use the settings below. |
-| `kaltec-fg-bracket-v1.0.step` | The CAD file, for changing the design. |
-| `kaltec-fg-bracket-v1.0.3mf` | Coming soon: ready to print, with my settings already set. |
+Download STEP
+Download STL 
+
+*these will just be links to download them not required to make github pritnable and makerworl links for each, this will be directl download from gh. 
 
 > [!TIP]
-> Don't have a 3D printer? KALTEC brackets come with the clips already fitted. Kits are coming soon, stick around!
+> Don't have a 3D printer? KALTEC brackets are coming soon, stick around! contact KALTECLABS@gmail.com for preorder
 
 ---
 
 ## FILAMENT
-
+*fix this section* 
 Print in **PETG or ASA**.
 
-| | PETG | ASA |
-| --- | --- | --- |
-| Good for | Test fits, and daily use in a shaded cabin | The final bracket. The best finish, and it handles sun and heat best |
-| Printing | Easy on any printer, no enclosure needed | Needs an enclosed printer and good ventilation |
-| In the car | Softens at about 75–80 °C. If your car sits in the sun or has no tint, use ASA or give it a [UV clear coat](parts-list.md#optional) | Ready as is |
+PETG ASA
+1. cheaper more colour and finish options
+   2. printable from any printer
+   3. if car is tinted or parked in shade it will be more than suffice
+  
+1. more heat resitant and resiliant to warping
+2. better finish more intune with car part material
+3. ready to be fitted striaght from printer
+
 
 > [!WARNING]
-> **Don't print it in PLA.** It softens in a hot car and the bracket sags.
+> If your car sits in the sun or has no tint, use ASA or give it a [UV clear coat](parts-list.md#optional)
+**Don't print it in PLA.**
+
+<sub>IMAGE COMING SOON: side by side of ASA and PETG print
 
 ---
 
 ## PRINT SETTINGS
 
-Tested on a Bambu Lab H2S with a 0.4 mm nozzle, sliced in Bambu Studio. Start from your printer's standard profile for the filament, then set these.
+Tested on a Bambu Lab H2S with a 0.4 mm nozzle. Start from your printer's standard profile for the filament, then set these.
 
 | Setting | PETG | ASA |
 | --- | --- | --- |
@@ -65,35 +73,17 @@ Tested on a Bambu Lab H2S with a 0.4 mm nozzle, sliced in Bambu Studio. Start fr
 
 No supports needed: everything rises straight up or leans less than 45°, and the KALTEC lettering is recessed. Footprint is 225 × 95.8 mm, 58 mm tall. **Print it at 100% scale.** Scaling it changes the fit for the head unit and the clips.
 
-> [!NOTE]
-> ASA settings are a starting point, I'm test printing them next. ASA shrinks more than PETG as it cools, so the fit can come out slightly tighter. Check the first print: the unit should push in by hand.
-
 <sub>IMAGE COMING SOON: the bracket on the print bed, front face down.</sub>
 
 ---
 
-## AFTER PRINTING
+## FITMENT
 
-1. Pull it off the plate and clean off any strings.
-2. Slide the two plastic Ford interior clips off your tissue box onto the bracket's two tabs at the top corners. Broken clips? They're cheap, see the [parts list](parts-list.md#everyone).
-3. Test fit the head unit before it goes in the car. It should press in firmly and stay put.
-
-**Too tight?** That's intended, sanding beats a wiggle. Take off any metal sleeve the unit came with, then sand the **ceiling ribs** inside the bracket a little at a time, then the floor ribs, until it pushes in by hand.
-**Too loose?** Add thin inserts or tape inside the bracket so it fits tight.
-**Painting or clear coating?** Mask the cutout, the ribs and the tabs first.
-
-<sub>IMAGE COMING SOON: clips fitted on the bracket tabs.</sub>
-
+**Too tight?** That's intended, the bracket has little ridges on the inside of the enclosure that can be lightly sanded until the unit fits snug. 
+**Too loose?** Add thin inserts or tape inside the bracket so it fits tight. ensure the unit is tight and does not wiggle. 
 Ready? Fit it with the [install guide](install-guide.md).
 
----
-
-## CHANGE IT
-
 Got an odd-sized head unit? Open the STEP file and adjust the bracket to suit. As long as it's single DIN, the rest of the build stays the same.
-
-As designed, the cutout is **179.0 × 52.62 mm**, for a **178 × 51.82 mm** head unit with its sleeve removed. Four ribs on the floor and four on the ceiling grip it top to bottom, with one rib on each side wall.
-
 The bracket design is free to build, change and sell under [CERN-OHL-S-2.0](LICENSE.md). If you share a changed version, credit KALTEC with a link to this repo and release it under the same licence.
 
 ---
