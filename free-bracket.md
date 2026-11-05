@@ -76,6 +76,16 @@ Print in **PETG or ASA**.
 
 ## FITMENT
 
+Supports all FGs except the FPV line.
+| Model | Sedan | Ute |
+|---|:---:|:---:|
+| XR6 | Y | Y |
+| XR8 | Y | Y |
+| G6E | Y | Y |
+| G6 | Y | Y |
+| XT | Y | Y |
+| FPV | N | N |
+
 **Too tight?** That's intended. Ensure the metal sleeve your unit came with is removed, then lightly sand the small ridges inside the 3D printed bracket, until the unit pushes in snug.
 
 **Too loose?** Add thin inserts or tape inside the bracket. The unit should be tight, with no wiggle.
