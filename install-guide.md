@@ -12,12 +12,12 @@
 
 <sub>IMAGE COMING SOON: head unit with cigarette plug setup.</sub>
 
-**Power with the fuse box (about 30–45 minutes):** attach two fuse taps in your fuse box and hide the cable for a more integrated setup. Keeps the clock and settings, and frees up the cigarette lighter. *A little more time-consuming, as you need to take the interior panels off to hide the cable.*
+**Power with the fuse box (about 30–45 minutes):** attach two fuse taps in your fuse box and hide the cable for a more integrated setup. Keeps the clock and settings, and frees up the cigarette lighter. *A little more time-consuming, as you need to take an interior panel off to hide the cable.*
 
 <sub>IMAGE COMING SOON: head unit with fuse box setup.</sub>
 
 > [!TIP]
-> If you buy a KALTEC kit, everything is provided, so you just pop your old tray out and plug this in. Otherwise, the DIY setup needs a power lead, the 3D printed bracket ([file provided free](free-bracket.md)) and your head unit of choice. Follow the steps below to get up and running.
+> If you buy a KALTEC kit, everything is provided, so you just pop your old tray out and plug this in. Kits are coming soon: to preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com). Otherwise, the DIY setup needs a power lead, the 3D printed bracket ([file provided free](free-bracket.md)) and your head unit of choice. Follow the steps below to get up and running.
 
 ---
 
@@ -28,6 +28,7 @@ Everything needed is in the [parts list](parts-list.md#parts).
 - [ ] The bracket to replace the tissue box, 3D print file _provided free from KALTEC_ on the [free bracket page](free-bracket.md)
 - [ ] A single-DIN head unit, _any will work!_
 - [ ] An RCA to 3.5 mm audio cable
+- [ ] Heat-shrink tubing
 
 Either:
 
@@ -46,17 +47,17 @@ No tools needed. Grip the bottom lip and pull it firmly towards you. It's held b
 ## 2. PUT THE CLIPS ON THE BRACKET
 
 > [!TIP]
-> Skip this step if you got a pre-made bracket or kit, as KALTEC brackets come with the clips already fitted
+> Skip this step if you got a pre-made bracket or kit, as KALTEC brackets come with the clips already fitted.
 
-Slide the two yellow plastic clips off the tissue box and onto the bracket's two tabs, one on each. 
+Slide the two yellow plastic clips off the tissue box and onto the bracket's two tabs, one on each.
+
 _The clips are fragile when you flex them off the tissue box. If one breaks, a 50 pack costs a few dollars: see the [parts list](parts-list.md#everyone)._
 
 <sub>IMAGE COMING SOON: clips on the bracket tabs.</sub>
 
-
 ## 3. MAKE THE CIGARETTE POWER LEAD
 
-**If you're powering the unit via the fuse box**, skip this step and go to [step 7](#7-fuse-box-power). 
+**If you're powering the unit via the fuse box**, skip this step and go to [step 7](#7-fuse-box-power).
 
 > [!IMPORTANT]
 > **Got a kit from KALTEC?** Skip this step, connect your power cable and go straight to [step 4](#4-plug-in).
@@ -64,54 +65,67 @@ _The clips are fragile when you flex them off the tissue box. If one breaks, a 5
 You're joining the head unit's power plug to a cigarette plug lead. Only three wires get used.
 
 ### 3.1 FIND THE POWER PLUG
+
 Your head unit comes with two plugs. The speaker plug has 8 wires in pairs, solid and striped. You don't need it, because the sound goes through the RCA cable instead. Set it aside.
+
 Use the power plug. It's the one with the red, yellow and black wires.
 
-<img src="images/install/03-1-speaker-vs-power-plug.svg" alt="Two ISO plugs: the speaker plug with paired solid and striped wires is not used; the power plug with red, yellow and black wires is the one to use" width="100%">
+<sub>IMAGE COMING SOON: the speaker plug next to the power plug, with the power plug marked as the one to use.</sub>
 
 ### 3.2 FIND YOUR THREE WIRES
+
 | Wire | Usually | Goes to |
 | --- | --- | --- |
 | BATTERY / B+ 12V | Yellow | The cigarette plug's **red (+)**, joined with ACC |
 | ACC | Red | The cigarette plug's **red (+)**, joined with BATTERY |
-| GND | Black (the thick one) | The cigarette plug's **black (−)** |
+| GND | Black | The cigarette plug's **black (−)** |
 
 > [!NOTE]
-> Go by the **label** in your manual, because colours change between head units. 
+> Go by the **label** in your manual, because colours change between head units.
+
 <!-- images/install/03-2-find-three-wires.svg -->
 <sub>IMAGE COMING SOON: the manual's power plug wiring, with BATTERY, ACC and GND highlighted.</sub>
 
-### 3.3 CUT THE UNUSED WIRES
-Cut every other wire on the power plug down and heat-shrink them. ensure no wires touch.
+### 3.3 CUT, STRIP AND TWIST
+
+Cut every other wire on the power plug down and heat-shrink them. Ensure no wires touch.
+
 <!-- images/install/03-3-cut-unused-wires.svg -->
 <sub>IMAGE COMING SOON: the five unused wires cut short, red, yellow and black left long.</sub>
 
 Strip about 1 cm off the ends of BATTERY (yellow), ACC (red) and GND (black).
-<!-- images/install/03-5-strip-wires.svg -->
 
+<!-- images/install/03-5-strip-wires.svg -->
 <sub>IMAGE COMING SOON: wire strippers taking 1 cm off red, yellow and black.</sub>
-Twist the bare ends of BATTERY and ACC together tightly. So they can go to the same power.
+
+Twist the bare ends of BATTERY and ACC together tightly, so they share the same power.
 
 <sub>IMAGE COMING SOON: red and yellow twisted into one end.</sub>
 
 ### 3.4 CONNECT TO THE CIGARETTE PLUG LEAD
-Connect the twisted BATTERY + ACC to the cigarette plug's red (+) wire.
-Connect GND to the cigarette plug's black (−) wire.
+
+Join the wires and heat-shrink each join:
+
+- The twisted BATTERY + ACC goes to the cigarette plug's red (+) wire.
+- GND goes to the cigarette plug's black (−) wire.
 
 Unscrew the tip of the cigarette plug and check there's a **10A** fuse inside. If it's a different value, swap it for a 10A.
-<!-- images/install/03-7-connect-to-cig-lead.svg -->
 
+<!-- images/install/03-7-connect-to-cig-lead.svg -->
 <sub>IMAGE COMING SOON: red and yellow joining the cig lead's red (+), black joining black (−).</sub>
 
 ### 3.5 PLUG THE LEAD INTO THE HEAD UNIT
+
 Before you plug anything in, check:
-No bare wire shows anywhere on the lead.
-The wire can reach from the cigarette plug to the back of the headunit
+
+- No bare wire shows anywhere on the lead.
+- The wire can reach from the cigarette plug to the back of the head unit.
 
 <!-- images/install/03-8-finished-lead.svg -->
 <sub>IMAGE COMING SOON: the finished plug-in lead.</sub>
 
 Push the power plug into the matching socket on the back of the head unit until it clicks. It only fits one way round.
+
 <!-- images/install/03-9-lead-into-unit.svg -->
 <sub>IMAGE COMING SOON: power plug going into the back of the head unit.</sub>
 
@@ -137,14 +151,14 @@ Press the head unit into the bracket from the front until it sits flush. It's a 
 
 ## 6. TEST IT
 
-1. Turn the key on. The head unit starts up, and the factory stereo switches to AUX by itself. *If it doesn't, press <kbd>MEDIA</kbd> until it shows AUX.*
+1. Turn the key on. The head unit starts up. On the factory stereo, press <kbd>MEDIA</kbd> to cycle through the sources until it shows AUX.
 2. Connect your phone and play something. Check maps, radio and anything else your unit has.
-3. **Fuse box:** turn the key off. The unit must switch off. Turn it back on: the clock and settings should still be there. Then clip the interior panels back on.
+3. **Fuse box:** turn the key off. The unit must switch off. Turn it back on: the clock and settings should still be there. Then clip the interior panel back on.
 
 > [!TIP]
 > Something not right? The bracket pops straight back out. See [troubleshooting](parts-list.md#troubleshooting).
 
-<sub>IMAGE COMING SOON: AUX selected on the factory stereo, with Spotify open.</sub>
+<sub>IMAGE COMING SOON: AUX selected on the factory stereo, with music playing.</sub>
 
 **Done.** The head unit turns on and off with the key. Support the project by **starring this repo**!
 
@@ -161,18 +175,18 @@ Your head unit comes with a power plug, and we only need 3 of its wires. The two
 | --- | --- | --- |
 | BATTERY / B+ 12V | Yellow | A fuse that's **always on**. Keeps the clock and settings |
 | ACC | Red | A fuse that's **on with the key only**. Turns the unit on and off |
-| GND | Black (the thick one) | A bolt inside the tissue box slot |
+| GND | Black | A bolt inside the tissue box slot |
 
 ---
 
 ### 7.1 MAKE THE LEAD
 
-Use the wiring plug that came with your head unit. Join wires the same way as in [step 3](#3-make-the-cigarette-power-lead).
+Use the wiring plug that came with your head unit. Join wires the same way as in [step 3.4](#34-connect-to-the-cigarette-plug-lead).
 
 1. Join 1 m of wire to **BATTERY** and 1 m to **ACC**. Join about 20 cm to **GND**.
-2. Crimp a fuse tap onto the end of BATTERY and label it **ALWAYS ON – 10A**.
-3. Crimp the other fuse tap onto the end of ACC and label it **KEY ON – 5A**.
-4. Strip about 1 cm off the end of GND, or crimp on a ring terminal.
+2. Crimp the end of BATTERY into one fuse tap's connector and label it **ALWAYS ON – 10A**.
+3. Crimp the end of ACC into the other fuse tap's connector and label it **KEY ON – 5A**.
+4. Strip about 2 cm off the end of GND, so it can wrap under the bolt.
 5. Cut every other wire on the power plug down and heat-shrink them. Ensure no wires touch.
 
 <sub>IMAGE COMING SOON: finished fuse box lead.</sub>
@@ -181,13 +195,15 @@ Use the wiring plug that came with your head unit. Join wires the same way as in
 
 ### 7.2 CONNECT THE GROUND
 
-With the tissue box out, you can see two factory bolts inside the slot. Either one works. Undo one, wrap the GND wire around it, and tighten it back down. Leave the power plug sitting in the slot.
+With the tissue box out, you can see two factory bolts inside the slot. Either one works. Undo one (it's an M7 bolt), crimp on a ring terminal, or wrap the bare GND wire clockwise under the washer, and tighten it back down. Give the wire a tug to check it's held tight. Leave the power plug sitting in the slot.
 
 <sub>IMAGE COMING SOON: ground wire under the slot bolt.</sub>
 
 ---
 
 ### 7.3 FIND THE FUSE BOX
+
+Take the key out and turn the lights off first.
 
 It's under the dash in the driver's footwell, to the right of the steering column. Pull the cover off to see the fuses.
 
@@ -197,12 +213,12 @@ It's under the dash in the driver's footwell, to the right of the steering colum
 
 ### 7.4 ROUTE THE WIRES
 
-1. Pop off the two plastic panels on the driver's side of the centre console, below the slot. Use a trim tool, or pull firmly from the corners.
+1. Pop off the plastic panel on the driver's side of the centre console, below the slot. Use a trim tool, or pull firmly from the corners.
 
-   <sub>IMAGE COMING SOON: removing the console panels.</sub>
+   <sub>IMAGE COMING SOON: removing the console panel.</sub>
 
-2. Run BATTERY and ACC down behind the panels, then behind the steering column to the fuse box, so nothing shows.
-3. Leave the panels off until you've tested in [step 6](#6-test-it).
+2. Run BATTERY and ACC down behind the panel, then behind the steering column to the fuse box, so nothing shows.
+3. Leave the panel off until you've tested in [step 6](#6-test-it).
 
 <sub>IMAGE COMING SOON: the wires routed to the fuse box.</sub>
 
@@ -210,14 +226,16 @@ It's under the dash in the driver's footwell, to the right of the steering colum
 
 ### 7.5 PICK YOUR FUSES AND CONNECT THE TAPS
 
+> [!TIP]
+> Never put ACC on an always-on fuse, or the unit never switches off and flattens your battery. Don't tap airbag (SRS), ABS, engine (PCM) or fuel pump fuses.
+
+> [!TIP]
+> Not sure which fuse is which? A test light or multimeter shows you: an always-on fuse is live with the key out, a key-on fuse is only live with the key on.
+
 1. Find your layout. It's usually printed inside the fuse box lid, and it's always in the owner's manual. Stuck? See the [fuse box layout](parts-list.md#fuse-box-layout).
-2. Pick two fuses for non-critical accessories, like interior lights, the radio or the power outlets: one **always on** for BATTERY, one **on with the key only** for ACC.
-
-   > [!TIP]
-   > Never put ACC on an always-on fuse, or the unit never switches off and flattens your battery. Don't tap airbag (SRS), ABS, engine (PCM) or fuel pump fuses.
-
-3. Pull out each fuse you picked. Put it in its tap's lower slot, exactly as it was, and never swap it for a bigger one.
-4. Put a new fuse in each tap's upper slot: **10A** in the ALWAYS ON (BATTERY) tap, and **5A** in the KEY ON (ACC) tap. Don't use the fuses that came with your taps unless they're these values.
+2. Pick two fuses for non-critical accessories, like interior lights or the power outlets: one **always on** for BATTERY, one **on with the key only** for ACC. *On my FG, I used fuse **21** for BATTERY and fuse **15** for ACC. Check yours first, as layouts differ between years.*
+3. Pull out each fuse you picked. Put it in its tap's **lower** slot, exactly as it was, and never swap it for a bigger one.
+4. Put a new fuse in each tap's **upper** slot: **10A** in the ALWAYS ON (BATTERY) tap, and **5A** in the KEY ON (ACC) tap. Don't use the fuses that came with your taps unless they're these values.
 5. Push the ALWAYS ON tap into the always-on fuse's slot, and the KEY ON tap into the key-on fuse's slot.
 
 <sub>IMAGE COMING SOON: fuse taps installed in the fuse box, labelled ALWAYS ON and KEY ON.</sub>
@@ -236,4 +254,4 @@ Your power plug is now grounded, connected to the fuse box and waiting in the sl
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Install Guide v1.1
+FG FALCON SINGLE-DIN Head Unit Install Guide v1.2
