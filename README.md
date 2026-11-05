@@ -1,6 +1,6 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-header.png" width="100%">
 
-### A CarPlay screen in your FG or FG MkII FALCON, in about 10 minutes. Pull out the tissue box, clip in the bracket, add any single-din head unit to your centre console!
+### A CarPlay screen in your FG or FGX FALCON, in about 10 minutes. Pull out the tissue box, clip in the bracket, add any single-din head unit to your centre console!
 **Jump to:** · [Get started](#get-started) · [Kits](#kits) 
 
 ---
