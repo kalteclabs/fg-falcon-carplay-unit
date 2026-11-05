@@ -47,7 +47,6 @@ Tested on a Bambu Lab H2S with a 0.4 mm nozzle. Start from your printer's standa
 | Infill | 40% gyroid | 40% gyroid |
 | Nozzle temp | Profile + 10 °C (250–255 °C) | Your ASA profile |
 | Part cooling fan | 30–40% | Your ASA profile's low setting |
-| Enclosure | Not needed | Chamber heat on, door shut |
 | Print time | 2 h 56 min | N/A |
 | Filament used | 85 g | N/A |
 
