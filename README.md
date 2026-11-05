@@ -13,7 +13,7 @@ The CarPlay head unit takes the place of the tissue box under your factory stere
 
 The parts cost about **A$65–75**, most of that being the head unit, and the bracket print file is **free** provided by KALTEC, the full install guide and the parts list are also all open source.
 
-It's easy to remove, and it takes any single-DIN unit you like. The bracket can also hold a second radio if you're running aftermarket speakers or a subwoofer. Print it yourself for free.
+It's easy to remove, and the bracket can be used for a additional radio instead, if you're running aftermarket speakers or a subwoofer. Print it yourself for free.
 
 > [!TIP]
 > Don't want to build it? KALTEC kits are coming soon, with everything ready to plug in. For $100! To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
