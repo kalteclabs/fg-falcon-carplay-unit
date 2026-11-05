@@ -69,11 +69,6 @@ Free to build, change, share and sell. See [LICENSE.md](LICENSE.md):
 - **Guides and images:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 Credit KALTEC with a link to this repo, and release anything you change under the same licence.
-
----
-
 **KALTEC · CC BY-SA 4.0 · [github.com/kalteclabs/fg-falcon-carplay-unit](https://github.com/kalteclabs/fg-falcon-carplay-unit)**
-
-This page and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
 FG FALCON SINGLE-DIN Head Unit README v1.0
