@@ -43,8 +43,8 @@ Any head unit works, as long as it's **single DIN**: the standard 18 × 5 cm siz
 
 <sub>IMAGE COMING SOON: simplified 3D render of a single-DIN head unit, KALTEC style, with the 18 × 5 cm dimensions marked.</sub>
 
-### EVERYONE
-_Most links are AliExpress, as it's the cheapest supplier. But I've also added some Supercheap Auto or Bunnings links so you can grab items the same day._
+
+### _Most links are AliExpress, as it's the cheapest supplier. But I've also added some Supercheap Auto or Bunnings links so you can grab items the same day._
 
 | Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
