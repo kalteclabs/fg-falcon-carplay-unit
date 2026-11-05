@@ -57,9 +57,6 @@ To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 This started as a one-off for my own FG. Now the bracket and the full guide are open source, so any Falcon owner can fit CarPlay for the cost of the parts.
 
 Built by a Falcon owner, for the Falcon owners who still drive and appreciate this piece of Australian engineering. No more overpriced aftermarket head unit swaps that cost an arm and a leg and can't be undone.
-
-**Never pay big money for an aftermarket Falcon head unit again.**
-
 Star this repo to support the project and help other Falcon owners find it!
 
 ---
