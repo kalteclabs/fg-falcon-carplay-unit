@@ -5,14 +5,15 @@
 
 ---
 
-<sub>IMAGE COMING SOON: the finished head unit fitted in the Falcon dash, CarPlay on screen.</sub>
+<p align="center">
+  <img src="images/fg-installed.jpg" alt="CarPlay head unit fitted in the FG Falcon tissue box slot" width="520">
+</p>
 
 The CarPlay head unit takes the place of the tissue box under your factory stereo. The factory stereo stays, and the sound plays through your Falcon's own speakers via the AUX. **no splicing required or touching any of your cars electricals!**
 
 The parts cost about **A$65–75**, most of that being the head unit, and the bracket print file is **free** provided by KALTEC, the full install guide and the parts list are also all open source.
 
-**fix here
-the system can be eeasily removed and you can insert whatever single din yunit you want, the bree b racket also can mount secodary radios if you are running aftermarket speakers and subwoofers. print it yourself for free
+It's easy to remove, and it takes any single-DIN unit you like. The bracket can also hold a second radio if you're running aftermarket speakers or a subwoofer. Print it yourself for free.
 
 > [!TIP]
 > Don't want to build it? KALTEC kits are coming soon, with everything ready to plug in. For $100! To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
@@ -45,9 +46,11 @@ To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 ---
 
 ## WHY IT'S FREE
-**fix here
-This started as a one-off for my own FG. Now the bracket and the full guide are open source, so any Falcon owner can fit CarPlay for the cost of the parts. NEVER BUY A AFTER MARKET HEAD UNIT FOR THE FALCON AGAIN
-This system was built by a falcon owner built for the community who actually drtive and appriciate this peice of austrlaian engineering, dont buy cheap chinese aftermarket units that are irreversabal and cost an arm and a leg.
+This started as a one-off for my own FG. Now the bracket and the full guide are open source, so any Falcon owner can fit CarPlay for the cost of the parts.
+
+Built by a Falcon owner, for the Falcon owners who still drive and appreciate this piece of Australian engineering. No more overpriced aftermarket head unit swaps that cost an arm and a leg and can't be undone.
+
+**Never pay big money for an aftermarket Falcon head unit again.**
 
 Star this repo to support the project and help other Falcon owners find it!
 
