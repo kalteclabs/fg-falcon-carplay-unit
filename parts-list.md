@@ -5,6 +5,10 @@
 **Jump to:** [Parts](#parts) · [Fuse box layout](#fuse-box-layout) · [Troubleshooting](#troubleshooting)
 
 ---
+### You'll need a head unit, and the free bracket, then follow the steps to power it!
+<sub>IMAGE COMING SOON: head unit, bracket, cig fuse harness laid out
+
+---
 
 ## FREE BRACKET 3D PRINT FILE
 ### This replaces your tissue box (the tray in the dash), with no screws required!
@@ -18,21 +22,21 @@
 
 Print in **PETG or ASA**. If your car sits in the sun or has no tint, protect the bracket with a UV clear coat: see [optional parts](#optional).
 
-Building this yourself costs about **A$65–75**, and most of that price is the head unit itself (about $50).
+<sub>IMAGE COMING SOON: Bracket in car no head unit
 
-**Whether you power it from the cigarette lighter or the fuse box, every other part is a few dollars each, and the bracket is free.**
-
-<sub>IMAGE COMING SOON: every part laid out flat, plug-in parts on one side, fuse box parts on the other.</sub>
+---
 
 ## PARTS
 
-Images coming soon. Prices are in AUD. The links are the exact parts I used, but listings change and sellers come and go. Copy the **search term** into AliExpress and pick the cheapest seller with good reviews.
+<sub>IMAGE COMING SOON: every part laid out flat, plug-in parts on one side, fuse box parts on the other.</sub>
 
-_Most links are AliExpress, as it's the cheapest supplier. But I've also added some Supercheap Auto or Bunnings links so you can grab items the same day._
 
-### BEFORE YOU BUY A HEAD UNIT
+Building this yourself costs about **A$65–75**, and most of that price is the head unit itself (about $50).
+Prices are in AUD. The links are the exact parts I used. Copy the **search term** into AliExpress for the current cheapest options.
 
-Any CarPlay head unit works, as long as it's **single DIN**: the standard 18 × 5 cm size, not double DIN.
+<sub>IMAGE COMING SOON: every part laid out flat, Head unit, Bracket, Maybe tools aswell
+
+Any head unit works, as long as it's **single DIN**: the standard 18 × 5 cm size, not double DIN. 
 
 > [!NOTE]
 > Wireless CarPlay is worth the extra few dollars, but wired units work exactly the same for this project. _I've bought and tested both!_
@@ -40,6 +44,7 @@ Any CarPlay head unit works, as long as it's **single DIN**: the standard 18 × 
 <sub>IMAGE COMING SOON: simplified 3D render of a single-DIN head unit, KALTEC style, with the 18 × 5 cm dimensions marked.</sub>
 
 ### EVERYONE
+_Most links are AliExpress, as it's the cheapest supplier. But I've also added some Supercheap Auto or Bunnings links so you can grab items the same day._
 
 | Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
