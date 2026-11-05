@@ -8,7 +8,6 @@
 
 <sub>IMAGE COMING SOON: the bracket in the car, with and without the head unit, side by side.</sub>
 
-
 > [!TIP]
 > Don't have a 3D printer? KALTEC brackets are coming soon, stick around! To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 
@@ -28,7 +27,6 @@ Removing the tray and fitting the bracket is covered step by step in the [instal
 | **MakerWorld** | Coming soon |
 
 **Other files:** [Download STL](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.stl) · [Download STEP](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.step)
-
 
 > [!TIP]
 > Don't have a 3D printer? KALTEC brackets are coming soon, stick around! To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
@@ -50,7 +48,8 @@ Tested on a Bambu Lab H2S with a 0.4 mm nozzle. Start from your printer's standa
 | Nozzle temp | Profile + 10 °C (250–255 °C) | Your ASA profile |
 | Part cooling fan | 30–40% | Your ASA profile's low setting |
 | Enclosure | Not needed | Chamber heat on, door shut |
-| Print time | N/A | N/A |
+| Print time | 2 h 56 min | N/A |
+| Filament used | 85 g | N/A |
 
 No supports needed: everything rises straight up or leans less than 45°, and the KALTEC lettering is recessed. The footprint is 225 × 95.8 mm, 58 mm tall. **Print it at 100% scale.** Scaling it changes the fit for the head unit and the clips.
 

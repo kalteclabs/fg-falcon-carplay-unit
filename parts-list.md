@@ -155,7 +155,7 @@ Layouts are similar across FG models and years, but not identical. Always check 
 - Make sure you've printed the latest STL from the [free bracket page](free-bracket.md#download), at 100% scale.
 - Lightly sand the ridges inside the bracket, evenly on both sides, until it presses in.
 - Unit too **loose** instead? Add thin inserts or tape inside the bracket so it fits tight.
-- Odd-sized unit? Adjust the [STEP file](free-bracket.md#change-it) to fit your size, as long as the power out is the same, this will work for any unit!
+- Odd-sized unit? Adjust the [STEP file](free-bracket.md#fitment) to fit. Any single-DIN unit with the same power plug works.
 
 ---
 
