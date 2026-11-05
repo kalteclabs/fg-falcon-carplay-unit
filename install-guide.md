@@ -1,6 +1,6 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT · INSTALL GUIDE" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-install-header.png" width="100%">
 
-### Install guide for FG and FG MkII FALCON to build and install your own CarPlay unit for about A$65–75, all provided free by KALTEC.
+### Install guide for all FG and FGX FALCONS to build and install your own CarPlay unit for about A$65–75, all provided free by KALTEC.
 
 **Jump to:** [Steps](#1-take-out-the-tissue-box) · [Parts list](parts-list.md) · [Troubleshooting](parts-list.md#troubleshooting)
 
@@ -51,7 +51,7 @@ No tools needed. Grip the bottom lip and pull it firmly towards you. It's held b
 
 Slide the two yellow plastic clips off the tissue box and onto the bracket's two tabs, one on each.
 
-_The clips are fragile when you flex them off the tissue box. If one breaks, a 50 pack costs a few dollars: see the [parts list](parts-list.md#everyone)._
+_The clips are fragile when you flex them off the tissue box. If one breaks, a 50 pack costs a few dollars: see the [parts list](parts-list.md#parts)._
 
 <sub>IMAGE COMING SOON: clips on the bracket tabs.</sub>
 
@@ -88,7 +88,7 @@ Use the power plug. It's the one with the red, yellow and black wires.
 
 ### 3.3 CUT, STRIP AND TWIST
 
-Cut every other wire on the power plug down and heat-shrink them. Ensure no wires touch.
+Cut all the other wires on the power plug short and heat-shrink the ends. Ensure no wires touch.
 
 <!-- images/install/03-3-cut-unused-wires.svg -->
 <sub>IMAGE COMING SOON: the five unused wires cut short, red, yellow and black left long.</sub>
@@ -139,7 +139,7 @@ Push the power plug into the matching socket on the back of the head unit until 
 
 ## 5. SECURE IT
 
-Press the head unit into the bracket from the front until it sits flush. It's a tight press fit, so push firmly and evenly. *If your unit came with a metal sleeve, remove it.*
+If your unit came with a metal sleeve, remove it first. Then press the head unit into the bracket from the front until it sits flush. It's a tight press fit, so push firmly and evenly.
 
 <sub>IMAGE COMING SOON: head unit pressed into the bracket.</sub>
 
@@ -187,7 +187,7 @@ Use the wiring plug that came with your head unit. Join wires the same way as in
 2. Crimp the end of BATTERY into one fuse tap's connector and label it **ALWAYS ON – 10A**.
 3. Crimp the end of ACC into the other fuse tap's connector and label it **KEY ON – 5A**.
 4. Strip about 2 cm off the end of GND, so it can wrap under the bolt.
-5. Cut every other wire on the power plug down and heat-shrink them. Ensure no wires touch.
+5. Cut all the other wires on the power plug short and heat-shrink the ends. Ensure no wires touch.
 
 <sub>IMAGE COMING SOON: finished fuse box lead.</sub>
 
@@ -254,4 +254,4 @@ Your power plug is now grounded, connected to the fuse box and waiting in the sl
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Install Guide v1.2
+FG FALCON SINGLE-DIN Head Unit Install Guide v1.3

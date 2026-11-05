@@ -34,6 +34,7 @@ It's easy to remove, and the bracket can be used for a additional radio instead,
 image of bracket irl
 
 Supports all FGs except the FPV line.
+
 | Model | Sedan | Ute |
 |---|:---:|:---:|
 | XR6 | Y | Y |

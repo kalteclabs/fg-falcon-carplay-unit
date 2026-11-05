@@ -1,12 +1,12 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT · PARTS LIST" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-parts-header.png" width="100%">
 
-### Parts list for FG and FG MkII FALCON. Every link, price and item you need to build your Falcon unit as cheaply and easily as possible, all provided free by KALTEC.
+### Parts list for all FG and FGX FALCONS. Every link, price and item you need to build your Falcon unit as cheaply and easily as possible, all provided free by KALTEC.
 
 **Jump to:** [Parts](#parts) · [Fuse box layout](#fuse-box-layout) · [Troubleshooting](#troubleshooting)
 
 ---
 ### You'll need a head unit, and the free bracket, then follow the steps to power it!
-<sub>IMAGE COMING SOON: head unit, bracket, cig fuse harness laid out
+<sub>IMAGE COMING SOON: head unit, bracket and power lead laid out together.</sub>
 
 ---
 
@@ -22,19 +22,16 @@
 
 Print in **PETG or ASA**. If your car sits in the sun or has no tint, protect the bracket with a UV clear coat: see [optional parts](#optional).
 
-<sub>IMAGE COMING SOON: Bracket in car no head unit
+<sub>IMAGE COMING SOON: the bracket fitted in the car, without the head unit.</sub>
 
 ---
 
 ## PARTS
 
-<sub>IMAGE COMING SOON: every part laid out flat, plug-in parts on one side, fuse box parts on the other.</sub>
-
-
 Building this yourself costs about **A$65–75**, and most of that price is the head unit itself (about $50).
 Prices are in AUD. The links are the exact parts I used. Copy the **search term** into AliExpress for the current cheapest options.
 
-<sub>IMAGE COMING SOON: every part laid out flat, Head unit, Bracket, Maybe tools aswell
+<sub>IMAGE COMING SOON: every part laid out flat: head unit, bracket, leads and tools.</sub>
 
 Any head unit works, as long as it's **single DIN**: the standard 18 × 5 cm size, not double DIN. 
 
@@ -151,7 +148,7 @@ Layouts are similar across FG models and years, but not identical. Always check 
 
 ### BRACKET IS LOOSE OR THE CLIPS WON'T SEAT
 
-- Check both clips are pushed all the way onto the tabs. Cracked or worn clips? Replace them, they're cheap ([parts](#everyone)).
+- Check both clips are pushed all the way onto the tabs. Cracked or worn clips? Replace them, they're cheap ([parts](#parts)).
 - Wiring bunched up behind the unit can push the bracket out. Tuck it to the sides so nothing gets pinched.
 - Push the bracket in evenly, both sides at once, until both clips click.
 - Sometimes the console edges interfere with the bracket. Flex them out with your hands to seat it.
@@ -191,4 +188,4 @@ Layouts are similar across FG models and years, but not identical. Always check 
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Parts List v1.1
+FG FALCON SINGLE-DIN Head Unit Parts List v1.2
