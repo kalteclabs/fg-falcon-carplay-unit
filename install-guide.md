@@ -32,7 +32,7 @@ Everything needed is in the [parts list](parts-list.md#parts).
 Either:
 
 - [ ] **Cigarette lighter power:** a cigarette male plug lead
-- [ ] **Fuse box power:** 2 mini blade fuse taps, a 10A and a 5A mini blade fuse, about 2 m of extra wire, and a socket for the ground bolt
+- [ ] **Fuse box power:** 2 mini blade fuse taps, a 10A and a 5A mini blade fuse, about 2 m of extra wire
 
 ## 1. TAKE OUT THE TISSUE BOX
 
