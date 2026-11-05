@@ -32,8 +32,15 @@ It's easy to remove, and it takes any single-DIN unit you like. The bracket can 
 3. **[Parts list](parts-list.md):** everything you need, with links and prices.
 4. **[Free bracket](free-bracket.md):** the 3D print files and print settings, free to download.
 
-> [!NOTE]
-> Photos and video tutorials are coming soon.
+Supports all FGs except the FPV line.
+| Model | Sedan | Ute |
+|---|:---:|:---:|
+| XR6 | Y | Y |
+| XR8 | Y | Y |
+| G6E | Y | Y |
+| G6 | Y | Y |
+| XT | Y | Y |
+| FPV | N | N |
 
 ---
 
