@@ -8,6 +8,7 @@
 <p align="center">
   <img src="images/fg-installed.jpg" alt="CarPlay head unit fitted in the FG Falcon tissue box slot" width="520">
 </p>
+next to the image put the one of all parts laid ou: unit bracket, rca and power cable, OR the photo of the complete parts assembled 
 
 The CarPlay head unit takes the place of the tissue box under your factory stereo. The factory stereo stays, and the sound plays through your Falcon's own speakers via the AUX. **no splicing required or touching any of your cars electricals!**
 
