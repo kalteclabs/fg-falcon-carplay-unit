@@ -23,7 +23,7 @@
 
 Print in **PETG or ASA**. If your car sits in the sun or has no tint, protect the bracket with a UV clear coat: see [optional parts](#optional).
 
-<sub>IMAGE COMING SOON: the bracket fitted in the car, without the head unit.</sub>
+<p align="center"><img src="images/bracket-in-slot.jpg" alt="The bracket fitted in the car, without the head unit" width="520"></p>
 
 ---
 

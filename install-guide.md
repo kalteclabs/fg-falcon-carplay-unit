@@ -56,7 +56,10 @@ Slide the two yellow plastic clips off the tissue box and onto the bracket's two
 
 _The clips are fragile when you flex them off the tissue box. If one breaks, a 50 pack costs a few dollars: see the [parts list](parts-list.md#parts)._
 
-<sub>IMAGE COMING SOON: clips on the bracket tabs.</sub>
+<p align="center">
+  <img src="images/clips-on-tabs.jpg" alt="Yellow clips fitted on both bracket tabs" height="280">
+  <img src="images/clips-on-tabs-side.jpg" alt="Side view of a clip on the bracket tab" height="280">
+</p>
 
 ## 3. MAKE THE CIGARETTE POWER LEAD
 
@@ -138,7 +141,10 @@ Push the power plug into the matching socket on the back of the head unit until 
 2. If your head unit came with a reverse camera or radio antenna, plug them in.
 3. If you haven't already, plug in your head unit's power cable.
 
-<p align="center"><img src="images/back-ports-labelled.jpg" alt="Back of the head unit with POWER, RCA L and R, REVERSE CAMERA and ANTENNA labelled" width="520"></p>
+<p align="center">
+  <img src="images/back-ports-labelled.jpg" alt="Back of the head unit with POWER, RCA L and R, REVERSE CAMERA and ANTENNA labelled" height="280">
+  <img src="images/plugging-in-at-slot.jpg" alt="Head unit held at the slot with the power plug and antenna lead plugged in" height="280">
+</p>
 
 ## 5. SECURE IT
 
@@ -150,7 +156,7 @@ If your unit came with a metal sleeve, remove it first. Then press the head unit
 2. Tuck the wiring behind the head unit so nothing gets pinched.
 3. Line the bracket up with the console and push it in evenly until it clicks securely into place.
 
-<sub>IMAGE COMING SOON: bracket clipped in.</sub>
+<p align="center"><img src="images/bracket-in-slot.jpg" alt="The bracket clipped into the console slot" width="520"></p>
 
 ## 6. TEST IT
 
@@ -210,7 +216,10 @@ Take the key out and turn the lights off first.
 
 It's under the dash in the driver's footwell, to the right of the steering column. Pull the cover off to see the fuses.
 
-<p align="center"><img src="images/fuse-box-exposed.jpg" alt="FG Falcon fuse box under the dash, driver's footwell" width="420"></p>
+<p align="center">
+  <img src="images/fuse-panel-on.jpg" alt="Fuse box cover on, under the dash in the driver's footwell" height="280">
+  <img src="images/fuse-panel-off.jpg" alt="Fuse box cover off, fuses exposed" height="280">
+</p>
 
 ---
 
@@ -218,7 +227,10 @@ It's under the dash in the driver's footwell, to the right of the steering colum
 
 1. Pop off the plastic panel on the driver's side of the centre console, below the slot. Use a trim tool, or pull firmly from the corners.
 
-   <sub>IMAGE COMING SOON: removing the console panel.</sub>
+   <p align="center">
+     <img src="images/console-panel-on.jpg" alt="Driver's side console panel in place" height="280">
+     <img src="images/console-panel-off.jpg" alt="Console panel off, showing the space behind it" height="280">
+   </p>
 
 2. Run BATTERY and ACC down behind the panel, then behind the steering column to the fuse box, so nothing shows.
 3. Leave the panel off until you've tested in [step 6](#6-test-it).

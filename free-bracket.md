@@ -6,7 +6,10 @@
 
 ---
 
-<sub>IMAGE COMING SOON: the bracket in the car, no unit, next to picture of just the bracket side by side.</sub>
+<p align="center">
+  <img src="images/bracket-in-slot.jpg" alt="The bracket fitted in the car, no head unit" height="280">
+  <img src="images/bracket.jpg" alt="The KALTEC FG bracket on its own" height="280">
+</p>
 
 > [!TIP]
 > Don't have a 3D printer? KALTEC brackets are coming soon, stick around! To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
@@ -76,7 +79,10 @@ Print in **PETG or ASA**.
 
 ## FITMENT
 
-<sub>IMAGE COMING SOON: clips on the bracket tabs, next to the head unit in the bracket.</sub>
+<p align="center">
+  <img src="images/clips-on-tabs.jpg" alt="Yellow clips fitted on both bracket tabs" height="280">
+  <img src="images/unit-in-bracket-front.jpg" alt="Head unit pressed into the bracket" height="280">
+</p>
 
 Supports all FGs except the FPV line.
 
