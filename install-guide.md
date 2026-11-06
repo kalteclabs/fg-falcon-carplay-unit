@@ -10,7 +10,7 @@
 
 **Power with the cigarette lighter (about 10 minutes):** the easiest way. Plug the unit into the cigarette lighter and have a full plug-and-play setup within minutes. *It's easily removable as well, just don't throw out your tissue box!*
 
-<p align="center"><img src="images/kit-parts-cig.jpg" alt="Head unit, bracket, cigarette plug lead and RCA cable for the plug-in install" width="520"></p>
+<p align="center"><img src="images/kit-parts-cig.jpg" alt="Head unit, bracket, cigarette plug lead and RCA cable for the plug-in install" width="520"></p> put next to it the picture of the 4 peices assembled
 
 **Power with the fuse box (about 30–45 minutes):** attach two fuse taps in your fuse box and hide the cable for a more integrated setup. Keeps the clock and settings, and frees up the cigarette lighter. *A little more time-consuming, as you need to take an interior panel off to hide the cable.*
 
