@@ -151,12 +151,12 @@ Push the power plug into the matching socket on the back of the head unit until 
 If your unit came with a metal sleeve, remove it first. Then press the head unit into the bracket from the front until it sits flush. It's a tight press fit, so push firmly and evenly.
 
 <p align="center"><img src="images/unit-in-bracket-front.jpg" alt="Head unit pressed flush into the bracket" width="520"></p>
+**add image of unit in bracket in car next to this image
 
 1. Make sure the yellow clips are on your bracket.
 2. Tuck the wiring behind the head unit so nothing gets pinched.
 3. Line the bracket up with the console and push it in evenly until it clicks securely into place.
 
-<p align="center"><img src="images/bracket-in-slot.jpg" alt="The bracket clipped into the console slot" width="520"></p>
 
 ## 6. TEST IT
 
