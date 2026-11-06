@@ -16,8 +16,7 @@
 > [!TIP]
 > Don't have a 3D printer? KALTEC brackets and full kits are coming soon, to make this build as easy as possible. To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 
-<p align="center"><img src="images/bracket.jpg" alt="The KALTEC FG bracket, printed in black" width="520"></p>
-<p align="center"><img src="images/bracket-rear.jpg" alt="Rear of the KALTEC FG bracket, with the recessed KALTEC lettering" width="520"></p>
+<p align="center"><img src="images/bracket.jpg" alt="The KALTEC FG bracket, printed in black" width="520"></p> <p align="center"><img src="images/bracket-rear.jpg" alt="Rear of the KALTEC FG bracket, with the recessed KALTEC lettering" width="520"></p> **put images side by side
 
 **The bracket is provided free by KALTEC.** Download the 3D print file from the [free bracket page](free-bracket.md) and print it. The right print settings are included with the STL.
 
@@ -43,7 +42,7 @@ Any head unit works, as long as it's **single DIN**: the standard 18 × 5 cm siz
 
 
 ### _Most links are AliExpress, as it's the cheapest supplier. But I've also added some Supercheap Auto or Bunnings links so you can grab items the same day._
-
+**add price row to the table and remove prive from about make about concise and order will be part price about links search term
 | Part | About | Links to buy | Search term |
 | --- | --- | --- | --- |
 | Single-DIN head unit | $50. Any single-DIN unit works. Depending on the one you buy, it might come with an antenna, a reverse camera or an external GPS module. | [AliExpress](https://www.aliexpress.com/item/1005007025889615.html) | 'Single din head unit' · 'Single din CarPlay' |
@@ -95,6 +94,8 @@ Nothing in the car gets cut or spliced. Instead, we extend the head unit's two p
 **You'll also need** a KALTEC bracket (coming soon, preorder at [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com)), or a 3D printer + PETG or ASA filament to print your own.
 
 Once you have all the items needed, **star this repo** and fit the unit in your Falcon with the [install guide](install-guide.md).
+
+<sub>IMAGE COMING SOON: tools drawing kaltec style.</sub>
 
 ---
 
