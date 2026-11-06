@@ -1,7 +1,7 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-header.png" width="100%">
 
 ### A CarPlay screen in your FG or FGX FALCON, in about 10 minutes. Pull out the tissue box, clip in the bracket, add any single-din head unit to your centre console!
-**Jump to:** · [Get started](#get-started) · [Kits](#kits) 
+**Jump to:** [Get started](#get-started) · [Kits](#kits) 
 
 ---
 
@@ -29,8 +29,8 @@ It's easy to remove, and the bracket can be used for a additional radio instead,
 | **Time** | About 10 minutes | About 30–45 minutes |
 | **How** | Plug the unit into the cigarette lighter | Two fuse taps in the fuse box, cable hidden behind a panel |
 
-3. **[Parts list](parts-list.md):** everything you need, with links and prices.
-4. **[Free bracket](free-bracket.md):** the 3D print files and print settings, free to download.
+2. **[Parts list](parts-list.md):** everything you need, with links and prices.
+3. **[Free bracket](free-bracket.md):** the 3D print files and print settings, free to download.
 image of bracket irl
 
 Supports all FGs except the FPV line.
