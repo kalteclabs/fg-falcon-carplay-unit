@@ -10,7 +10,7 @@
 
 **Power with the cigarette lighter (about 10 minutes):** the easiest way. Plug the unit into the cigarette lighter and have a full plug-and-play setup within minutes. *It's easily removable as well, just don't throw out your tissue box!*
 
-<sub>IMAGE COMING SOON: head unit with cigarette plug setup.</sub>
+<p align="center"><img src="images/kit-parts-cig.jpg" alt="Head unit, bracket, cigarette plug lead and RCA cable for the plug-in install" width="520"></p>
 
 **Power with the fuse box (about 30–45 minutes):** attach two fuse taps in your fuse box and hide the cable for a more integrated setup. Keeps the clock and settings, and frees up the cigarette lighter. *A little more time-consuming, as you need to take an interior panel off to hide the cable.*
 
@@ -42,7 +42,7 @@ No tools needed. Grip the bottom lip and pull it firmly towards you. It's held b
 > [!TIP]
 > Keep the tissue box. It clips back in if you ever remove the bracket.
 
-<sub>IMAGE COMING SOON: tissue box with arrows showing where to pull from.</sub>
+<p align="center"><img src="images/tissue-box-in-dash.jpg" alt="FG Falcon tissue box in the centre console, with arrows showing where to pull from" width="520"></p>
 
 ## 2. PUT THE CLIPS ON THE BRACKET
 
@@ -127,7 +127,7 @@ Before you plug anything in, check:
 Push the power plug into the matching socket on the back of the head unit until it clicks. It only fits one way round.
 
 <!-- images/install/03-9-lead-into-unit.svg -->
-<sub>IMAGE COMING SOON: power plug going into the back of the head unit.</sub>
+<p align="center"><img src="images/power-plug-in.jpg" alt="Power plug and RCA leads plugged into the back of the head unit" width="520"></p>
 
 ## 4. PLUG IN
 
@@ -135,13 +135,13 @@ Push the power plug into the matching socket on the back of the head unit until 
 2. If your head unit came with a reverse camera or radio antenna, plug them in.
 3. If you haven't already, plug in your head unit's power cable.
 
-<sub>IMAGE COMING SOON: the back of the unit with each plug identified (RCA L and R, POWER, ANTENNA, REVERSE CAMERA).</sub>
+<p align="center"><img src="images/back-ports-labelled.jpg" alt="Back of the head unit with POWER, RCA L and R, REVERSE CAMERA and ANTENNA labelled" width="520"></p>
 
 ## 5. SECURE IT
 
 If your unit came with a metal sleeve, remove it first. Then press the head unit into the bracket from the front until it sits flush. It's a tight press fit, so push firmly and evenly.
 
-<sub>IMAGE COMING SOON: head unit pressed into the bracket.</sub>
+<p align="center"><img src="images/unit-in-bracket-front.jpg" alt="Head unit pressed flush into the bracket" width="520"></p>
 
 1. Make sure the yellow clips are on your bracket.
 2. Tuck the wiring behind the head unit so nothing gets pinched.
@@ -197,7 +197,7 @@ Use the wiring plug that came with your head unit. Join wires the same way as in
 
 With the tissue box out, you can see two factory bolts inside the slot. Either one works. Undo one (it's an M7 bolt), crimp on a ring terminal, or wrap the bare GND wire clockwise under the washer, and tighten it back down. Give the wire a tug to check it's held tight. Leave the power plug sitting in the slot.
 
-<sub>IMAGE COMING SOON: ground wire under the slot bolt.</sub>
+<p align="center"><img src="images/ground-wire-slot-bolt.jpg" alt="Ground wire fixed under the left slot bolt" width="420"></p>
 
 ---
 
@@ -207,7 +207,7 @@ Take the key out and turn the lights off first.
 
 It's under the dash in the driver's footwell, to the right of the steering column. Pull the cover off to see the fuses.
 
-<sub>IMAGE COMING SOON: the exposed fuse box.</sub>
+<p align="center"><img src="images/fuse-box-exposed.jpg" alt="FG Falcon fuse box under the dash, driver's footwell" width="420"></p>
 
 ---
 
@@ -220,7 +220,7 @@ It's under the dash in the driver's footwell, to the right of the steering colum
 2. Run BATTERY and ACC down behind the panel, then behind the steering column to the fuse box, so nothing shows.
 3. Leave the panel off until you've tested in [step 6](#6-test-it).
 
-<sub>IMAGE COMING SOON: the wires routed to the fuse box.</sub>
+<p align="center"><img src="images/wires-routed-to-fuse-box.jpg" alt="Wires routed behind the console panel and steering column" width="420"></p>
 
 ---
 
@@ -238,7 +238,7 @@ It's under the dash in the driver's footwell, to the right of the steering colum
 4. Put a new fuse in each tap's **upper** slot: **10A** in the ALWAYS ON (BATTERY) tap, and **5A** in the KEY ON (ACC) tap. Don't use the fuses that came with your taps unless they're these values.
 5. Push the ALWAYS ON tap into the always-on fuse's slot, and the KEY ON tap into the key-on fuse's slot.
 
-<sub>IMAGE COMING SOON: fuse taps installed in the fuse box, labelled ALWAYS ON and KEY ON.</sub>
+<p align="center"><img src="images/fuse-taps-installed.jpg" alt="Fuse taps in the fuse box, labelled KEY ON and ALWAYS ON" width="520"></p>
 
 > [!TIP]
 > New to fuse taps? It's the same method as fitting a dash cam, tapping into your car's power without cutting any cables. *I watched these videos to learn how to do it. I have no electrical or mechanical experience. It's super easy, needs no special tools and is really cheap!*

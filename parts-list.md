@@ -6,7 +6,7 @@
 
 ---
 ### You'll need a head unit, and the free bracket, then follow the steps to power it!
-<sub>IMAGE COMING SOON: head unit, bracket and power lead laid out together.</sub>
+<p align="center"><img src="images/parts-together.jpg" alt="Head unit in the bracket with the cigarette plug lead and AUX cable" width="520"></p>
 
 ---
 
@@ -16,7 +16,8 @@
 > [!TIP]
 > Don't have a 3D printer? KALTEC brackets and full kits are coming soon, to make this build as easy as possible. To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 
-<sub>IMAGE COMING SOON: 3D render of the bracket.</sub>
+<p align="center"><img src="images/bracket.jpg" alt="The KALTEC FG bracket, printed in black" width="520"></p>
+<p align="center"><img src="images/bracket-rear.jpg" alt="Rear of the KALTEC FG bracket, with the recessed KALTEC lettering" width="520"></p>
 
 **The bracket is provided free by KALTEC.** Download the 3D print file from the [free bracket page](free-bracket.md) and print it. The right print settings are included with the STL.
 
@@ -31,14 +32,14 @@ Print in **PETG or ASA**. If your car sits in the sun or has no tint, protect th
 Building this yourself costs about **A$65–75**, and most of that price is the head unit itself (about $50).
 Prices are in AUD. The links are the exact parts I used. Copy the **search term** into AliExpress for the current cheapest options.
 
-<sub>IMAGE COMING SOON: every part laid out flat: head unit, bracket, leads and tools.</sub>
+<p align="center"><img src="images/kit-parts-cig.jpg" alt="Head unit, bracket, cigarette plug lead and RCA cable laid out" width="520"></p>
 
 Any head unit works, as long as it's **single DIN**: the standard 18 × 5 cm size, not double DIN. 
 
 > [!NOTE]
 > Wireless CarPlay is worth the extra few dollars, but wired units work exactly the same for this project. _I've bought and tested both!_
 
-<sub>IMAGE COMING SOON: simplified 3D render of a single-DIN head unit, KALTEC style, with the 18 × 5 cm dimensions marked.</sub>
+<p align="center"><img src="images/head-unit.jpg" alt="Single-DIN CarPlay head unit" width="520"></p>
 
 
 ### _Most links are AliExpress, as it's the cheapest supplier. But I've also added some Supercheap Auto or Bunnings links so you can grab items the same day._
@@ -142,7 +143,7 @@ Layouts are similar across FG models and years, but not identical. Always check 
 - **Fuse box:** ACC (red) is on an always-on fuse. Move it to a key-on fuse. Key off, the unit must switch off.
 - **Plug-in:** if your cigarette lighter stays live with the key out, purchase a cig plug with an ON/OFF switch, or use the [fuse box route](install-guide.md#7-fuse-box-power).
 
-<sub>IMAGE COMING SOON: cig lighter plug with switch.</sub>
+<p align="center"><img src="images/cig-plug-switch.jpg" alt="Cigarette lighter plug with an ON/OFF switch" width="320"></p>
 
 ---
 

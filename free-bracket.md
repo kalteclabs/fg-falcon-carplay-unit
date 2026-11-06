@@ -52,7 +52,7 @@ Tested on a Bambu Lab H2S with a 0.4 mm nozzle. Start from your printer's standa
 
 No supports needed: everything rises straight up or leans less than 45°, and the KALTEC lettering is recessed. The footprint is 225 × 95.8 mm, 58 mm tall. **Print it at 100% scale.** Scaling it changes the fit for the head unit and the clips.
 
-<sub>IMAGE COMING SOON: the bracket on the print bed, front face down.</sub>
+<p align="center"><img src="images/bracket-print-bed.jpg" alt="The bracket on the print bed, front face down, KALTEC lettering on the back" width="520"></p>
 
 ---
 
