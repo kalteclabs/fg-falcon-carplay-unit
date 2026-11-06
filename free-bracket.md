@@ -7,8 +7,8 @@
 ---
 
 <p align="center">
-  <img src="images/bracket-in-slot.jpg" alt="The bracket fitted in the car, no head unit" height="280">
-  <img src="images/bracket.jpg" alt="The KALTEC FG bracket on its own" height="280">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-in-slot.jpg" alt="The bracket fitted in the car, no head unit" height="280">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket.jpg" alt="The KALTEC FG bracket on its own" height="280">
 </p>
 
 > [!TIP]
@@ -55,7 +55,7 @@ Tested on a Bambu Lab H2S with a 0.4 mm nozzle. Start from your printer's standa
 
 No supports needed: everything rises straight up or leans less than 45°, and the KALTEC lettering is recessed. The footprint is 225 × 95.8 mm, 58 mm tall. **Print it at 100% scale.** Scaling it changes the fit for the head unit and the clips.
 
-<p align="center"><img src="images/bracket-print-bed.jpg" alt="The bracket on the print bed, front face down, KALTEC lettering on the back" width="520"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-print-bed.jpg" alt="The bracket on the print bed, front face down, KALTEC lettering on the back" width="520"></p>
 
 ---
 
@@ -80,8 +80,8 @@ Print in **PETG or ASA**.
 ## FITMENT
 
 <p align="center">
-  <img src="images/clips-on-tabs.jpg" alt="Yellow clips fitted on both bracket tabs" height="280">
-  <img src="images/unit-in-bracket-front.jpg" alt="Head unit pressed into the bracket" height="280">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/clips-on-tabs.jpg" alt="Yellow clips fitted on both bracket tabs" height="280">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/unit-in-bracket-front.jpg" alt="Head unit pressed into the bracket" height="280">
 </p>
 
 Supports all FGs except the FPV line.

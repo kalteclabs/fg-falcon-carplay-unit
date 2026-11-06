@@ -1,20 +1,20 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-header.png" width="100%">
 
-### A CarPlay screen in your FG or FGX FALCON, in about 10 minutes. Pull out the tissue box, clip in the bracket, add any single-din head unit to your centre console!
+### A CarPlay screen in your FG or FGX FALCON, in about 10 minutes. Pull out the tissue box, clip in the bracket, add any single-DIN head unit to your centre console!
 **Jump to:** [Get started](#get-started) · [Kits](#kits) 
 
 ---
 
 <p align="center">
-  <img src="images/fg-installed.jpg" alt="CarPlay head unit fitted in the FG Falcon tissue box slot" height="280">
-  <img src="images/kit-parts-cig.jpg" alt="Head unit, bracket, cigarette plug lead and RCA cable" height="280">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fg-installed.jpg" alt="CarPlay head unit fitted in the FG Falcon tissue box slot" height="280">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg" alt="Head unit, bracket, cigarette plug lead and RCA cable" height="280">
 </p>
 
-The CarPlay head unit takes the place of the tissue box under your factory stereo. The factory stereo stays, and the sound plays through your Falcon's own speakers via the AUX. **no splicing required or touching any of your cars electricals!**
+The CarPlay head unit takes the place of the tissue box under your factory stereo. The factory stereo stays, and the sound plays through your Falcon's own speakers via the AUX. **No splicing required or touching any of your car's electricals!**
 
 The parts cost about **A$65–75**, most of that being the head unit, and the bracket print file is **free** provided by KALTEC, the full install guide and the parts list are also all open source.
 
-It's easy to remove, and the bracket can be used for a additional radio instead, if you're running aftermarket speakers or a subwoofer. Print it yourself for free.
+It's easy to remove, and the bracket can be used for an additional radio instead, if you're running aftermarket speakers or a subwoofer. Print it yourself for free.
 
 > [!TIP]
 > Don't want to build it? KALTEC kits are coming soon, with everything ready to plug in. For $100! To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
@@ -23,7 +23,7 @@ It's easy to remove, and the bracket can be used for a additional radio instead,
 
 ## GET STARTED
 
-1. **[Install guide](install-guide.md):** step by step guide to build it yourself. pick how you'd like to power the unit: 
+1. **[Install guide](install-guide.md):** step-by-step guide to build it yourself. Pick how you'd like to power the unit: 
 
 | | Cigarette lighter | Fuse box |
 | --- | --- | --- |
@@ -33,8 +33,8 @@ It's easy to remove, and the bracket can be used for a additional radio instead,
 2. **[Parts list](parts-list.md):** everything you need, with links and prices.
 3. **[Free bracket](free-bracket.md):** the 3D print files and print settings, free to download.
 <p align="center">
-  <img src="images/unit-in-bracket-front.jpg" alt="CarPlay head unit pressed into the KALTEC FG bracket" height="280">
-  <img src="images/bracket.jpg" alt="The KALTEC FG bracket on its own" height="280">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/unit-in-bracket-front.jpg" alt="CarPlay head unit pressed into the KALTEC FG bracket" height="280">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket.jpg" alt="The KALTEC FG bracket on its own" height="280">
 </p>
 
 Supports all FGs except the FPV line.

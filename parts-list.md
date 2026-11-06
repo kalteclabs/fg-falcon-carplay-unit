@@ -6,7 +6,7 @@
 
 ---
 ### You'll need a head unit, and the free bracket, then follow the steps to power it!
-<p align="center"><img src="images/parts-together.jpg" alt="Head unit in the bracket with the cigarette plug lead and AUX cable" width="520"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/parts-together.jpg" alt="Head unit in the bracket with the cigarette plug lead and AUX cable" width="520"></p>
 
 ---
 
@@ -16,13 +16,16 @@
 > [!TIP]
 > Don't have a 3D printer? KALTEC brackets and full kits are coming soon, to make this build as easy as possible. To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 
-<p align="center"><img src="images/bracket.jpg" alt="The KALTEC FG bracket, printed in black" width="520"></p> <p align="center"><img src="images/bracket-rear.jpg" alt="Rear of the KALTEC FG bracket, with the recessed KALTEC lettering" width="520"></p> **put images side by side
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket.jpg" alt="The KALTEC FG bracket, printed in black" height="260">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-rear.jpg" alt="Rear of the KALTEC FG bracket, with the recessed KALTEC lettering" height="260">
+</p>
 
-**The bracket is provided free by KALTEC.** Download the 3D print file from the [free bracket page](free-bracket.md) and print it. The right print settings are included with the STL.
+**The bracket is provided free by KALTEC.** Download the 3D print file from the [free bracket page](free-bracket.md) and print it. The right print settings are on that page too.
 
 Print in **PETG or ASA**. If your car sits in the sun or has no tint, protect the bracket with a UV clear coat: see [optional parts](#optional).
 
-<p align="center"><img src="images/bracket-in-slot.jpg" alt="The bracket fitted in the car, without the head unit" width="520"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-in-slot.jpg" alt="The bracket fitted in the car, without the head unit" width="520"></p>
 
 ---
 
@@ -31,32 +34,32 @@ Print in **PETG or ASA**. If your car sits in the sun or has no tint, protect th
 Building this yourself costs about **A$65–75**, and most of that price is the head unit itself (about $50).
 Prices are in AUD. The links are the exact parts I used. Copy the **search term** into AliExpress for the current cheapest options.
 
-<p align="center"><img src="images/kit-parts-cig.jpg" alt="Head unit, bracket, cigarette plug lead and RCA cable laid out" width="520"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg" alt="Head unit, bracket, cigarette plug lead and RCA cable laid out" width="520"></p>
 
 Any head unit works, as long as it's **single DIN**: the standard 18 × 5 cm size, not double DIN. 
 
 > [!NOTE]
 > Wireless CarPlay is worth the extra few dollars, but wired units work exactly the same for this project. _I've bought and tested both!_
 
-<p align="center"><img src="images/head-unit.jpg" alt="Single-DIN CarPlay head unit" width="520"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/head-unit.jpg" alt="Single-DIN CarPlay head unit" width="520"></p>
 
 
 ### _Most links are AliExpress, as it's the cheapest supplier. But I've also added some Supercheap Auto or Bunnings links so you can grab items the same day._
-**add price row to the table and remove prive from about make about concise and order will be part price about links search term
-| Part | About | Links to buy | Search term |
-| --- | --- | --- | --- |
-| Single-DIN head unit | $50. Any single-DIN unit works. Depending on the one you buy, it might come with an antenna, a reverse camera or an external GPS module. | [AliExpress](https://www.aliexpress.com/item/1005007025889615.html) | 'Single din head unit' · 'Single din CarPlay' |
-| 2 plastic Ford interior clips | $4 for a 50 pack. Reuse the pair off your tissue box. Only buy these if yours break. KALTEC brackets and kits come with spare clips. | [AliExpress](https://www.aliexpress.com/item/32989988241.html) | 'HE08 clips' · 'Ford interior trim clips' |
-| Audio cable, 2× RCA to 3.5 mm | $4. Carries the sound from the head unit's RCA outs into the Falcon's AUX port, so it plays through the factory speakers. | [AliExpress](https://www.aliexpress.com/item/1326108747.html) · [Bunnings](https://www.bunnings.com.au/antsig-1-5m-3-5mm-aux-to-rca-cable_p0286420) | 'RCA to 3.5 mm' · 'RCA to AUX cable' |
-| Heat-shrink tubing | $15 for a 24 piece pack, or a few dollars on AliExpress. Covers every join and the ends of the unused wires, so nothing shorts. | [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-heat-shrink-tubing---assorted-3.2-6.4mm-24-piece/120316.html) | 'Heat shrink tubing assorted' |
+
+| Part | Price | About | Links to buy | Search term |
+| --- | --- | --- | --- | --- |
+| Single-DIN head unit | $50 | Any single-DIN unit works. Some come with an antenna, reverse camera or GPS module. | [AliExpress](https://www.aliexpress.com/item/1005007025889615.html) | 'Single din head unit' · 'Single din CarPlay' |
+| 2 plastic Ford interior clips | $4 for 50 | Reuse the pair off your tissue box. Only buy if yours break. KALTEC brackets and kits include spares. | [AliExpress](https://www.aliexpress.com/item/32989988241.html) | 'HE08 clips' · 'Ford interior trim clips' |
+| Audio cable, 2× RCA to 3.5 mm | $4 | Runs sound from the head unit's RCA outs into the Falcon's AUX, through the factory speakers. | [AliExpress](https://www.aliexpress.com/item/1326108747.html) · [Bunnings](https://www.bunnings.com.au/antsig-1-5m-3-5mm-aux-to-rca-cable_p0286420) | 'RCA to 3.5 mm' · 'RCA to AUX cable' |
+| Heat-shrink tubing | $15 for 24 (a few dollars on AliExpress) | Covers every join and the unused wire ends so nothing shorts. | [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-heat-shrink-tubing---assorted-3.2-6.4mm-24-piece/120316.html) | 'Heat shrink tubing assorted' |
 
 ### PLUG-IN POWER (CIGARETTE LIGHTER)
 
 The easy one. A cigarette plug lead joins to the head unit's power plug and plugs into the factory outlet. Nothing in the car gets touched.
 
-| Part | About | Links to buy | Search term |
-| --- | --- | --- | --- |
-| Cigarette plug lead | $3 for 2. Plugs into the factory outlet under the tissue box slot. Get one with a **10 A fuse** and wire that's **0.75 mm² or thicker**. | [AliExpress](https://www.aliexpress.com/item/1005007145876029.html) | 'Fused cigarette plug 10A' · 'Cigarette lighter male plug' |
+| Part | Price | About | Links to buy | Search term |
+| --- | --- | --- | --- | --- |
+| Cigarette plug lead | $3 for 2 | Plugs into the factory outlet under the slot. Get one with a **10A fuse** and **0.75 mm² or thicker** wire. | [AliExpress](https://www.aliexpress.com/item/1005007145876029.html) | 'Fused cigarette plug 10A' · 'Cigarette lighter male plug' |
 
 **Plug-in total: about A$65**
 
@@ -66,20 +69,20 @@ Hides the cables by taking power from the fuse box.
 
 Nothing in the car gets cut or spliced. Instead, we extend the head unit's two power wires to reach the fuse box, then connect and push the fuse taps into place, once we've identified which ones to tap into.
 
-| Part | About | Links to buy | Search term |
-| --- | --- | --- | --- |
-| 2 fuse taps, mini blade | $5 for a 5 pack. A fuse tap holds the car's original fuse plus a second fuse for the head unit, so both get power from the same slot. It gets power to the CarPlay unit without cutting into any wires. | [AliExpress](https://www.aliexpress.com/item/1005010560224519.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-add-a-circuit-twin-mini-fuse/726757.html) | 'Mini blade fuse tap' · 'Add a circuit mini' |
-| Mini blade fuses: one **10A** and one **5A** | $4 for a 6 pack. One for each fuse tap: **10A** in the ALWAYS ON tap, **5A** in the KEY ON tap. Fuse taps often come with random values, so don't rely on those. This pack includes both. | [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-fuses-mini-blade-assorted-6-pack/726752.html) | 'Mini blade fuse 10A' · 'Mini blade fuse 5A' |
-| Wire | $10 for 4 metres, more than enough. Extends the head unit's power wires so they reach the fuse box. Use **0.75 mm² or thicker**. The Supercheap one is Australian "4 mm" auto cable, sized by its outside diameter, with a core of about 1.85 mm². | [AliExpress](https://www.aliexpress.com/item/1005009017260144.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-cable-single-core-15a-4mm-x-4m-blue/376702.html) | '0.75 mm² automotive wire' · '18 AWG automotive wire' |
+| Part | Price | About | Links to buy | Search term |
+| --- | --- | --- | --- | --- |
+| 2 fuse taps, mini blade | $5 for 5 | Holds the car's original fuse plus a second one for the head unit, so it gets power without cutting any wires. | [AliExpress](https://www.aliexpress.com/item/1005010560224519.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-add-a-circuit-twin-mini-fuse/726757.html) | 'Mini blade fuse tap' · 'Add a circuit mini' |
+| Mini blade fuses: one **10A** and one **5A** | $4 for 6 | **10A** in the ALWAYS ON tap, **5A** in the KEY ON tap. Don't rely on the fuses that come with the taps. This pack has both. | [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-fuses-mini-blade-assorted-6-pack/726752.html) | 'Mini blade fuse 10A' · 'Mini blade fuse 5A' |
+| Wire | $10 for 4 m | Extends the power wires to the fuse box. Use **0.75 mm² or thicker**. Supercheap's "4 mm" cable is sized by outside diameter; its core is about 1.85 mm². | [AliExpress](https://www.aliexpress.com/item/1005009017260144.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-cable-single-core-15a-4mm-x-4m-blue/376702.html) | '0.75 mm² automotive wire' · '18 AWG automotive wire' |
 
 **Fuse box total: about A$75**
 
 ### OPTIONAL
 
-| Part | About | Where to buy | Search term |
-| --- | --- | --- | --- |
-| Spare power harness | $4. A spare copy of the head unit's power plug, in case you need a new one. The link is for generic Chinese head unit power cables. | [AliExpress](https://www.aliexpress.com/item/1005006782766797.html) | 'Car stereo ISO cable male' · 'ISO wiring harness male plug' |
-| UV clear coat | $28. If your windows aren't tinted, this protects the bracket from UV over time. | [Supercheap](https://www.supercheapauto.com.au/p/mtn-mtn-pro-high-heat-clear-coat-400ml-spray-paint/688225.html) | 'UV clear coat spray' · 'High heat clear coat' |
+| Part | Price | About | Links to buy | Search term |
+| --- | --- | --- | --- | --- |
+| Spare power harness | $4 | A spare of the head unit's power plug (generic ISO lead), in case you need a new one. | [AliExpress](https://www.aliexpress.com/item/1005006782766797.html) | 'Car stereo ISO cable male' · 'ISO wiring harness male plug' |
+| UV clear coat | $28 | Protects the bracket from UV if your windows aren't tinted. | [Supercheap](https://www.supercheapauto.com.au/p/mtn-mtn-pro-high-heat-clear-coat-400ml-spray-paint/688225.html) | 'UV clear coat spray' · 'High heat clear coat' |
 
 ---
 
@@ -144,7 +147,7 @@ Layouts are similar across FG models and years, but not identical. Always check 
 - **Fuse box:** ACC (red) is on an always-on fuse. Move it to a key-on fuse. Key off, the unit must switch off.
 - **Plug-in:** if your cigarette lighter stays live with the key out, purchase a cig plug with an ON/OFF switch, or use the [fuse box route](install-guide.md#7-fuse-box-power).
 
-<p align="center"><img src="images/cig-plug-switch.jpg" alt="Cigarette lighter plug with an ON/OFF switch" width="320"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/cig-plug-switch.jpg" alt="Cigarette lighter plug with an ON/OFF switch" width="320"></p>
 
 ---
 
