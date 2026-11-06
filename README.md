@@ -6,9 +6,9 @@
 ---
 
 <p align="center">
-  <img src="images/fg-installed.jpg" alt="CarPlay head unit fitted in the FG Falcon tissue box slot" width="520">
+  <img src="images/fg-installed.jpg" alt="CarPlay head unit fitted in the FG Falcon tissue box slot" height="280">
+  <img src="images/kit-parts-cig.jpg" alt="Head unit, bracket, cigarette plug lead and RCA cable" height="280">
 </p>
-next to the image put the one of all parts laid ou: unit bracket, rca and power cable, OR the photo of the complete parts assembled 
 
 The CarPlay head unit takes the place of the tissue box under your factory stereo. The factory stereo stays, and the sound plays through your Falcon's own speakers via the AUX. **no splicing required or touching any of your cars electricals!**
 
@@ -32,9 +32,10 @@ It's easy to remove, and the bracket can be used for a additional radio instead,
 
 2. **[Parts list](parts-list.md):** everything you need, with links and prices.
 3. **[Free bracket](free-bracket.md):** the 3D print files and print settings, free to download.
-<p align="center"><img src="images/unit-in-bracket-front.jpg" alt="CarPlay head unit pressed into the KALTEC FG bracket" width="520"></p>
-add image of just the bracket aswell next to it
-
+<p align="center">
+  <img src="images/unit-in-bracket-front.jpg" alt="CarPlay head unit pressed into the KALTEC FG bracket" height="280">
+  <img src="images/bracket.jpg" alt="The KALTEC FG bracket on its own" height="280">
+</p>
 
 Supports all FGs except the FPV line.
 
