@@ -6,7 +6,7 @@
 
 ---
 
-<sub>IMAGE COMING SOON: the bracket in the car, no unit, next to a drawing / render of bracket side by side.</sub>
+<sub>IMAGE COMING SOON: the bracket in the car, no unit, next to picture of just the bracket side by side.</sub>
 
 > [!TIP]
 > Don't have a 3D printer? KALTEC brackets are coming soon, stick around! To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
