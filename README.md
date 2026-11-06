@@ -62,7 +62,8 @@ To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 This started as a one-off for my own FG. Now the bracket and the full guide are open source, so any Falcon owner can fit CarPlay for the cost of the parts.
 
 Built by a Falcon owner, for the Falcon owners who still drive and appreciate this piece of Australian engineering. No more overpriced aftermarket head unit swaps that cost an arm and a leg and can't be undone.
-Star this repo to support the project and help other Falcon owners find it!
+
+Star this repo to support the project and to support a local 21 year old student!
 
 ---
 
@@ -70,10 +71,7 @@ Star this repo to support the project and help other Falcon owners find it!
 
 Free to build, change, share and sell. See [LICENSE.md](LICENSE.md):
 
-- **Bracket files (STL, 3MF, STEP):** [CERN-OHL-S-2.0](https://ohwr.org/cern_ohl_s_v2.txt)
-- **Guides and images:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
-
 Credit KALTEC with a link to this repo, and release anything you change under the same licence.
 **KALTEC · CC BY-SA 4.0 · [github.com/kalteclabs/fg-falcon-carplay-unit](https://github.com/kalteclabs/fg-falcon-carplay-unit)**
 
-FG FALCON SINGLE-DIN Head Unit README v1.0
+FG FALCON SINGLE-DIN Head Unit README v1.2
