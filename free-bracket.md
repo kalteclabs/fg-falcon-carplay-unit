@@ -75,6 +75,7 @@ Print in **PETG or ASA**.
 ---
 
 ## FITMENT
+**picture of tabs on the bracket next to image of headunit in the bracket alone
 
 Supports all FGs except the FPV line.
 
