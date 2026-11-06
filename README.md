@@ -53,7 +53,7 @@ Supports all FGs except the FPV line.
 ## KITS
 
 KALTEC brackets and full kits are coming soon, for anyone without a 3D printer or who'd rather not make the power lead. Brackets come with the clips already fitted.
-Price should be $100 and I will ship anywhere in Australia. Just aiming to complete the free guides and videos first.
+Price should be $100 and we'll ship anywhere in Australia. We're just aiming to complete the free guides and videos first.
 To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 
 ---

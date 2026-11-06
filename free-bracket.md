@@ -31,9 +31,6 @@ Removing the tray and fitting the bracket is covered step by step in the [instal
 
 **Other files:** [Download STL](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.stl) · [Download STEP](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.step)
 
-> [!TIP]
-> Don't have a 3D printer? KALTEC brackets are coming soon, stick around! To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
-
 ---
 
 ## PRINT SETTINGS
