@@ -32,6 +32,8 @@ It's easy to remove, and the bracket can be used for a additional radio instead,
 2. **[Parts list](parts-list.md):** everything you need, with links and prices.
 3. **[Free bracket](free-bracket.md):** the 3D print files and print settings, free to download.
 <p align="center"><img src="images/unit-in-bracket-front.jpg" alt="CarPlay head unit pressed into the KALTEC FG bracket" width="520"></p>
+add image of just the bracket aswell next to it
+
 
 Supports all FGs except the FPV line.
 
