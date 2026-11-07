@@ -23,13 +23,13 @@ Removing the tray and fitting the bracket is covered step by step in the [instal
 
 **[Spin the 3D preview](bracket/kaltec-fg-bracket-v1.0.stl)** to see it before you print.
 
-| Download 3MF | |
-| --- | --- |
-| **GitHub** | [Download v1.0](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.3mf) |
-| **Printables** | Coming soon |
-| **MakerWorld** | Coming soon |
+| Download | Link | Best for |
+| --- | --- | --- |
+| **MakerWorld** | Coming soon | Bambu Lab printers: print profile included, print straight from Bambu Studio or Handy |
+| **Printables** | Coming soon | Any printer and slicer |
+| **GitHub** | [3MF](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.3mf) · [STL](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.stl) · [STEP](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.step) | Every file, including the STEP for changing the design |
 
-**Other files:** [Download STL](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.stl) · [Download STEP](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.step)
+**Bambu Lab printer?** Grab the [Bambu Studio project](bracket/kaltec-fg-bracket-v1.0-petg-bambu.3mf): it has the PETG settings below already set. Open it, check your plate and filament, and print.
 
 ---
 
@@ -42,13 +42,13 @@ Tested on a Bambu Lab H2S with a 0.4 mm nozzle. Start from your printer's standa
 | Orientation | Front face (the lip you see in the car) flat on the bed | Same |
 | Supports | Off | Off |
 | Layer height | 0.2 mm | 0.2 mm |
-| Walls | 5 | 5 |
+| Walls | 4 | 4 |
 | Top / bottom layers | 5 / 5 | 5 / 5 |
 | Infill | 40% gyroid | 40% gyroid |
-| Nozzle temp | Profile + 10 °C (250–255 °C) | Your ASA profile |
-| Part cooling fan | 30–40% | Your ASA profile's low setting |
-| Print time | 2 h 56 min | N/A |
-| Filament used | 85 g | N/A |
+| Nozzle temp | 245 °C, first and other layers (240 °C if it strings) | Your ASA profile |
+| Part cooling fan | 40% min, 80% max (8 s layer time), slow down for layer cooling on | Your ASA profile's low setting |
+| Print time | 3 h 4 min | N/A |
+| Filament used | 89 g | N/A |
 
 No supports needed: everything rises straight up or leans less than 45°, and the KALTEC lettering is recessed. The footprint is 225 × 95.8 mm, 58 mm tall. **Print it at 100% scale.** Scaling it changes the fit for the head unit and the clips.
 
@@ -106,4 +106,4 @@ Ready? Fit it with the [install guide](install-guide.md).
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Free Bracket v1.1
+FG FALCON SINGLE-DIN Head Unit Free Bracket v1.2
