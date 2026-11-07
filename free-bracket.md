@@ -29,26 +29,33 @@ Removing the tray and fitting the bracket is covered step by step in the [instal
 | **Printables** | Coming soon | Any printer and slicer |
 | **GitHub** | [3MF](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.3mf) · [STL](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.stl) · [STEP](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.step) | Every file, including the STEP for changing the design |
 
-**Bambu Lab printer?** Grab the [Bambu Studio project](bracket/kaltec-fg-bracket-v1.0-petg-bambu.3mf): it has the PETG settings below already set. Open it, check your plate and filament, and print.
+**Bambu Lab printer?** Grab the [Bambu Studio project](bracket/kaltec-fg-bracket-v1.0.3mf): it has the PETG settings below already set. Open it, check your plate and filament, and print.
 
 ---
 
 ## PRINT SETTINGS
 
 Tested on a Bambu Lab H2S with a 0.4 mm nozzle. Start from your printer's standard profile for the filament, then set these.
-**change table titles, dont add / change any info
-| Setting | Best outcome |
-| --- | --- 
-| Supports | Off 
-| Layer height | 0.2 mm 
-| Walls | 4 
-| Top / bottom layers | 5 / 5 
-| Infill | 40% gyroid 
-| Nozzle temp | 245 °C
-| Print time | 3 h 4 min 
-| Filament used | 89 g 
-**can we put image next to table?
-<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-print-bed.jpg" alt="The bracket on the print bed, front face down, KALTEC lettering on the back" width="520"></p>
+
+<table>
+<tr>
+<td>
+
+| Setting | Recommended |
+| --- | --- |
+| Supports | Off |
+| Layer height | 0.2 mm |
+| Walls | 4 |
+| Top / bottom layers | 5 / 5 |
+| Infill | 40% gyroid |
+| Nozzle temp | 245 °C |
+| Print time | 3 h 4 min |
+| Filament used | 89 g |
+
+</td>
+<td><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-print-bed.jpg" alt="The bracket on the print bed, front face down, KALTEC lettering on the back" width="380"></td>
+</tr>
+</table>
 
 ---
 
@@ -59,7 +66,7 @@ Print in **PETG or ASA**.
 | PETG | ASA |
 | --- | --- |
 | Cheaper, easier to print and get better finish | More heat resistant, and resists warping |
-| Prints on any printer | A better finish, closer to the factory dash plastic |
+| Prints on any printer | Closer to the factory dash plastic |
 | More than enough if your car is tinted or parks in the shade | Ready to fit straight off the printer |
 
 > [!WARNING]
