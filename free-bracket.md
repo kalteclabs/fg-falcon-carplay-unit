@@ -36,21 +36,17 @@ Removing the tray and fitting the bracket is covered step by step in the [instal
 ## PRINT SETTINGS
 
 Tested on a Bambu Lab H2S with a 0.4 mm nozzle. Start from your printer's standard profile for the filament, then set these.
-
-| Setting | PETG | ASA |
-| --- | --- | --- |
-| Orientation | Front face (the lip you see in the car) flat on the bed | Same |
-| Supports | Off | Off |
-| Layer height | 0.2 mm | 0.2 mm |
-| Walls | 4 | 4 |
-| Top / bottom layers | 5 / 5 | 5 / 5 |
-| Infill | 40% gyroid | 40% gyroid |
-| Nozzle temp | 245 °C, first and other layers (240 °C if it strings) | Your ASA profile |
-| Part cooling fan | 40% min, 80% max (8 s layer time), slow down for layer cooling on | Your ASA profile's low setting |
-| Print time | 3 h 4 min | N/A |
-| Filament used | 89 g | N/A |
-
-No supports needed: everything rises straight up or leans less than 45°, and the KALTEC lettering is recessed. The footprint is 225 × 95.8 mm, 58 mm tall. **Print it at 100% scale.** Scaling it changes the fit for the head unit and the clips.
+**change table titles, dont add / change any info
+| Setting | Best outcome |
+| --- | --- 
+| Supports | Off 
+| Layer height | 0.2 mm 
+| Walls | 4 
+| Top / bottom layers | 5 / 5 
+| Infill | 40% gyroid 
+| Nozzle temp | 245 °C
+| Print time | 3 h 4 min 
+| Filament used | 89 g 
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-print-bed.jpg" alt="The bracket on the print bed, front face down, KALTEC lettering on the back" width="520"></p>
 
