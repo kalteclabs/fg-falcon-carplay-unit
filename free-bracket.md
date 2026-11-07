@@ -47,7 +47,7 @@ Tested on a Bambu Lab H2S with a 0.4 mm nozzle. Start from your printer's standa
 | Nozzle temp | 245 °C
 | Print time | 3 h 4 min 
 | Filament used | 89 g 
-
+**can we put image next to table?
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-print-bed.jpg" alt="The bracket on the print bed, front face down, KALTEC lettering on the back" width="520"></p>
 
 ---
@@ -58,7 +58,7 @@ Print in **PETG or ASA**.
 
 | PETG | ASA |
 | --- | --- |
-| Cheaper, with more colour and finish options | More heat resistant, and resists warping |
+| Cheaper, easier to print and get better finish | More heat resistant, and resists warping |
 | Prints on any printer | A better finish, closer to the factory dash plastic |
 | More than enough if your car is tinted or parks in the shade | Ready to fit straight off the printer |
 
