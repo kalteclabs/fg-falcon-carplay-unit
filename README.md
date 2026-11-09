@@ -29,7 +29,6 @@ It's easy to remove, and the bracket can be used for an additional radio instead
   <a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest"><img src="https://img.shields.io/badge/GITHUB-STL%20%C2%B7%203MF%20%C2%B7%20STEP-3DA880?style=for-the-badge&labelColor=1F2623" alt="Download from GitHub"></a>
 </p>
 
-
 ---
 
 ## GET STARTED
