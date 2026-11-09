@@ -14,7 +14,7 @@
 ### This replaces your tissue box (the tray in the dash), with no screws required!
 
 > [!TIP]
-> Don't have a 3D printer? KALTEC brackets and full kits make this build as easy as possible. Preorder a KALTEC kit for A$120: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
+> Don't have a 3D printer? KALTEC brackets and full kits make this build as easy as possible. Preorder a KALTEC kit for A$100: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket.jpg" alt="The KALTEC FG bracket, printed in black" height="260">

@@ -12,7 +12,7 @@
 </p>
 
 > [!TIP]
-> Don't have a 3D printer? Preorder a KALTEC kit for A$120: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
+> Don't have a 3D printer? Preorder a KALTEC kit for A$100: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 
 ---
 
@@ -22,9 +22,9 @@
 Removing the tray and fitting the bracket is covered step by step in the [install guide](install-guide.md#1-take-out-the-tissue-box).
 
 <p align="center">
-  <a href="https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit"><img src="https://img.shields.io/badge/MAKERWORLD-PRINT%20PROFILE-3DA880?style=for-the-badge&labelColor=1F2623" alt="Download on MakerWorld"></a>
-  <a href="https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t"><img src="https://img.shields.io/badge/PRINTABLES-DOWNLOAD-3DA880?style=for-the-badge&labelColor=1F2623" alt="Download on Printables"></a>
-  <a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest"><img src="https://img.shields.io/badge/GITHUB-STL%20%C2%B7%203MF%20%C2%B7%20STEP-3DA880?style=for-the-badge&labelColor=1F2623" alt="Download from GitHub"></a>
+  <a href="https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit"><img src="https://img.shields.io/badge/MAKERWORLD-237356?style=for-the-badge" alt="MakerWorld"></a>
+  <a href="https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t"><img src="https://img.shields.io/badge/PRINTABLES-237356?style=for-the-badge" alt="Printables"></a>
+  <a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest"><img src="https://img.shields.io/badge/GITHUB-237356?style=for-the-badge" alt="GitHub"></a>
 </p>
 
 **[Spin the 3D preview](bracket/kaltec-fg-bracket-v1.0.stl)** to see it before you print.

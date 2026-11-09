@@ -4,7 +4,7 @@
 
 **Jump to:** [Steps](#1-take-out-the-tissue-box) · [Parts list](parts-list.md) · [Troubleshooting](parts-list.md#troubleshooting)
 
-**[DOWNLOAD THE FULL INSTALL GUIDE (PDF)](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-install-guide.pdf)**
+<p align="center"><a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-install-guide.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20THE%20INSTALL%20GUIDE%20%28PDF%29-237356?style=for-the-badge" alt="Download the install guide (PDF)"></a></p>
 
 ---
 
@@ -22,7 +22,7 @@
 <sub>IMAGE COMING SOON: head unit with fuse box setup.</sub>
 
 > [!TIP]
-> If you buy a KALTEC kit, everything is provided, so you just pop your old tray out and plug this in. Preorder a KALTEC kit for A$120: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com). Otherwise, the DIY setup needs a power lead, the 3D printed bracket ([file provided free](free-bracket.md)) and your head unit of choice. Follow the steps below to get up and running.
+> If you buy a KALTEC kit, everything is provided, so you just pop your old tray out and plug this in. Preorder a KALTEC kit for A$100: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com). Otherwise, the DIY setup needs a power lead, the 3D printed bracket ([file provided free](free-bracket.md)) and your head unit of choice. Follow the steps below to get up and running.
 
 ---
 
@@ -265,6 +265,12 @@ It's under the dash in the driver's footwell, to the right of the steering colum
 > - [Fuse tap walkthrough](https://www.youtube.com/watch?v=K2iKXj82354&t=258s)
 
 Your power plug is now grounded, connected to the fuse box and waiting in the slot. The hard part is done! Continue to [step 4](#4-plug-in), where you plug everything into the unit and secure it to the dash.
+
+---
+
+**Want it on paper?** The whole guide, parts list and fuse box layout as one A4 PDF:
+
+<p align="center"><a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-install-guide.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20THE%20INSTALL%20GUIDE%20%28PDF%29-237356?style=for-the-badge" alt="Download the install guide (PDF)"></a></p>
 
 ---
 

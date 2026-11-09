@@ -10,8 +10,7 @@
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg" alt="Head unit, bracket, cigarette plug lead and RCA cable" height="280">
 </p>
 
-**[DOWNLOAD THE FULL INSTALL GUIDE (PDF)](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-install-guide.pdf)**
-
+<p align="center"><a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-install-guide.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20THE%20INSTALL%20GUIDE%20%28PDF%29-237356?style=for-the-badge" alt="Download the install guide (PDF)"></a></p>
 
 The CarPlay head unit takes the place of the tissue box under your factory stereo. The factory stereo stays, and the sound plays through your Falcon's own speakers via the AUX. **No splicing or cutting into any of your car's wiring!**
 
@@ -20,16 +19,16 @@ The parts cost about **A$65–75**, most of that being the head unit. The bracke
 It's easy to remove, and the bracket can be used for an additional radio instead, if you're running aftermarket speakers or a subwoofer.
 
 > [!TIP]
-> Don't want to build it? KALTEC kits come with everything ready to plug in. Preorder a KALTEC kit for A$120: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
+> Don't want to build it? KALTEC kits come with everything ready to plug in. Preorder a KALTEC kit for A$100: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 
 ---
 
 ## DOWNLOAD THE BRACKET
 
 <p align="center">
-  <a href="https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit"><img src="https://img.shields.io/badge/MAKERWORLD-PRINT%20PROFILE-3DA880?style=for-the-badge&labelColor=1F2623" alt="Download on MakerWorld"></a>
-  <a href="https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t"><img src="https://img.shields.io/badge/PRINTABLES-DOWNLOAD-3DA880?style=for-the-badge&labelColor=1F2623" alt="Download on Printables"></a>
-  <a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest"><img src="https://img.shields.io/badge/GITHUB-STL%20%C2%B7%203MF%20%C2%B7%20STEP-3DA880?style=for-the-badge&labelColor=1F2623" alt="Download from GitHub"></a>
+  <a href="https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit"><img src="https://img.shields.io/badge/MAKERWORLD-237356?style=for-the-badge" alt="MakerWorld"></a>
+  <a href="https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t"><img src="https://img.shields.io/badge/PRINTABLES-237356?style=for-the-badge" alt="Printables"></a>
+  <a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest"><img src="https://img.shields.io/badge/GITHUB-237356?style=for-the-badge" alt="GitHub"></a>
 </p>
 
 ---
@@ -74,7 +73,7 @@ KALTEC kits are for anyone without a 3D printer or who'd rather not make the pow
 
 Preorder a KALTEC kit for A$100: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 
-Website is coming soon (kaltec.au). stick around for the final kits or preorder now for cheaper!
+Website is coming soon (kaltec.au). Stick around for the final kits or preorder now for cheaper!
 
 ---
 
