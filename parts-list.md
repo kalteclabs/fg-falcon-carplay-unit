@@ -14,7 +14,7 @@
 ### This replaces your tissue box (the tray in the dash), with no screws required!
 
 > [!TIP]
-> Don't have a 3D printer? KALTEC brackets and full kits are coming soon, to make this build as easy as possible. To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
+> Don't have a 3D printer? KALTEC brackets and full kits make this build as easy as possible. Preorder a KALTEC kit for A$120: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket.jpg" alt="The KALTEC FG bracket, printed in black" height="260">
@@ -94,11 +94,11 @@ Nothing in the car gets cut or spliced. Instead, we extend the head unit's two p
 - Optional: a plastic trim tool
 - Optional: a multimeter or test light
 
-**You'll also need** a KALTEC bracket (coming soon, preorder at [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com)), or a 3D printer + PETG or ASA filament to print your own.
+**You'll also need** a KALTEC bracket (preorder at [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com)), or a 3D printer + PETG or ASA filament to print your own.
 
 Once you have all the items needed, **star this repo** and fit the unit in your Falcon with the [install guide](install-guide.md).
 
-<sub>IMAGE COMING SOON: tools drawing kaltec style.</sub>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/tools.png" alt="Tools and extras: crimper/stripper, lighter, heat-shrink, 2 fuse taps, a 10 A and a 5 A fuse, extra wire" width="720"></p>
 
 ---
 
@@ -108,9 +108,9 @@ Once you have all the items needed, **star this repo** and fit the unit in your 
 
 Layouts are similar across FG models and years, but not identical. Always check your own car first: the layout is usually printed inside the fuse box lid, or check the owner's manual.
 
-**If you can't find yours, I've made a basic layout that suits most FG Falcons.** The highlighted fuses are good ones to tap. On my FG, I used fuse **21** for BATTERY (always on) and fuse **15** for ACC (key on).
+**If you can't find yours, I've made a basic layout that suits most FG Falcons.** The highlighted fuses are good ones to tap. On my FG, I used fuse **15** for BATTERY (always on) and fuse **21** for ACC (key on).
 
-<sub>IMAGE COMING SOON: general FG fuse box layout, redrawn in KALTEC style, with a good always-on fuse and a good key-on fuse highlighted.</sub>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/fuse-box-layout.png" alt="General FG fuse box layout, with fuse 15 (always on) and fuse 21 (key on) highlighted" width="720"></p>
 
 ---
 
@@ -158,7 +158,7 @@ Layouts are similar across FG models and years, but not identical. Always check 
 - Push the bracket in evenly, both sides at once, until both clips click.
 - Sometimes the console edges interfere with the bracket. Flex them out with your hands to seat it.
 
-<sub>IMAGE COMING SOON: the plastic sides of the console slot highlighted.</sub>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/console-slot-sides.png" alt="The plastic sides of the console slot highlighted: flex them out if the bracket catches" width="720"></p>
 
 ---
 
@@ -193,4 +193,4 @@ Layouts are similar across FG models and years, but not identical. Always check 
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Parts List v1.2
+FG FALCON SINGLE-DIN Head Unit Parts List v1.3

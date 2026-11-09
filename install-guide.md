@@ -4,6 +4,8 @@
 
 **Jump to:** [Steps](#1-take-out-the-tissue-box) · [Parts list](parts-list.md) · [Troubleshooting](parts-list.md#troubleshooting)
 
+**[DOWNLOAD THE FULL INSTALL GUIDE (PDF)](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-install-guide.pdf)**
+
 ---
 
 ### THERE ARE TWO WAYS TO POWER THE CARPLAY HEAD UNIT
@@ -20,7 +22,7 @@
 <sub>IMAGE COMING SOON: head unit with fuse box setup.</sub>
 
 > [!TIP]
-> If you buy a KALTEC kit, everything is provided, so you just pop your old tray out and plug this in. Kits are coming soon: to preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com). Otherwise, the DIY setup needs a power lead, the 3D printed bracket ([file provided free](free-bracket.md)) and your head unit of choice. Follow the steps below to get up and running.
+> If you buy a KALTEC kit, everything is provided, so you just pop your old tray out and plug this in. Preorder a KALTEC kit for A$120: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com). Otherwise, the DIY setup needs a power lead, the 3D printed bracket ([file provided free](free-bracket.md)) and your head unit of choice. Follow the steps below to get up and running.
 
 ---
 
@@ -76,7 +78,7 @@ Your head unit comes with two plugs. The speaker plug has 8 wires in pairs, soli
 
 Use the power plug. It's the one with the red, yellow and black wires.
 
-<sub>IMAGE COMING SOON: the speaker plug next to the power plug, with the power plug marked as the one to use.</sub>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/03-1-power-plug.png" alt="The speaker plug next to the power plug, with the power plug marked as the one to use" width="720"></p>
 
 ### 3.2 FIND YOUR THREE WIRES
 
@@ -89,24 +91,21 @@ Use the power plug. It's the one with the red, yellow and black wires.
 > [!NOTE]
 > Go by the **label** in your manual, because colours change between head units.
 
-<!-- images/install/03-2-find-three-wires.svg -->
-<sub>IMAGE COMING SOON: the manual's power plug wiring, with BATTERY, ACC and GND highlighted.</sub>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/03-2-find-three-wires.png" alt="The manual's power plug wiring, with BATTERY, ACC and GND highlighted" width="720"></p>
 
 ### 3.3 CUT, STRIP AND TWIST
 
 Cut all the other wires on the power plug short and heat-shrink the ends. Ensure no wires touch.
 
-<!-- images/install/03-3-cut-unused-wires.svg -->
-<sub>IMAGE COMING SOON: the five unused wires cut short, red, yellow and black left long.</sub>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/03-3-cut-unused-wires.png" alt="The five unused wires cut short and heat-shrunk, red, yellow and black left long" width="720"></p>
 
 Strip about 1 cm off the ends of BATTERY (yellow), ACC (red) and GND (black).
 
-<!-- images/install/03-5-strip-wires.svg -->
-<sub>IMAGE COMING SOON: wire strippers taking 1 cm off red, yellow and black.</sub>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/03-5-strip-wires.png" alt="1 cm stripped off the ends of red, yellow and black" width="720"></p>
 
 Twist the bare ends of BATTERY and ACC together tightly, so they share the same power.
 
-<sub>IMAGE COMING SOON: red and yellow twisted into one end.</sub>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/03-6-twist-power.png" alt="Red and yellow twisted into one end, black kept separate" width="720"></p>
 
 ### 3.4 CONNECT TO THE CIGARETTE PLUG LEAD
 
@@ -117,8 +116,7 @@ Join the wires and heat-shrink each join:
 
 Unscrew the tip of the cigarette plug and check there's a **10A** fuse inside. If it's a different value, swap it for a 10A.
 
-<!-- images/install/03-7-connect-to-cig-lead.svg -->
-<sub>IMAGE COMING SOON: red and yellow joining the cig lead's red (+), black joining black (−).</sub>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/03-7-connect-to-cig-lead.png" alt="Red and yellow joined to the cig lead's red (+), black joined to black (−), each join heat-shrunk" width="720"></p>
 
 ### 3.5 PLUG THE LEAD INTO THE HEAD UNIT
 
@@ -127,8 +125,7 @@ Before you plug anything in, check:
 - No bare wire shows anywhere on the lead.
 - The wire can reach from the cigarette plug to the back of the head unit.
 
-<!-- images/install/03-8-finished-lead.svg -->
-<sub>IMAGE COMING SOON: the finished plug-in lead.</sub>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/03-8-finished-lead.png" alt="The finished plug-in lead: power plug to cigarette plug" width="720"></p>
 
 Push the power plug into the matching socket on the back of the head unit until it clicks. It only fits one way round.
 
@@ -169,7 +166,7 @@ If your unit came with a metal sleeve, remove it first. Then press the head unit
 > [!TIP]
 > Something not right? The bracket pops straight back out. See [troubleshooting](parts-list.md#troubleshooting).
 
-<sub>IMAGE COMING SOON: AUX selected on the factory stereo, with music playing.</sub>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/06-aux-selected.png" alt="Press MEDIA on the factory stereo until the display shows AUX" width="720"></p>
 
 **Done.** The head unit turns on and off with the key. Support the project by **starring this repo**!
 
@@ -200,13 +197,13 @@ Use the wiring plug that came with your head unit. Join wires the same way as in
 4. Strip about 2 cm off the end of GND, so it can wrap under the bolt.
 5. Cut all the other wires on the power plug short and heat-shrink the ends. Ensure no wires touch.
 
-<sub>IMAGE COMING SOON: finished fuse box lead.</sub>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/07-1-fuse-box-lead.png" alt="The finished fuse box lead: BATTERY to the ALWAYS ON 10A tap, ACC to the KEY ON 5A tap, short GND" width="720"></p>
 
 ---
 
 ### 7.2 CONNECT THE GROUND
 
-With the tissue box out, you can see two factory bolts inside the slot. Either one works. Undo one (it's an M7 bolt), crimp on a ring terminal, or wrap the bare GND wire clockwise under the washer, and tighten it back down. Give the wire a tug to check it's held tight. Leave the power plug sitting in the slot.
+With the tissue box out, you can see two factory bolts inside the slot. Either one works. Undo one (it's an M7 bolt), wrap the bare GND wire clockwise under the washer, and tighten it back down. Give the wire a tug to check it's held tight. Leave the power plug sitting in the slot.
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/ground-wire-slot-bolt.jpg" alt="Ground wire fixed under the left slot bolt" width="420"></p>
 
@@ -250,10 +247,14 @@ It's under the dash in the driver's footwell, to the right of the steering colum
 > Not sure which fuse is which? A test light or multimeter shows you: an always-on fuse is live with the key out, a key-on fuse is only live with the key on.
 
 1. Find your layout. It's usually printed inside the fuse box lid, and it's always in the owner's manual. Stuck? See the [fuse box layout](parts-list.md#fuse-box-layout).
-2. Pick two fuses for non-critical accessories, like interior lights or the power outlets: one **always on** for BATTERY, one **on with the key only** for ACC. *On my FG, I used fuse **21** for BATTERY and fuse **15** for ACC. Check yours first, as layouts differ between years.*
-3. Pull out each fuse you picked. Put it in its tap's **lower** slot, exactly as it was, and never swap it for a bigger one.
-4. Put a new fuse in each tap's **upper** slot: **10A** in the ALWAYS ON (BATTERY) tap, and **5A** in the KEY ON (ACC) tap. Don't use the fuses that came with your taps unless they're these values.
+2. Pick two fuses for non-critical accessories, like interior lights or the power outlets: one **always on** for BATTERY, one **on with the key only** for ACC. *On my FG, I used fuse **15** for BATTERY and fuse **21** for ACC. Check yours first, as layouts differ between years.*
+3. Pull out each fuse you picked. Put it in its tap's **front** slot, exactly as it was, and never swap it for a bigger one.
+4. Put a new fuse in each tap's **back** slot: **10A** in the ALWAYS ON (BATTERY) tap, and **5A** in the KEY ON (ACC) tap. Don't use the fuses that came with your taps unless they're these values.
 5. Push the ALWAYS ON tap into the always-on fuse's slot, and the KEY ON tap into the key-on fuse's slot.
+
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/07-5a-load-fuse-tap.png" alt="Load the fuse tap: the car's fuse in the front slot, the new fuse in the back slot" width="720"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/07-5b-taps-in-fuse-box.png" alt="The ALWAYS ON tap in slot 15 and the KEY ON tap in slot 21" width="720"></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fuse-taps-installed.jpg" alt="Fuse taps in the fuse box, labelled KEY ON and ALWAYS ON" width="520"></p>
 
@@ -271,4 +272,4 @@ Your power plug is now grounded, connected to the fuse box and waiting in the sl
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Install Guide v1.3
+FG FALCON SINGLE-DIN Head Unit Install Guide v1.4

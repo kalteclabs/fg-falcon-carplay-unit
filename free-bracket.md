@@ -12,7 +12,7 @@
 </p>
 
 > [!TIP]
-> Don't have a 3D printer? KALTEC brackets are coming soon, stick around! To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
+> Don't have a 3D printer? Preorder a KALTEC kit for A$120: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 
 ---
 
@@ -79,8 +79,6 @@ Print in **PETG or ASA**.
 > **Don't print it in PLA.** It softens in a hot car and the bracket sags.
 > If your car sits in the sun or has no tint, use ASA, or give PETG a [UV clear coat](parts-list.md#optional).
 
-<sub>IMAGE COMING SOON: PETG and ASA prints side by side.</sub>
-
 ---
 
 ## FITMENT
@@ -115,4 +113,4 @@ Ready? Fit it with the [install guide](install-guide.md).
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Free Bracket v1.3
+FG FALCON SINGLE-DIN Head Unit Free Bracket v1.4

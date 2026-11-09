@@ -3,6 +3,8 @@
 ### A CarPlay screen in your FG or FGX FALCON, in about 10 minutes. Pull out the tissue box, clip in the bracket, add any single-DIN head unit to your centre console!
 **Jump to:** [Download the bracket](#download-the-bracket) · [Get started](#get-started) · [Fitment](#fitment) · [Kits](#kits)
 
+**[DOWNLOAD THE FULL INSTALL GUIDE (PDF)](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-install-guide.pdf)**
+
 ---
 
 <p align="center">
@@ -17,7 +19,7 @@ The parts cost about **A$65–75**, most of that being the head unit. The bracke
 It's easy to remove, and the bracket can be used for an additional radio instead, if you're running aftermarket speakers or a subwoofer.
 
 > [!TIP]
-> Don't want to build it? KALTEC kits are coming soon, with everything ready to plug in, for $100. To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
+> Don't want to build it? KALTEC kits come with everything ready to plug in. Preorder a KALTEC kit for A$120: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 
 ---
 
@@ -67,9 +69,9 @@ Supports all FGs except the FPV line.
 
 ## KITS
 
-KALTEC brackets and full kits are coming soon, for anyone without a 3D printer or who'd rather not make the power lead. Brackets come with the clips already fitted.
-Price should be $100 and we'll ship anywhere in Australia. We're just aiming to complete the free guides and videos first.
-To preorder, email [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
+KALTEC kits are for anyone without a 3D printer or who'd rather not make the power lead. Brackets come with the clips already fitted, and we ship anywhere in Australia.
+
+Preorder a KALTEC kit for A$120: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
 
 ---
 
@@ -93,4 +95,4 @@ Credit KALTEC with a link to this repo, and release anything you change under th
 
 **KALTEC · CC BY-SA 4.0 · [github.com/kalteclabs/fg-falcon-carplay-unit](https://github.com/kalteclabs/fg-falcon-carplay-unit)**
 
-FG FALCON SINGLE-DIN Head Unit README v1.3
+FG FALCON SINGLE-DIN Head Unit README v1.4
