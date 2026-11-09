@@ -1,9 +1,7 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-header.png" width="100%">
 
 ### A CarPlay screen in your FG or FGX FALCON, in about 10 minutes. Pull out the tissue box, clip in the bracket, add any single-DIN head unit to your centre console!
-**Jump to:** [Download the bracket](#download-the-bracket) · [Get started](#get-started) · [Fitment](#fitment) · [Kits](#kits)
-
-**[DOWNLOAD THE FULL INSTALL GUIDE (PDF)](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-install-guide.pdf)**
+**Jump to:** [FREE BRACKET FILE](#download-the-bracket) · [GET STARTED](#get-started) · [KITS](#kits)
 
 ---
 
@@ -11,6 +9,9 @@
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fg-installed.jpg" alt="CarPlay head unit fitted in the FG Falcon tissue box slot" height="280">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg" alt="Head unit, bracket, cigarette plug lead and RCA cable" height="280">
 </p>
+
+**[DOWNLOAD THE FULL INSTALL GUIDE (PDF)](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-install-guide.pdf)**
+
 
 The CarPlay head unit takes the place of the tissue box under your factory stereo. The factory stereo stays, and the sound plays through your Falcon's own speakers via the AUX. **No splicing or cutting into any of your car's wiring!**
 
@@ -71,16 +72,18 @@ Supports all FGs except the FPV line.
 
 KALTEC kits are for anyone without a 3D printer or who'd rather not make the power lead. Brackets come with the clips already fitted, and we ship anywhere in Australia.
 
-Preorder a KALTEC kit for A$120: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
+Preorder a KALTEC kit for A$100: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
+
+Website is coming soon (kaltec.au). stick around for the final kits or preorder now for cheaper!
 
 ---
 
 ## WHY IT'S FREE
 This started as a one-off for my own FG. Now the bracket and the full guide are open source, so any Falcon owner can fit CarPlay for the cost of the parts.
 
-Built by a Falcon owner, for the Falcon owners who still drive and appreciate this piece of Australian engineering. No more overpriced aftermarket head unit swaps that cost an arm and a leg and can't be undone.
+**Built by a Falcon owner, for the Falcon owners who still drive and appreciate this piece of Australian engineering. No more overpriced aftermarket head unit swaps that cost an arm and a leg**
 
-Star this repo to support the project and to support a local 21-year-old student!
+Star this repo to support the project and to support a local 21-year-old engineer, this will also help reach more falcon owners!
 
 ---
 
