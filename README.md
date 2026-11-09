@@ -31,6 +31,18 @@ It's easy to remove, and the bracket can be used for an additional radio instead
   <a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest"><img src="https://img.shields.io/badge/GITHUB-237356?style=for-the-badge" alt="GitHub"></a>
 </p>
 
+The bracket replaces your tissue box and holds any single-DIN head unit. No screws: it clips in with the two plastic clips off the tissue box. The print file is free, in three formats:
+
+| Where | What you get | Best for |
+| --- | --- | --- |
+| **MakerWorld** | Print profile with the settings below | Bambu Lab printers, print straight from Bambu Studio or Handy |
+| **Printables** | STL | Any printer and slicer |
+| **GitHub** | STL, 3MF and STEP | Every file, including the STEP for changing the design |
+
+**Printing it:** PETG or ASA, never PLA (it sags in a hot car). 0.2 mm layers, 4 walls, 5 top and bottom layers, 40% gyroid infill, no supports, front face down. About 3 hours and 89 g of PETG on a Bambu Lab H2S.
+
+**[Free bracket page →](free-bracket.md)** for the full print settings, PETG vs ASA, and fitting tips.
+
 ---
 
 ## GET STARTED
