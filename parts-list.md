@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-rear.jpg" alt="Rear of the KALTEC FG bracket, with the recessed KALTEC lettering" height="260">
 </p>
 
-**The bracket is provided free by KALTEC.** Download the 3D print file from the [free bracket page](free-bracket.md) and print it. The right print settings are on that page too.
+**The bracket is provided free by KALTEC.** Download the 3D print file from [MakerWorld](https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit), [Printables](https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t) or the [free bracket page](free-bracket.md) and print it. The right print settings are on that page too.
 
 Print in **PETG or ASA**. If your car sits in the sun or has no tint, protect the bracket with a UV clear coat: see [optional parts](#optional).
 

@@ -21,12 +21,18 @@
 
 Removing the tray and fitting the bracket is covered step by step in the [install guide](install-guide.md#1-take-out-the-tissue-box).
 
+<p align="center">
+  <a href="https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit"><img src="https://img.shields.io/badge/MAKERWORLD-PRINT%20PROFILE-3DA880?style=for-the-badge&labelColor=1F2623" alt="Download on MakerWorld"></a>
+  <a href="https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t"><img src="https://img.shields.io/badge/PRINTABLES-DOWNLOAD-3DA880?style=for-the-badge&labelColor=1F2623" alt="Download on Printables"></a>
+  <a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest"><img src="https://img.shields.io/badge/GITHUB-STL%20%C2%B7%203MF%20%C2%B7%20STEP-3DA880?style=for-the-badge&labelColor=1F2623" alt="Download from GitHub"></a>
+</p>
+
 **[Spin the 3D preview](bracket/kaltec-fg-bracket-v1.0.stl)** to see it before you print.
 
 | Download | Link | Best for |
 | --- | --- | --- |
-| **MakerWorld** | Coming soon | Bambu Lab printers: print profile included, print straight from Bambu Studio or Handy |
-| **Printables** | Coming soon | Any printer and slicer |
+| **MakerWorld** | [Download on MakerWorld](https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit) | Bambu Lab printers: print profile included, print straight from Bambu Studio or Handy |
+| **Printables** | [Download on Printables](https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t) | Any printer and slicer |
 | **GitHub** | [3MF](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.3mf) · [STL](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.stl) · [STEP](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.step) | Every file, including the STEP for changing the design |
 
 **Bambu Lab printer?** Grab the [Bambu Studio project](bracket/kaltec-fg-bracket-v1.0.3mf): it has the PETG settings below already set. Open it, check your plate and filament, and print.
@@ -109,4 +115,4 @@ Ready? Fit it with the [install guide](install-guide.md).
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Free Bracket v1.2
+FG FALCON SINGLE-DIN Head Unit Free Bracket v1.3

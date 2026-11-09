@@ -28,7 +28,7 @@
 
 Everything needed is in the [parts list](parts-list.md#parts).
 
-- [ ] The bracket to replace the tissue box, 3D print file _provided free from KALTEC_ on the [free bracket page](free-bracket.md)
+- [ ] The bracket to replace the tissue box, 3D print file _provided free from KALTEC_ on [MakerWorld](https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit), [Printables](https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t) or the [free bracket page](free-bracket.md)
 - [ ] A single-DIN head unit, _any will work!_
 - [ ] An RCA to 3.5 mm audio cable
 - [ ] Heat-shrink tubing
