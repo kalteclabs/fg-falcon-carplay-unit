@@ -6,7 +6,10 @@
 
 ---
 ### You'll need a head unit, and the free bracket, then follow the steps to power it!
-<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/parts-together.jpg" alt="Head unit in the bracket with the cigarette plug lead and AUX cable" width="520"></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/parts-together.jpg" alt="Head unit in the bracket with the cigarette plug lead and AUX cable" height="260">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg"alt="Head unit, bracket, cigarette plug lead and RCA cable laid out" height="260">
+</p>
 
 ---
 
@@ -34,17 +37,12 @@ Print in **PETG or ASA**. If your car sits in the sun or has no tint, protect th
 Building this yourself costs about **A$65–75**, and most of that price is the head unit itself (about $50).
 Prices are in AUD. The links are the exact parts I used. Copy the **search term** into AliExpress for the current cheapest options.
 
-<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg" alt="Head unit, bracket, cigarette plug lead and RCA cable laid out" width="520"></p>
-
 Any head unit works, as long as it's **single DIN**: the standard 18 × 5 cm size, not double DIN. 
-
-> [!NOTE]
-> Wireless CarPlay is worth the extra few dollars, but wired units work exactly the same for this project. _I've bought and tested both!_
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/head-unit.jpg" alt="Single-DIN CarPlay head unit" width="520"></p>
 
-
-### _Most links are AliExpress, as it's the cheapest supplier. But I've also added some Supercheap Auto or Bunnings links so you can grab items the same day._
+> [!NOTE]
+> Wireless CarPlay is worth the extra few dollars, but wired units work exactly the same for this project. _I've bought and tested both!_
 
 | Part | Price | About | Links to buy | Search term |
 | --- | --- | --- | --- | --- |
