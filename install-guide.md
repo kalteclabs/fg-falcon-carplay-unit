@@ -1,6 +1,7 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT · INSTALL GUIDE" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-install-header.png" width="100%">
 
-### Install guide for all FG and FGX FALCONS to build and install your own CarPlay unit for about A$65–75, all provided free by KALTEC.
+### Install guide to build and install your own FG Falcon CarPlay unit for about A$70 in parts, all provided free by KALTEC.
+**FG, MkII and FG-X. Not FPV.**
 
 **Jump to:** [Steps](#1-take-out-the-tissue-box) · [Parts list](parts-list.md) · [Troubleshooting](parts-list.md#troubleshooting)
 
@@ -10,19 +11,23 @@
 
 ### THERE ARE TWO WAYS TO POWER THE CARPLAY HEAD UNIT
 
-**Power with the cigarette lighter (about 10 minutes):** the easiest way. Plug the unit into the cigarette lighter and have a full plug-and-play setup within minutes. *It's easily removable as well, just don't throw out your tissue box!*
+**Power with the cigarette lighter (about 10 minutes):** the easiest way. Plug the unit into the cigarette lighter and have a full plug-and-play setup within minutes. *It's fully reversible: keep the tissue box, and it goes straight back in.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg" alt="Head unit, bracket, cigarette plug lead and RCA cable for the plug-in install" height="260">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg" alt="Head unit, bracket, cigarette plug lead and RCA cable for the cigarette power install" height="260">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/parts-together.jpg" alt="The same parts assembled: head unit in the bracket with the plug lead and AUX cable" height="260">
 </p>
 
 **Power with the fuse box (about 30–45 minutes):** attach two fuse taps in your fuse box and hide the cable for a more integrated setup. Keeps the clock and settings, and frees up the cigarette lighter. *A little more time-consuming, as you need to take an interior panel off to hide the cable.*
 
-<sub>IMAGE COMING SOON: head unit with fuse box setup.</sub>
+> **TODO (Aaron):** photo of the head unit with the fuse tap setup (the fuse tap kit).
+
+> **TODO (Aaron):** video links for the install guide (cigarette power and fuse tap power).
 
 > [!TIP]
-> If you buy a KALTEC kit, everything is provided, so you just pop your old tray out and plug this in. Preorder a KALTEC kit for A$100: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com). Otherwise, the DIY setup needs a power lead, the 3D printed bracket ([file provided free](free-bracket.md)) and your head unit of choice. Follow the steps below to get up and running.
+> **Rather not build it?** A KALTEC kit has everything ready, so you just pop the tissue box out and plug it in. Kits are at [kaltec.au](https://kaltec.au), or email [preorder@kalteclabs.com](mailto:preorder@kalteclabs.com). Prices are on the [kits and parts](README.md#kits-and-parts) page, and kit owners can follow the shorter [kit guide](kit-guide.md).
+>
+> Otherwise, the DIY setup needs a power lead, the 3D printed bracket ([file provided free](free-bracket.md)) and your head unit of choice. Follow the steps below to get up and running.
 
 ---
 
@@ -30,8 +35,8 @@
 
 Everything needed is in the [parts list](parts-list.md#parts).
 
-- [ ] The bracket to replace the tissue box, 3D print file _provided free from KALTEC_ on [MakerWorld](https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit), [Printables](https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t) or the [free bracket page](free-bracket.md)
-- [ ] A single-DIN head unit, _any will work!_
+- [ ] The bracket to replace the tissue box, 3D print file _provided free from KALTEC_ on the [free bracket page](free-bracket.md) (GitHub), [MakerWorld](https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit) or [Printables](https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t)
+- [ ] A single-DIN head unit, _any will work_
 - [ ] An RCA to 3.5 mm audio cable
 - [ ] Heat-shrink tubing
 
@@ -68,7 +73,7 @@ _The clips are fragile when you flex them off the tissue box. If one breaks, a 5
 **If you're powering the unit via the fuse box**, skip this step and go to [step 7](#7-fuse-box-power).
 
 > [!IMPORTANT]
-> **Got a kit from KALTEC?** Skip this step, connect your power cable and go straight to [step 4](#4-plug-in).
+> **Got a KALTEC kit or Cigarette to Power Harness?** Skip this step, connect your power lead and go straight to [step 4](#4-plug-in).
 
 You're joining the head unit's power plug to a cigarette plug lead. Only three wires get used.
 
@@ -125,7 +130,7 @@ Before you plug anything in, check:
 - No bare wire shows anywhere on the lead.
 - The wire can reach from the cigarette plug to the back of the head unit.
 
-<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/03-8-finished-lead.png" alt="The finished plug-in lead: power plug to cigarette plug" width="720"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/03-8-finished-lead.png" alt="The finished cigarette power lead: power plug to cigarette plug" width="720"></p>
 
 Push the power plug into the matching socket on the back of the head unit until it clicks. It only fits one way round.
 
@@ -168,14 +173,14 @@ If your unit came with a metal sleeve, remove it first. Then press the head unit
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/06-aux-selected.png" alt="Press MEDIA on the factory stereo until the display shows AUX" width="720"></p>
 
-**Done.** The head unit turns on and off with the key. Support the project by **starring this repo**!
+**Done.** The head unit turns on and off with the key. Support the project by **starring this repo**.
 
 ---
 
 ## 7. FUSE BOX POWER
 
 > [!TIP]
-> **Bought a ready-made fuse box lead from KALTEC?** Skip 7.1 and start at [7.2](#72-connect-the-ground).
+> **Got a KALTEC fuse tap power kit or Fuse Box to Power Harness?** Skip 7.1 and start at [7.2](#72-connect-the-ground).
 
 Your head unit comes with a power plug, and we only need 3 of its wires. The two power wires get extended to reach the fuse box and plug into it with fuse taps. The ground wire goes to a bolt in the slot. Check your manual for the right wires. They're usually:
 
@@ -247,7 +252,7 @@ It's under the dash in the driver's footwell, to the right of the steering colum
 > Not sure which fuse is which? A test light or multimeter shows you: an always-on fuse is live with the key out, a key-on fuse is only live with the key on.
 
 1. Find your layout. It's usually printed inside the fuse box lid, and it's always in the owner's manual. Stuck? See the [fuse box layout](parts-list.md#fuse-box-layout).
-2. Pick two fuses for non-critical accessories, like interior lights or the power outlets: one **always on** for BATTERY, one **on with the key only** for ACC. *On my FG, I used fuse **15** for BATTERY and fuse **21** for ACC. Check yours first, as layouts differ between years.*
+2. Pick two fuses for non-critical accessories, like interior lights or the power outlets: one **always on** for BATTERY, one **on with the key only** for ACC. *On our FG, we used fuse **15** for BATTERY and fuse **21** for ACC. Check yours first, as layouts differ between years.*
 3. Pull out each fuse you picked. Put it in its tap's **front** slot, exactly as it was, and never swap it for a bigger one.
 4. Put a new fuse in each tap's **back** slot: **10A** in the ALWAYS ON (BATTERY) tap, and **5A** in the KEY ON (ACC) tap. Don't use the fuses that came with your taps unless they're these values.
 5. Push the ALWAYS ON tap into the always-on fuse's slot, and the KEY ON tap into the key-on fuse's slot.
@@ -259,16 +264,18 @@ It's under the dash in the driver's footwell, to the right of the steering colum
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fuse-taps-installed.jpg" alt="Fuse taps in the fuse box, labelled KEY ON and ALWAYS ON" width="520"></p>
 
 > [!TIP]
-> New to fuse taps? It's the same method as fitting a dash cam, tapping into your car's power without cutting any cables. *I watched these videos to learn how to do it. I have no electrical or mechanical experience. It's super easy, needs no special tools and is really cheap!*
+> New to fuse taps? It's the same method as fitting a dash cam, tapping into your car's power without cutting any cables. *We learned it from these videos, with no electrical or mechanical experience. It needs no special tools and costs a few dollars.*
 >
 > - [Fitting a fuse tap (dash cam)](https://www.youtube.com/watch?v=Hj4f70pEXC4)
 > - [Fuse tap walkthrough](https://www.youtube.com/watch?v=K2iKXj82354&t=258s)
 
-Your power plug is now grounded, connected to the fuse box and waiting in the slot. The hard part is done! Continue to [step 4](#4-plug-in), where you plug everything into the unit and secure it to the dash.
+Your power plug is now grounded, connected to the fuse box and waiting in the slot. The hard part is done. Continue to [step 4](#4-plug-in), where you plug everything into the unit and secure it to the dash.
 
 ---
 
 **Want it on paper?** The whole guide, parts list and fuse box layout as one A4 PDF:
+
+> **TODO (repo project):** the PDF link works (v1.1 release asset), but the PDF still has the old copy (old kit price and contact email, PETG wording, old fitment line). Rebuild it from this version and upload it to a new release.
 
 <p align="center"><a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-install-guide.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20THE%20INSTALL%20GUIDE%20%28PDF%29-237356?style=for-the-badge" alt="Download the install guide (PDF)"></a></p>
 
@@ -278,4 +285,4 @@ Your power plug is now grounded, connected to the fuse box and waiting in the sl
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Install Guide v1.4
+FG FALCON SINGLE-DIN Head Unit Install Guide v1.5 · 23 November 2026

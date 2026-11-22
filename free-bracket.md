@@ -1,6 +1,7 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT · FREE BRACKET" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-bracket-header.png" width="100%">
 
-### Free 3D print files for all FG and FGX FALCONS. A bracket that replaces your tissue box and holds a single-DIN head unit, for a CarPlay or aftermarket stereo, all provided free by KALTEC.
+### Free 3D print files for the FG Falcon. A bracket that replaces your tissue box and holds a single-DIN head unit, for a CarPlay or aftermarket stereo, all provided free by KALTEC.
+**FG, MkII and FG-X. Not FPV.**
 
 **Jump to:** [Download](#download) · [Print settings](#print-settings)
 
@@ -12,7 +13,7 @@
 </p>
 
 > [!TIP]
-> Don't have a 3D printer? Preorder a KALTEC kit for A$100: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
+> Don't have a 3D printer? Ready-made KALTEC brackets and kits are at [kaltec.au](https://kaltec.au), or email [preorder@kalteclabs.com](mailto:preorder@kalteclabs.com). Prices are on the [kits and parts](README.md#kits-and-parts) page.
 
 ---
 
@@ -22,20 +23,22 @@
 Removing the tray and fitting the bracket is covered step by step in the [install guide](install-guide.md#1-take-out-the-tissue-box).
 
 <p align="center">
+  <a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest"><img src="https://img.shields.io/badge/GITHUB-237356?style=for-the-badge" alt="GitHub"></a>
   <a href="https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit"><img src="https://img.shields.io/badge/MAKERWORLD-237356?style=for-the-badge" alt="MakerWorld"></a>
   <a href="https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t"><img src="https://img.shields.io/badge/PRINTABLES-237356?style=for-the-badge" alt="Printables"></a>
-  <a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest"><img src="https://img.shields.io/badge/GITHUB-237356?style=for-the-badge" alt="GitHub"></a>
 </p>
 
 **[Spin the 3D preview](bracket/kaltec-fg-bracket-v1.0.stl)** to see it before you print.
 
 | Download | Link | Best for |
 | --- | --- | --- |
+| **GitHub** | [3MF](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.3mf) · [STL](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.stl) · [STEP](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.step) | Every file, including the STEP for changing the design |
 | **MakerWorld** | [Download on MakerWorld](https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit) | Bambu Lab printers: print profile included, print straight from Bambu Studio or Handy |
 | **Printables** | [Download on Printables](https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t) | Any printer and slicer |
-| **GitHub** | [3MF](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.3mf) · [STL](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.stl) · [STEP](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.step) | Every file, including the STEP for changing the design |
 
-**Bambu Lab printer?** Grab the [Bambu Studio project](bracket/kaltec-fg-bracket-v1.0.3mf): it has the PETG settings below already set. Open it, check your plate and filament, and print.
+**Bambu Lab printer?** Grab the [Bambu Studio project](bracket/kaltec-fg-bracket-v1.0.3mf). It's currently set up for PETG with the settings below: if you're printing ASA or ABS, switch the filament to your ASA or ABS profile before you print.
+
+> **TODO (Aaron):** an ASA version of the Bambu Studio project (the current 3MF is set to "PETG FG FALCON"), or confirm the PETG one should stay.
 
 ---
 
@@ -54,30 +57,31 @@ Tested on a Bambu Lab H2S with a 0.4 mm nozzle. Start from your printer's standa
 | Walls | 4 |
 | Top / bottom layers | 5 / 5 |
 | Infill | 40% gyroid |
-| Nozzle temp | 245 °C |
-| Print time | 3 h 4 min |
-| Filament used | 89 g |
+| Nozzle temp | ASA: TODO · PETG: 245 °C |
+| Print time | ASA: TODO · PETG: 3 h 4 min |
+| Filament used | ASA: TODO · PETG: 89 g |
 
 </td>
 <td><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-print-bed.jpg" alt="The bracket on the print bed, front face down, KALTEC lettering on the back" width="380"></td>
 </tr>
 </table>
 
+> **TODO (Aaron):** ASA nozzle temp, print time and filament weight on the H2S, and whether any other setting above changes for ASA.
+
 ---
 
 ## FILAMENT
 
-Print in **PETG or ASA**.
+**ASA or ABS recommended.** PETG has been tested and works, but it handles heat less well, so use ASA or ABS if the car sits in the sun. PLA isn't suitable.
 
-| PETG | ASA |
+| ASA or ABS (recommended) | PETG (tested, works) |
 | --- | --- |
-| Cheaper, easier to print and get better finish | More heat resistant, and resists warping |
-| Prints on any printer | Closer to the factory dash plastic |
-| More than enough if your car is tinted or parks in the shade | Ready to fit straight off the printer |
+| Handles heat best, for a car that sits in the sun | Handles heat less well than ASA or ABS |
+| Closer to the factory dash plastic | Cheaper and easier to print |
+| What KALTEC brackets are printed in (ASA) | Fine if your car is tinted or parks in the shade |
 
 > [!WARNING]
-> **Don't print it in PLA.** It softens in a hot car and the bracket sags.
-> If your car sits in the sun or has no tint, use ASA, or give PETG a [UV clear coat](parts-list.md#optional).
+> **PLA isn't suitable.** It softens in a hot car and the bracket sags.
 
 ---
 
@@ -88,7 +92,7 @@ Print in **PETG or ASA**.
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/unit-in-bracket-front.jpg" alt="Head unit pressed into the bracket" height="280">
 </p>
 
-Supports all FGs except the FPV line.
+Fits every FG, FG MkII and FG-X, sedan and ute (XR6, XR8, G6E, G6, XT). Not FPV, because the push-start button sits in the tray.
 
 | Model | Sedan | Ute |
 |---|:---:|:---:|
@@ -113,4 +117,4 @@ Ready? Fit it with the [install guide](install-guide.md).
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Free Bracket v1.4
+FG FALCON SINGLE-DIN Head Unit Free Bracket v1.5 · 23 November 2026

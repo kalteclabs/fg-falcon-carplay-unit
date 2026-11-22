@@ -1,11 +1,12 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT · PARTS LIST" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-parts-header.png" width="100%">
 
-### Parts list for all FG and FGX FALCONS. Every link, price and item you need to build your Falcon unit as cheaply and easily as possible, all provided free by KALTEC.
+### Parts list for the FG Falcon CarPlay unit. Every link, price and item you need to build it as cheaply and easily as possible, all provided free by KALTEC.
+**FG, MkII and FG-X. Not FPV.**
 
 **Jump to:** [Parts](#parts) · [Fuse box layout](#fuse-box-layout) · [Troubleshooting](#troubleshooting)
 
 ---
-### You'll need a head unit, and the free bracket, then follow the steps to power it!
+### You'll need a head unit and the free bracket, then follow the steps to power it.
 <p align="center">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/parts-together.jpg" alt="Head unit in the bracket with the cigarette plug lead and AUX cable" height="260">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg"alt="Head unit, bracket, cigarette plug lead and RCA cable laid out" height="260">
@@ -14,19 +15,19 @@
 ---
 
 ## FREE BRACKET 3D PRINT FILE
-### This replaces your tissue box (the tray in the dash), with no screws required!
+### This replaces your tissue box (the tray in the dash), with no screws required.
 
 > [!TIP]
-> Don't have a 3D printer? KALTEC brackets and full kits make this build as easy as possible. Preorder a KALTEC kit for A$100: [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com).
+> Don't have a 3D printer? KALTEC brackets, harnesses and full kits are at [kaltec.au](https://kaltec.au), or email [preorder@kalteclabs.com](mailto:preorder@kalteclabs.com). Prices are on the [kits and parts](README.md#kits-and-parts) page.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket.jpg" alt="The KALTEC FG bracket, printed in black" height="260">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-rear.jpg" alt="Rear of the KALTEC FG bracket, with the recessed KALTEC lettering" height="260">
 </p>
 
-**The bracket is provided free by KALTEC.** Download the 3D print file from [MakerWorld](https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit), [Printables](https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t) or the [free bracket page](free-bracket.md) and print it. The right print settings are on that page too.
+**The bracket is provided free by KALTEC.** Download the 3D print file from the [free bracket page](free-bracket.md) (GitHub), [MakerWorld](https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit) or [Printables](https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t) and print it. The right print settings are on that page too.
 
-Print in **PETG or ASA**. If your car sits in the sun or has no tint, protect the bracket with a UV clear coat: see [optional parts](#optional).
+**ASA or ABS recommended.** PETG has been tested and works, but it handles heat less well, so use ASA or ABS if the car sits in the sun. PLA isn't suitable.
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-in-slot.jpg" alt="The bracket fitted in the car, without the head unit" width="520"></p>
 
@@ -34,15 +35,15 @@ Print in **PETG or ASA**. If your car sits in the sun or has no tint, protect th
 
 ## PARTS
 
-Building this yourself costs about **A$65–75**, and most of that price is the head unit itself (about $50).
-Prices are in AUD. The links are the exact parts I used. Copy the **search term** into AliExpress for the current cheapest options.
+Building this yourself costs about **A$70** in parts, head unit included (A$65–75 depending on how you power it). Most of that is the head unit itself (about $50).
+Prices are in AUD. The links are the exact parts we used. Copy the **search term** into AliExpress for the current cheapest options.
 
 Any head unit works, as long as it's **single DIN**: the standard 18 × 5 cm size, not double DIN. 
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/head-unit.jpg" alt="Single-DIN CarPlay head unit" width="520"></p>
 
 > [!NOTE]
-> Wireless CarPlay is worth the extra few dollars, but wired units work exactly the same for this project. _I've bought and tested both!_
+> Wireless CarPlay is worth the extra few dollars, but wired units work exactly the same for this project. _We've bought and tested both._
 
 | Part | Price | About | Links to buy | Search term |
 | --- | --- | --- | --- | --- |
@@ -51,7 +52,7 @@ Any head unit works, as long as it's **single DIN**: the standard 18 × 5 cm siz
 | Audio cable, 2× RCA to 3.5 mm | $4 | Runs sound from the head unit's RCA outs into the Falcon's AUX, through the factory speakers. | [AliExpress](https://www.aliexpress.com/item/1326108747.html) · [Bunnings](https://www.bunnings.com.au/antsig-1-5m-3-5mm-aux-to-rca-cable_p0286420) | 'RCA to 3.5 mm' · 'RCA to AUX cable' |
 | Heat-shrink tubing | $15 for 24 (a few dollars on AliExpress) | Covers every join and the unused wire ends so nothing shorts. | [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-heat-shrink-tubing---assorted-3.2-6.4mm-24-piece/120316.html) | 'Heat shrink tubing assorted' |
 
-### PLUG-IN POWER (CIGARETTE LIGHTER)
+### CIGARETTE POWER
 
 The easy one. A cigarette plug lead joins to the head unit's power plug and plugs into the factory outlet. Nothing in the car gets touched.
 
@@ -59,9 +60,9 @@ The easy one. A cigarette plug lead joins to the head unit's power plug and plug
 | --- | --- | --- | --- | --- |
 | Cigarette plug lead | $3 for 2 | Plugs into the factory outlet under the slot. Get one with a **10A fuse** and **0.75 mm² or thicker** wire. | [AliExpress](https://www.aliexpress.com/item/1005007145876029.html) | 'Fused cigarette plug 10A' · 'Cigarette lighter male plug' |
 
-**Plug-in total: about A$65**
+**Cigarette power total: about A$65**
 
-### FUSE BOX POWER
+### FUSE TAP POWER
 
 Hides the cables by taking power from the fuse box.
 
@@ -73,14 +74,14 @@ Nothing in the car gets cut or spliced. Instead, we extend the head unit's two p
 | Mini blade fuses: one **10A** and one **5A** | $4 for 6 | **10A** in the ALWAYS ON tap, **5A** in the KEY ON tap. Don't rely on the fuses that come with the taps. This pack has both. | [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-fuses-mini-blade-assorted-6-pack/726752.html) | 'Mini blade fuse 10A' · 'Mini blade fuse 5A' |
 | Wire | $10 for 4 m | Extends the power wires to the fuse box. Use **0.75 mm² or thicker**. Supercheap's "4 mm" cable is sized by outside diameter; its core is about 1.85 mm². | [AliExpress](https://www.aliexpress.com/item/1005009017260144.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-cable-single-core-15a-4mm-x-4m-blue/376702.html) | '0.75 mm² automotive wire' · '18 AWG automotive wire' |
 
-**Fuse box total: about A$75**
+**Fuse tap power total: about A$75**
 
 ### OPTIONAL
 
 | Part | Price | About | Links to buy | Search term |
 | --- | --- | --- | --- | --- |
 | Spare power harness | $4 | A spare of the head unit's power plug (generic ISO lead), in case you need a new one. | [AliExpress](https://www.aliexpress.com/item/1005006782766797.html) | 'Car stereo ISO cable male' · 'ISO wiring harness male plug' |
-| UV clear coat | $28 | Protects the bracket from UV if your windows aren't tinted. | [Supercheap](https://www.supercheapauto.com.au/p/mtn-mtn-pro-high-heat-clear-coat-400ml-spray-paint/688225.html) | 'UV clear coat spray' · 'High heat clear coat' |
+| UV clear coat | $28 | Extra UV protection for the bracket if your windows aren't tinted. It doesn't replace ASA or ABS in a car that sits in the sun. | [Supercheap](https://www.supercheapauto.com.au/p/mtn-mtn-pro-high-heat-clear-coat-400ml-spray-paint/688225.html) | 'UV clear coat spray' · 'High heat clear coat' |
 
 ---
 
@@ -92,7 +93,7 @@ Nothing in the car gets cut or spliced. Instead, we extend the head unit's two p
 - Optional: a plastic trim tool
 - Optional: a multimeter or test light
 
-**You'll also need** a KALTEC bracket (preorder at [kalteclabs@gmail.com](mailto:kalteclabs@gmail.com)), or a 3D printer + PETG or ASA filament to print your own.
+**You'll also need** a KALTEC bracket ([kaltec.au](https://kaltec.au) or [preorder@kalteclabs.com](mailto:preorder@kalteclabs.com); see [kits and parts](README.md#kits-and-parts)), or a 3D printer and ASA or ABS filament to print your own.
 
 Once you have all the items needed, **star this repo** and fit the unit in your Falcon with the [install guide](install-guide.md).
 
@@ -106,7 +107,7 @@ Once you have all the items needed, **star this repo** and fit the unit in your 
 
 Layouts are similar across FG models and years, but not identical. Always check your own car first: the layout is usually printed inside the fuse box lid, or check the owner's manual.
 
-**If you can't find yours, I've made a basic layout that suits most FG Falcons.** The highlighted fuses are good ones to tap. On my FG, I used fuse **15** for BATTERY (always on) and fuse **21** for ACC (key on).
+**If you can't find yours, we've made a basic layout that suits most FG Falcons.** The highlighted fuses are good ones to tap. On our FG, we used fuse **15** for BATTERY (always on) and fuse **21** for ACC (key on).
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/fuse-box-layout.png" alt="General FG fuse box layout, with fuse 15 (always on) and fuse 21 (key on) highlighted" width="720"></p>
 
@@ -119,7 +120,7 @@ Layouts are similar across FG models and years, but not identical. Always check 
 - **Both** BATTERY (yellow) and ACC (red) need power for the unit to turn on. Check both joins.
 - Only **one** ground is needed: the wire your manual labels GND.
 - Check the fuse on the back of the head unit.
-- **Plug-in:** push the cig plug all the way in, and check the fuse in its tip (unscrew the ring). Test the outlet with a phone charger with the key on.
+- **Cigarette power:** push the cig plug all the way in, and check the fuse in its tip (unscrew the ring). Test the outlet with a phone charger with the key on.
 - **Fuse box:** check the tapped fuse is live with a meter, and that the ground bolt is tight.
 - Unit turns on, then cuts out by itself? The blue **ANT** wire may be touching power. Tape it off on its own.
 
@@ -127,7 +128,7 @@ Layouts are similar across FG models and years, but not identical. Always check 
 
 ### LOSES THE CLOCK AND SETTINGS WHEN THE CAR TURNS OFF
 
-- **Plug-in:** that's normal. BATTERY and ACC are joined, so the unit starts fresh each time. Use the [fuse box route](install-guide.md#7-fuse-box-power) if you want them kept.
+- **Cigarette power:** that's normal. BATTERY and ACC are joined, so the unit starts fresh each time. Use the [fuse box route](install-guide.md#7-fuse-box-power) if you want them kept.
 - **Fuse box:** BATTERY (yellow) and ACC (red) are swapped, or both are on key-on fuses. BATTERY must go on an **always-on** fuse.
 
 ---
@@ -143,7 +144,7 @@ Layouts are similar across FG models and years, but not identical. Always check 
 ### FLAT BATTERY, OR THE UNIT STAYS ON WITH THE KEY OUT
 
 - **Fuse box:** ACC (red) is on an always-on fuse. Move it to a key-on fuse. Key off, the unit must switch off.
-- **Plug-in:** if your cigarette lighter stays live with the key out, purchase a cig plug with an ON/OFF switch, or use the [fuse box route](install-guide.md#7-fuse-box-power).
+- **Cigarette power:** if your cigarette lighter stays live with the key out, purchase a cig plug with an ON/OFF switch, or use the [fuse box route](install-guide.md#7-fuse-box-power).
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/cig-plug-switch.jpg" alt="Cigarette lighter plug with an ON/OFF switch" width="320"></p>
 
@@ -191,4 +192,4 @@ Layouts are similar across FG models and years, but not identical. Always check 
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Parts List v1.3
+FG FALCON SINGLE-DIN Head Unit Parts List v1.4 · 23 November 2026
