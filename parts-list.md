@@ -62,6 +62,11 @@ The easy one. A cigarette plug lead joins to the head unit's power plug and plug
 
 **Cigarette power total: about A$65**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/cig-lead-3.jpg" alt="A finished cigarette power lead" height="260">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/rca-aux-lead.jpg" alt="The RCA to 3.5 mm audio cable" height="260">
+</p>
+
 ### FUSE TAP POWER
 
 Hides the cables by taking power from the fuse box.
@@ -75,6 +80,8 @@ Nothing in the car gets cut or spliced. Instead, we extend the head unit's two p
 | Wire | $10 for 4 m | Extends the power wires to the fuse box. Use **0.75 mm² or thicker**. Supercheap's "4 mm" cable is sized by outside diameter; its core is about 1.85 mm². | [AliExpress](https://www.aliexpress.com/item/1005009017260144.html) · [Supercheap](https://www.supercheapauto.com.au/p/sca-sca-automotive-cable-single-core-15a-4mm-x-4m-blue/376702.html) | '0.75 mm² automotive wire' · '18 AWG automotive wire' |
 
 **Fuse tap power total: about A$75**
+
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fuse-lead.jpg" alt="A finished fuse tap power lead: power plug, ground terminal and two fuse taps" width="480"></p>
 
 ### OPTIONAL
 
@@ -139,6 +146,8 @@ Layouts are similar across FG models and years, but not identical. Always check 
 - The factory stereo isn't on AUX. Press <kbd>MEDIA</kbd> until it shows AUX.
 - Check the cable is pushed fully into the AUX port, and turn up the volume on the head unit as well as the car.
 
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/power-plug-in.jpg" alt="Back of the head unit: the RCA lead goes in the red and white L-OUT / R-OUT, not MIC IN" width="480"></p>
+
 ---
 
 ### FLAT BATTERY, OR THE UNIT STAYS ON WITH THE KEY OUT
@@ -169,6 +178,8 @@ Layouts are similar across FG models and years, but not identical. Always check 
 - Unit too **loose** instead? Add thin inserts or tape inside the bracket so it fits tight.
 - Odd-sized unit? Adjust the [STEP file](free-bracket.md#fitment) to fit. Any single-DIN unit with the same power plug works.
 
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/unit-in-bracket-side.jpg" alt="Side view of a head unit pressed fully into the bracket" width="420"></p>
+
 ---
 
 ### CARPLAY WON'T CONNECT
@@ -177,6 +188,8 @@ Layouts are similar across FG models and years, but not identical. Always check 
 - **Wireless:** Bluetooth and Wi-Fi both on. Forget the car on your phone and pair again.
 - Check CarPlay is allowed on your phone: Settings → General → CarPlay.
 - Restart the head unit: key off, wait 10 seconds, key on.
+
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-usb-front.jpg" alt="USB ports on the front of the head unit, below the volume knob" width="420"></p>
 
 ---
 

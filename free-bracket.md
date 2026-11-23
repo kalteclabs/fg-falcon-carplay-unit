@@ -83,6 +83,11 @@ Tested on a Bambu Lab H2S with a 0.4 mm nozzle. Start from your printer's standa
 > [!WARNING]
 > **PLA isn't suitable.** It softens in a hot car and the bracket sags.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-angle.jpg" alt="The bracket printed in black ASA, textured front face" height="260">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-rear.jpg" alt="Back of the bracket, with the KALTEC lettering and clips on the tabs" height="260">
+</p>
+
 ---
 
 ## FITMENT
@@ -102,6 +107,11 @@ Fits every FG, FG MkII and FG-X, sedan and ute (XR6, XR8, G6E, G6, XT). Not FPV,
 | G6 | Y | Y |
 | XT | Y | Y |
 | FPV | N | N |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/unit-in-bracket-side.jpg" alt="Side view of a head unit pressed fully into the bracket" height="260">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/unit-in-bracket-top.jpg" alt="Top view of a head unit in the bracket" height="260">
+</p>
 
 **Too tight?** That's intended. Ensure the metal sleeve your unit came with is removed, then lightly sand the small ridges inside the 3D printed bracket, until the unit pushes in snug.
 

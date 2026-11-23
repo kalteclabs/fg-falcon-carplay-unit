@@ -20,7 +20,7 @@
 
 **Power with the fuse box (about 30–45 minutes):** attach two fuse taps in your fuse box and hide the cable for a more integrated setup. Keeps the clock and settings, and frees up the cigarette lighter. *A little more time-consuming, as you need to take an interior panel off to hide the cable.*
 
-> **TODO (Aaron):** photo of the head unit with the fuse tap setup (the fuse tap kit).
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-fuse-tap.jpg" alt="Head unit in the bracket with the fuse tap power lead and RCA-to-AUX lead" height="260"></p>
 
 > **TODO (Aaron):** video links for the install guide (cigarette power and fuse tap power).
 
@@ -52,7 +52,10 @@ No tools needed. Grip the bottom lip and pull it firmly towards you. It's held b
 > [!TIP]
 > Keep the tissue box. It clips back in if you ever remove the bracket.
 
-<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/tissue-box-in-dash.jpg" alt="FG Falcon tissue box in the centre console, with arrows showing where to pull from" width="520"></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/tissue-box-in-dash.jpg" alt="FG Falcon tissue box in the centre console, below the factory stereo" height="260">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/tissue-box-out.jpg" alt="The same slot with the tissue box taken out" height="260">
+</p>
 
 ## 2. PUT THE CLIPS ON THE BRACKET
 
@@ -62,6 +65,8 @@ No tools needed. Grip the bottom lip and pull it firmly towards you. It's held b
 Slide the two yellow plastic clips off the tissue box and onto the bracket's two tabs, one on each.
 
 _The clips are fragile when you flex them off the tissue box. If one breaks, a 50 pack costs a few dollars: see the [parts list](parts-list.md#parts)._
+
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-top.jpg" alt="Top of the bracket with a yellow clip on each tab" width="520"></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/clips-on-tabs.jpg" alt="Yellow clips fitted on both bracket tabs" height="280">
@@ -132,6 +137,11 @@ Before you plug anything in, check:
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/03-8-finished-lead.png" alt="The finished cigarette power lead: power plug to cigarette plug" width="720"></p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/cig-lead-2.jpg" alt="A finished cigarette power lead" height="260">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/iso-plug.jpg" alt="The power plug end that goes into the head unit" height="260">
+</p>
+
 Push the power plug into the matching socket on the back of the head unit until it clicks. It only fits one way round.
 
 <!-- images/install/03-9-lead-into-unit.svg -->
@@ -143,6 +153,8 @@ Push the power plug into the matching socket on the back of the head unit until 
 2. If your head unit came with a reverse camera or radio antenna, plug them in.
 3. If you haven't already, plug in your head unit's power cable.
 
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/power-plug-in.jpg" alt="Back of the head unit: power plug in, and the RCA lead in the red and white L-OUT / R-OUT" width="520"></p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/back-ports-labelled.jpg" alt="Back of the head unit with POWER, RCA L and R, REVERSE CAMERA and ANTENNA labelled" height="280">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/plugging-in-at-slot.jpg" alt="Head unit held at the slot with the power plug and antenna lead plugged in" height="280">
@@ -153,6 +165,11 @@ Push the power plug into the matching socket on the back of the head unit until 
 If your unit came with a metal sleeve, remove it first. Then press the head unit into the bracket from the front until it sits flush. It's a tight press fit, so push firmly and evenly.
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-and-unit.jpg" alt="The head unit next to the bracket, ready to press in" height="260">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/unit-in-bracket-side.jpg" alt="Side view of the head unit pressed into the bracket" height="260">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/unit-in-bracket-front.jpg" alt="Head unit pressed flush into the bracket" height="280">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/in-dash-powered-on.jpg" alt="The head unit and bracket fitted in the car, powered on" height="280">
 </p>
@@ -161,17 +178,21 @@ If your unit came with a metal sleeve, remove it first. Then press the head unit
 2. Tuck the wiring behind the head unit so nothing gets pinched.
 3. Line the bracket up with the console and push it in evenly until it clicks securely into place.
 
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fg-installed-side.jpg" alt="The head unit and bracket clipped into the FG Falcon's tissue box slot" width="520"></p>
+
 
 ## 6. TEST IT
 
 1. Turn the key on. The head unit starts up. On the factory stereo, press <kbd>MEDIA</kbd> to cycle through the sources until it shows AUX.
-2. Connect your phone and play something. Check maps, radio and anything else your unit has.
+2. Connect your phone and play something. Check maps, radio and anything else your unit has. On most units the USB port is on the front.
 3. **Fuse box:** turn the key off. The unit must switch off. Turn it back on: the clock and settings should still be there. Then clip the interior panel back on.
 
 > [!TIP]
 > Something not right? The bracket pops straight back out. See [troubleshooting](parts-list.md#troubleshooting).
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/06-aux-selected.png" alt="Press MEDIA on the factory stereo until the display shows AUX" width="720"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-usb-front.jpg" alt="USB ports on the front of the head unit, below the volume knob" width="420"></p>
 
 **Done.** The head unit turns on and off with the key. Support the project by **starring this repo**.
 
@@ -203,6 +224,11 @@ Use the wiring plug that came with your head unit. Join wires the same way as in
 5. Cut all the other wires on the power plug short and heat-shrink the ends. Ensure no wires touch.
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/07-1-fuse-box-lead.png" alt="The finished fuse box lead: BATTERY to the ALWAYS ON 10A tap, ACC to the KEY ON 5A tap, short GND" width="720"></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fuse-lead.jpg" alt="A finished fuse tap power lead: power plug, ground terminal and two fuse taps" height="260">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fuse-lead-ends.jpg" alt="The two fuse taps and the ground terminal up close" height="260">
+</p>
 
 ---
 
@@ -275,7 +301,7 @@ Your power plug is now grounded, connected to the fuse box and waiting in the sl
 
 **Want it on paper?** The whole guide, parts list and fuse box layout as one A4 PDF:
 
-> **TODO (repo project):** the PDF link works (v1.1 release asset), but the PDF still has the old copy (old kit price and contact email, PETG wording, old fitment line). Rebuild it from this version and upload it to a new release.
+> **TODO (repo project):** the PDF link works (v1.1 release asset), but the PDF still has the old copy (old kit price and contact email, PETG wording, old fitment line). Rebuild it last, once the repo and all photos are final, with the photos included, and attach it to a new release.
 
 <p align="center"><a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-install-guide.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20THE%20INSTALL%20GUIDE%20%28PDF%29-237356?style=for-the-badge" alt="Download the install guide (PDF)"></a></p>
 

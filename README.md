@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fg-installed.jpg" alt="CarPlay head unit fitted in the FG Falcon tissue box slot" height="280">
-  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg" alt="Head unit, bracket, cigarette plug lead and RCA cable" height="280">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg" alt="KALTEC cigarette power kit: head unit fitted in the bracket, cigarette power lead and AUX lead" height="280">
 </p>
 
 <p align="center"><a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-install-guide.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20THE%20INSTALL%20GUIDE%20%28PDF%29-237356?style=for-the-badge" alt="Download the install guide (PDF)"></a></p>
@@ -47,6 +47,11 @@ The bracket replaces your tissue box and holds any single-DIN head unit. No scre
 
 > **TODO (Aaron):** ASA print time and filament weight on the Bambu Lab H2S, to replace this line: "About _ h and _ g of ASA on a Bambu Lab H2S."
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-angle.jpg" alt="The KALTEC FG bracket, printed in black ASA" height="260">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-rear.jpg" alt="Back of the bracket, with the KALTEC lettering and clips on the tabs" height="260">
+</p>
+
 **[Free bracket page →](free-bracket.md)** for the full print settings, materials, and fitting tips.
 
 ---
@@ -76,6 +81,11 @@ Bought a KALTEC kit? Follow the shorter **[kit guide](kit-guide.md)**.
 
 Fits every FG, FG MkII and FG-X, sedan and ute (XR6, XR8, G6E, G6, XT). Not FPV, because the push-start button sits in the tray.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/tissue-box-in-dash.jpg" alt="The factory tissue box in an FG Falcon" height="260">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fg-installed-side.jpg" alt="The same slot with the KALTEC CarPlay unit fitted" height="260">
+</p>
+
 | Model | Sedan | Ute |
 |---|:---:|:---:|
 | XR6 | Y | Y |
@@ -99,17 +109,25 @@ Ready-made KALTEC kits and parts, for anyone without a 3D printer or who'd rathe
 | Cigarette to Power Harness for FG Falcon | | A$40 |
 | Fuse Box to Power Harness for FG Falcon | | A$60 |
 
-**What's in a kit:** a single-DIN CarPlay head unit (wired or wireless), the KALTEC bracket printed in ASA with HE08 clips fitted (plus spares), an RCA-to-AUX lead, and the power lead (cigarette or fuse tap). A QR card in the box links to the [kit guide](kit-guide.md).
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg" alt="Cigarette power kit: head unit fitted in the bracket, cigarette power lead and AUX lead" height="260">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-fuse-tap.jpg" alt="Fuse tap power kit: head unit fitted in the bracket, fuse tap power lead and RCA-to-AUX lead" height="260">
+</p>
+
+**What's in a kit:** a single-DIN CarPlay head unit (wired or wireless), already fitted in the KALTEC bracket (printed in ASA, with HE08 clips fitted, plus spares), an RCA-to-AUX lead, and the power lead (cigarette or fuse tap). A QR card in the box links to the [kit guide](kit-guide.md).
 
 - **Wired or wireless:** both are available at launch. Wireless is A$20 more; nothing else differs.
 - **The bracket:** black ASA, in a textured or carbon fibre finish. The carbon fibre texture comes from printing the first layer on a carbon fibre build plate.
 - **Harnesses:** a power lead plus an RCA-to-AUX lead. They suit most aftermarket single-DIN head units, so if you already have a screen, the bracket plus a harness is all you need.
-- **Shipping:** Australia-wide flat rate, plus free pickup in Perth.
+- **Shipping:** anywhere in Australia, A$21 standard or A$26 express. New Zealand, A$45 standard or A$65 express. Free pickup in Perth.
 - **Returns:** no change-of-mind returns. If anything arrives faulty or not as described, email us and we'll sort it out.
 
-> **TODO (Aaron):** the Australia-wide flat-rate shipping amount.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/cig-harness.jpg" alt="Cigarette to Power Harness: cigarette power lead and RCA-to-AUX lead" height="240">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fuse-lead.jpg" alt="Fuse Box to Power Harness: power plug, ground terminal and two fuse taps" height="240">
+</p>
 
-> **TODO (Aaron):** photos for this section: the fuse tap power kit, the wireless head unit (only once DOMAIN confirms it's available), and the carbon fibre finish bracket.
+> **TODO (Aaron):** photos of the wireless head unit (only once DOMAIN confirms it's available) and the carbon fibre finish bracket.
 
 **A$20 off before launch:** join the list before kaltec.au launches and get A$20 off any full kit: email [preorder@kalteclabs.com](mailto:preorder@kalteclabs.com). Everyone on the list gets their own one-use code at launch, valid until 28 February 2027 on any kit (wired or wireless). It doesn't apply to brackets or harnesses. No money is taken now, and the list closes when the full site goes live.
 
@@ -121,7 +139,7 @@ Got a kit? The **[kit guide](kit-guide.md)** walks you through fitting it.
 
 This started as a one-off for one FG. Now the bracket and the full guide are open source, so any Falcon owner can fit CarPlay for the cost of the parts.
 
-**Built by a Falcon owner, for the Falcon owners who still drive and appreciate this piece of Australian engineering.**
+**Built by a Falcon owner, for the Falcon owners who still drive and appreciate this piece of Australian engineering. No more overpriced aftermarket head unit swaps that cost an arm and a leg.**
 
 KALTEC is run by a 21-year-old software engineering student. Star this repo to support the project, and it'll help us reach more Falcon owners.
 
