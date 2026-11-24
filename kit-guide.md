@@ -57,11 +57,17 @@ Push the power lead's plug into the matching socket on the back of the head unit
 1. **Ground:** with the tissue box out, undo one of the two bolts inside the slot (M7), wrap the lead's ground wire under the washer and tighten it back down. Give it a tug to check it's tight. [More detail](install-guide.md#72-connect-the-ground).
 2. **Find the fuse box:** take the key out and turn the lights off. The fuse box is under the dash in the driver's footwell, to the right of the steering column. Pull the cover off. [More detail](install-guide.md#73-find-the-fuse-box).
 3. **Route the wires:** pop off the plastic panel on the driver's side of the centre console, below the slot. Run the two power wires down behind the panel and behind the steering column to the fuse box. Leave the panel off until you've tested in step 7. [More detail](install-guide.md#74-route-the-wires).
-4. **Fit the taps:** the **ALWAYS ON** tap goes in an always-on fuse slot and the **KEY ON** tap in a key-on fuse slot. On our FG, we used fuse 15 for ALWAYS ON and fuse 21 for KEY ON, but check your own layout first. Never put KEY ON on an always-on fuse, and don't tap airbag (SRS), ABS, engine (PCM) or fuel pump fuses. [Picking your fuses and loading the taps](install-guide.md#75-pick-your-fuses-and-connect-the-taps).
+4. **Fit the taps:** each tap is marked by its wire colour, which you can see where the wire meets the plug, and by red or yellow tape on the cable.
+   - **Red = BATTERY (ALWAYS ON):** goes in an always-on fuse slot. On our FG, fuse 15.
+   - **Yellow = ACC (KEY ON):** goes in a key-on fuse slot. On our FG, fuse 21.
 
-<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fuse-lead-ends.jpg" alt="The fuse tap power lead's ends: two fuse taps and the ground terminal" width="480"></p>
+   Check your own layout first, as layouts differ between years. Never put the yellow (KEY ON) tap on an always-on fuse, or the unit never switches off and flattens your battery. Don't tap airbag (SRS), ABS, engine (PCM) or fuel pump fuses. [Picking your fuses and loading the taps](install-guide.md#75-pick-your-fuses-and-connect-the-taps).
 
-> **TODO (Aaron):** confirm which stripe is which: the taps are on a red-striped wire and a yellow-striped wire. Which one is ALWAYS ON (BATTERY, 10A) and which is KEY ON (ACC, 5A)? Then this step names them by stripe.
+   > [!NOTE]
+   > These are the KALTEC lead's colours. The install guide uses a head unit's own wire colours, which are the other way round, so for your kit go by red and yellow as above.
+
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fuse-lead-ends.jpg" alt="The fuse tap power lead's ends: the red (ALWAYS ON) and yellow (KEY ON) fuse taps and the ground terminal" width="480"></p>
+
 
 > **Video:** coming soon
 

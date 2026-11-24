@@ -14,13 +14,12 @@ Everything unfinished in this repo, as of 24 November 2026. Each item matches a 
 | 4 | install-guide.md (top) | Video links for the install guide (cigarette power and fuse tap power) | Aaron |
 | 5 | kit-guide.md (every step) | A video for each of the 8 steps (each step has `> **Video:** coming soon`) | Aaron |
 | 6 | Outside the repo: kalteclabs/.github | Upload `kaltec-fg-kit-header.png` to `brand/fg/` (the kit guide links to it) | Aaron |
-| 7 | kit-guide.md (step 4) | Which stripe (red or yellow) is ALWAYS ON (BATTERY, 10A) and which is KEY ON (ACC, 5A) | Aaron |
-| 8 | kit-guide.md (help) | aaron@kaltec.au as the main contact (being set up now) | DOMAIN |
-| 9 | Outside the repo: the `kaltec.au/guide` redirect | Point `kaltec.au/guide` (the QR card in the box) at `kit-guide.md` on GitHub, in Cloudflare (being set up now) | DOMAIN |
-| 10 | install-guide.md (bottom) | Rebuild the install guide PDF last, with the photos, and attach it to a new release with both 3MFs (ASA `kaltec-fg-bracket-v1.0.3mf` and `kaltec-fg-bracket-v1.0-petg.3mf`), the STL and the STEP. The current v1.1 PDF has the old copy | Repo project |
-| 11 | Outside the repo: v1.1 release notes | Still have the old fitment line, old kit price and old contact email. Replace on the next release (draft below) | Repo project, with Aaron's OK |
+| 7 | kit-guide.md (help) | aaron@kaltec.au as the main contact (being set up now) | DOMAIN |
+| 8 | Outside the repo: the `kaltec.au/guide` redirect | Point `kaltec.au/guide` (the QR card in the box) at `kit-guide.md` on GitHub, in Cloudflare (being set up now) | DOMAIN |
+| 9 | install-guide.md (bottom) | Rebuild the install guide PDF last, with the photos, and attach it to a new release with both 3MFs (ASA `kaltec-fg-bracket-v1.0.3mf` and `kaltec-fg-bracket-v1.0-petg.3mf`), the STL and the STEP. The current v1.1 PDF has the old copy | Repo project |
+| 10 | Outside the repo: v1.1 release notes | Still have the old fitment line, old kit price and old contact email. Replace on the next release (draft below) | Repo project, with Aaron's OK |
 
-### Draft release notes for the next release (item 11)
+### Draft release notes for the next release (item 10)
 
 > The full install guide as a one-click A4 PDF, plus the new kit guide for KALTEC kit owners.
 >
@@ -38,5 +37,5 @@ Do all of this in one edit when DOMAIN says the full kaltec.au site with checkou
 
 - [ ] Delete the A$20-off line everywhere it appears. It's only in `README.md`: the "Rather not build it?" tip near the top, and the "A$20 off before launch" paragraph in Kits and parts.
 - [ ] In `README.md`, make the Kits and parts table link to kaltec.au to buy (each product name or a "Buy" column linking to its kaltec.au page), and drop "Kits are ready from 1 December 2026".
-- [ ] In `kit-guide.md`, switch the help contact to aaron@kaltec.au if it's live (item 8).
+- [ ] In `kit-guide.md`, switch the help contact to aaron@kaltec.au if it's live (item 7).
 - [ ] Bump the README footer version and date.
