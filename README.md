@@ -12,6 +12,8 @@
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg" alt="KALTEC cigarette power kit: head unit fitted in the bracket, cigarette power lead and AUX lead" height="280">
 </p>
 
+<p align="center"><a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/raw/main/kaltec-fg-install-guide.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20THE%20INSTALL%20GUIDE%20%28PDF%29-237356?style=for-the-badge" alt="Download the install guide (PDF)"></a></p>
+
 The CarPlay head unit takes the place of the tissue box under your factory stereo. The factory stereo stays, and the sound plays through your Falcon's own speakers via the AUX. **No splicing or cutting into any of your car's wiring.**
 
 The parts cost about **A$70**, head unit included (A$65–75 depending on how you power it). The bracket print file is **free** from KALTEC, and the full install guide and parts list are open source too.
