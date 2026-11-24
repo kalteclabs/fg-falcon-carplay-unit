@@ -43,9 +43,7 @@ The bracket replaces your tissue box and holds any single-DIN head unit. No scre
 
 > **TODO (Aaron):** confirm the Printables listing is live and the link above is right, and paste the current MakerWorld and Printables descriptions so they can be matched to this copy.
 
-**Printing it:** ASA or ABS recommended. PETG has been tested and works, but it handles heat less well, so use ASA or ABS if the car sits in the sun. PLA isn't suitable. 0.2 mm layers, 4 walls, 5 top and bottom layers, 40% gyroid infill, no supports, front face down.
-
-> **TODO (Aaron):** ASA print time and filament weight on the Bambu Lab H2S, to replace this line: "About _ h and _ g of ASA on a Bambu Lab H2S."
+**Printing it:** ASA or ABS recommended. PETG has been tested and works, but it handles heat less well, so use ASA or ABS if the car sits in the sun. PLA isn't suitable. 0.2 mm layers, 4 walls, 5 top and bottom layers, 35% gyroid infill, no supports, front face down. About 3 hours and 73 g of ASA on a Bambu Lab H2S.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-angle.jpg" alt="The KALTEC FG bracket, printed in black ASA" height="260">

@@ -32,41 +32,40 @@ Removing the tray and fitting the bracket is covered step by step in the [instal
 
 | Download | Link | Best for |
 | --- | --- | --- |
-| **GitHub** | [3MF](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.3mf) · [STL](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.stl) · [STEP](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.step) | Every file, including the STEP for changing the design |
+| **GitHub** | [3MF (ASA)](https://github.com/kalteclabs/fg-falcon-carplay-unit/raw/main/bracket/kaltec-fg-bracket-v1.0.3mf) · [3MF (PETG)](https://github.com/kalteclabs/fg-falcon-carplay-unit/raw/main/bracket/kaltec-fg-bracket-v1.0-petg.3mf) · [STL](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.stl) · [STEP](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.step) | Every file, including the STEP for changing the design |
 | **MakerWorld** | [Download on MakerWorld](https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit) | Bambu Lab printers: print profile included, print straight from Bambu Studio or Handy |
 | **Printables** | [Download on Printables](https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t) | Any printer and slicer |
 
-**Bambu Lab printer?** Grab the [Bambu Studio project](bracket/kaltec-fg-bracket-v1.0.3mf). It's currently set up for PETG with the settings below: if you're printing ASA or ABS, switch the filament to your ASA or ABS profile before you print.
-
-> **TODO (Aaron):** an ASA version of the Bambu Studio project (the current 3MF is set to "PETG FG FALCON"), or confirm the PETG one should stay.
+**Bambu Lab printer?** Grab the [Bambu Studio project](bracket/kaltec-fg-bracket-v1.0.3mf): it has the ASA settings below already set. Printing PETG? Use the [PETG project](bracket/kaltec-fg-bracket-v1.0-petg.3mf) instead. Open it, check your plate and filament, and print.
 
 ---
 
 ## PRINT SETTINGS
 
-Tested on a Bambu Lab H2S with a 0.4 mm nozzle. Start from your printer's standard profile for the filament, then set these.
+Tested on a Bambu Lab H2S with a 0.4 mm nozzle and the textured PEI plate. Start from your printer's standard profile for the filament, then set these. ASA and ABS print best in an enclosed printer.
 
 <table>
 <tr>
 <td>
 
-| Setting | Recommended |
-| --- | --- |
-| Supports | Off |
-| Layer height | 0.2 mm |
-| Walls | 4 |
-| Top / bottom layers | 5 / 5 |
-| Infill | 40% gyroid |
-| Nozzle temp | ASA: TODO · PETG: 245 °C |
-| Print time | ASA: TODO · PETG: 3 h 4 min |
-| Filament used | ASA: TODO · PETG: 89 g |
+| Setting | ASA (recommended) | PETG |
+| --- | --- | --- |
+| Supports | Off | Off |
+| Layer height | 0.2 mm | 0.2 mm |
+| Walls | 4 | 4 |
+| Top / bottom layers | 5 / 5 | 5 / 5 |
+| Infill | 35% gyroid | 40% gyroid |
+| Nozzle temp | 270 °C (280 °C first layer) | 245 °C |
+| Plate temp | 100 °C | 70 °C |
+| Chamber temp | 60 °C | Off |
+| Brim | Outer only, 5 mm | Auto, 5 mm |
+| Print time | 3 h (3 h 18 min with prep) | 3 h 4 min |
+| Filament used | 73 g | 89 g |
 
 </td>
 <td><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/bracket-print-bed.jpg" alt="The bracket on the print bed, front face down, KALTEC lettering on the back" width="380"></td>
 </tr>
 </table>
-
-> **TODO (Aaron):** ASA nozzle temp, print time and filament weight on the H2S, and whether any other setting above changes for ASA.
 
 ---
 
