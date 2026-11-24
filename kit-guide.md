@@ -1,4 +1,4 @@
-<img alt="KALTEC · FG FALCON CARPLAY UNIT" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-header.png" width="100%">
+<img alt="KALTEC · FG FALCON CARPLAY UNIT · KIT GUIDE" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-kit-header.png" width="100%">
 
 ### Kit guide: fitting your KALTEC FG Falcon CarPlay kit
 **FG, MkII and FG-X. Not FPV.**
@@ -6,8 +6,6 @@
 This guide is for KALTEC kit owners: cigarette power or fuse tap power, with wired or wireless CarPlay. Everything is ready to plug in, so there's nothing to build. For more detail on any step, see the full [install guide](install-guide.md).
 
 **Cigarette power:** about 10 minutes. **Fuse tap power:** about 30–45 minutes.
-
-> **TODO (Aaron):** kit guide header image (this uses the main repo header for now).
 
 ---
 
@@ -63,7 +61,7 @@ Push the power lead's plug into the matching socket on the back of the head unit
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fuse-lead-ends.jpg" alt="The fuse tap power lead's ends: two fuse taps and the ground terminal" width="480"></p>
 
-> **TODO (Aaron):** how does a buyer tell the ALWAYS ON tap from the KEY ON tap? The photos show fuses already in the taps but no labels. Confirm which fuse values ship in each tap.
+> **TODO (Aaron):** confirm which stripe is which: the taps are on a red-striped wire and a yellow-striped wire. Which one is ALWAYS ON (BATTERY, 10A) and which is KEY ON (ACC, 5A)? Then this step names them by stripe.
 
 > **Video:** coming soon
 

@@ -125,7 +125,7 @@ Ready-made KALTEC kits and parts, for anyone without a 3D printer or who'd rathe
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fuse-lead.jpg" alt="Fuse Box to Power Harness: power plug, ground terminal and two fuse taps" height="240">
 </p>
 
-> **TODO (Aaron):** photos of the wireless head unit (only once DOMAIN confirms it's available) and the carbon fibre finish bracket.
+> **TODO (Aaron):** photos of the carbon fibre finish bracket and the wireless head unit (both ready 1 December).
 
 **A$20 off before launch:** join the list before kaltec.au launches and get A$20 off any full kit: email [preorder@kalteclabs.com](mailto:preorder@kalteclabs.com). Everyone on the list gets their own one-use code at launch, valid until 28 February 2027 on any kit (wired or wireless). It doesn't apply to brackets or harnesses. No money is taken now, and the list closes when the full site goes live.
 
