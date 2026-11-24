@@ -32,11 +32,11 @@ Removing the tray and fitting the bracket is covered step by step in the [instal
 
 | Download | Link | Best for |
 | --- | --- | --- |
-| **GitHub** | [3MF (ASA)](https://github.com/kalteclabs/fg-falcon-carplay-unit/raw/main/bracket/kaltec-fg-bracket-v1.0.3mf) · [3MF (PETG)](https://github.com/kalteclabs/fg-falcon-carplay-unit/raw/main/bracket/kaltec-fg-bracket-v1.0-petg.3mf) · [STL](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.stl) · [STEP](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.step) | Every file, including the STEP for changing the design |
+| **GitHub** | [3MF (ASA)](https://github.com/kalteclabs/fg-falcon-carplay-unit/raw/main/bracket/kaltec-fg-bracket-v1.2.3mf) · [3MF (PETG)](https://github.com/kalteclabs/fg-falcon-carplay-unit/raw/main/bracket/kaltec-fg-bracket-v1.0-petg.3mf) · [STL](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.stl) · [STEP](https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-bracket-v1.0.step) | Every file, including the STEP for changing the design |
 | **MakerWorld** | [Download on MakerWorld](https://makerworld.com/en/models/3575689-fg-falcon-carplay-bracket-single-din-head-unit) | Bambu Lab printers: print profile included, print straight from Bambu Studio or Handy |
 | **Printables** | [Download on Printables](https://www.printables.com/model/1907338-ford-falcon-carplay-bracket-single-din-head-unit-t) | Any printer and slicer |
 
-**Bambu Lab printer?** Grab the [Bambu Studio project](bracket/kaltec-fg-bracket-v1.0.3mf): it has the ASA settings below already set. Printing PETG? Use the [PETG project](bracket/kaltec-fg-bracket-v1.0-petg.3mf) instead. Open it, check your plate and filament, and print.
+**Bambu Lab printer?** Grab the [Bambu Studio project](bracket/kaltec-fg-bracket-v1.2.3mf): it has the ASA settings below already set. Printing PETG? Use the [PETG project](bracket/kaltec-fg-bracket-v1.0-petg.3mf) instead. Open it, check your plate and filament, and print.
 
 ---
 

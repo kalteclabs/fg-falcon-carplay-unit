@@ -16,20 +16,7 @@ Everything unfinished in this repo, as of 24 November 2026. Each item matches a 
 | 6 | Outside the repo: kalteclabs/.github | Upload `kaltec-fg-kit-header.png` to `brand/fg/` (the kit guide links to it) | Aaron |
 | 7 | kit-guide.md (help) | aaron@kaltec.au as the main contact (being set up now) | DOMAIN |
 | 8 | Outside the repo: the `kaltec.au/guide` redirect | Point `kaltec.au/guide` (the QR card in the box) at `kit-guide.md` on GitHub, in Cloudflare (being set up now) | DOMAIN |
-| 9 | install-guide.md (bottom) | Rebuild the install guide PDF last, with the photos, and attach it to a new release with both 3MFs (ASA `kaltec-fg-bracket-v1.0.3mf` and `kaltec-fg-bracket-v1.0-petg.3mf`), the STL and the STEP. The current v1.1 PDF has the old copy | Repo project |
-| 10 | Outside the repo: v1.1 release notes | Still have the old fitment line, old kit price and old contact email. Replace on the next release (draft below) | Repo project, with Aaron's OK |
-
-### Draft release notes for the next release (item 10)
-
-> The full install guide as a one-click A4 PDF, plus the new kit guide for KALTEC kit owners.
->
-> - A4 install guide PDF: cigarette power (about 10 minutes) and fuse tap power (about 30–45 minutes), parts list with links, fuse box layout, troubleshooting, and the free bracket print settings.
-> - Bracket model unchanged (v1.0): STL and STEP, plus Bambu Studio projects for ASA (recommended) and PETG, all attached here.
->
-> FG, MkII and FG-X. Not FPV.
-> Ready-made kits: [kaltec.au](https://kaltec.au) · [preorder@kalteclabs.com](mailto:preorder@kalteclabs.com)
->
-> Guides and images: CC BY-SA 4.0. Bracket: CERN-OHL-S-2.0.
+| 9 | install-guide.md (bottom) | Rebuild the install guide PDF last, with the photos, and attach it to the release as `kaltec-fg-install-guide.pdf` (the 1.2 release currently has no PDF, so the PDF buttons are broken until then) with both 3MFs (ASA `kaltec-fg-bracket-v1.2.3mf` and `kaltec-fg-bracket-v1.0-petg.3mf`), the STL and the STEP. The current v1.1 PDF has the old copy | Repo project |
 
 ## The launch switch
 
