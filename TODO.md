@@ -16,7 +16,7 @@ Everything unfinished in this repo, as of 24 November 2026. Each item matches a 
 | 6 | Outside the repo: kalteclabs/.github | Upload `kaltec-fg-kit-header.png` to `brand/fg/` (the kit guide links to it) | Aaron |
 | 7 | kit-guide.md (help) | aaron@kaltec.au as the main contact (being set up now) | DOMAIN |
 | 8 | Outside the repo: the `kaltec.au/guide` redirect | Point `kaltec.au/guide` (the QR card in the box) at `kit-guide.md` on GitHub, in Cloudflare (being set up now) | DOMAIN |
-| 9 | install-guide.md (bottom) | Rebuild the install guide PDF last, with the photos, and attach it to the release as `kaltec-fg-install-guide.pdf` (the 1.2 release currently has no PDF, so the PDF buttons are broken until then) with both 3MFs (ASA `kaltec-fg-bracket-v1.2.3mf` and `kaltec-fg-bracket-v1.0-petg.3mf`), the STL and the STEP. The current v1.1 PDF has the old copy | Repo project |
+| 9 | install-guide.md (bottom) | Rebuild the install guide PDF last, with the photos. Put it in the repo as `kaltec-fg-install-guide.pdf` (the release is bracket files only) and add the download buttons back to the README and install guide with both 3MFs (ASA `kaltec-fg-bracket-v1.2.3mf` and `kaltec-fg-bracket-v1.0-petg.3mf`), the STL and the STEP. The current v1.1 PDF has the old copy | Repo project |
 
 ## The launch switch
 

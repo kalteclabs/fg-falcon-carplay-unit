@@ -5,8 +5,6 @@
 
 **Jump to:** [Steps](#1-take-out-the-tissue-box) · [Parts list](parts-list.md) · [Troubleshooting](parts-list.md#troubleshooting)
 
-<p align="center"><a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-install-guide.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20THE%20INSTALL%20GUIDE%20%28PDF%29-237356?style=for-the-badge" alt="Download the install guide (PDF)"></a></p>
-
 ---
 
 ### THERE ARE TWO WAYS TO POWER THE CARPLAY HEAD UNIT
@@ -299,11 +297,7 @@ Your power plug is now grounded, connected to the fuse box and waiting in the sl
 
 ---
 
-**Want it on paper?** The whole guide, parts list and fuse box layout as one A4 PDF:
-
-> **TODO (repo project):** the 1.2 release has no PDF attached, so the PDF buttons are broken. Rebuild the PDF last, once the repo and all photos are final, with the photos included, and attach it to the release as `kaltec-fg-install-guide.pdf`.
-
-<p align="center"><a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/releases/latest/download/kaltec-fg-install-guide.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20THE%20INSTALL%20GUIDE%20%28PDF%29-237356?style=for-the-badge" alt="Download the install guide (PDF)"></a></p>
+> **TODO (repo project):** the printable A4 PDF of this guide comes back last, rebuilt with the photos. It lives in the repo as `kaltec-fg-install-guide.pdf` (not the release, which is bracket files only), with a "Download the install guide (PDF)" button here and in the README.
 
 ---
 
