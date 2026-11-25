@@ -14,7 +14,7 @@ This guide is for KALTEC kit owners: cigarette power or fuse tap power, with wir
 - RCA-to-AUX lead
 - Power lead: cigarette power or fuse tap power
 
-Check everything is there before you start. If anything is missing or damaged, see [help](#help).
+Check everything is there before you start. If anything is missing or damaged, [email me!](#help).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg" alt="Cigarette power kit: head unit fitted in the bracket, cigarette power lead and AUX lead" height="240">
@@ -126,9 +126,7 @@ More fixes are in [troubleshooting](parts-list.md#troubleshooting).
 
 ## HELP
 
-Email [preorder@kalteclabs.com](mailto:preorder@kalteclabs.com). If anything arrives faulty or not as described, email us and we'll sort it out.
-
-> **TODO (DOMAIN):** switch the help contact to aaron@kaltec.au once it's set up.
+Email my personal at [aaron@kaltec.au](mailto:aaron@kaltec.au). If anything arrives faulty or not as described, email me and we'll sort it out.
 
 ---
 
