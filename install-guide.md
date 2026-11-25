@@ -234,7 +234,7 @@ Use the wiring plug that came with your head unit. Join wires the same way as in
 
 ### 7.2 CONNECT THE GROUND
 
-With the tissue box out, you can see two factory bolts inside the slot. Either one works. Undo one (it's an M7 bolt), wrap the bare GND wire clockwise under the washer, and tighten it back down. Give the wire a tug to check it's held tight. Leave the power plug sitting in the slot.
+With the tissue box out, you can see two factory bolts inside the slot. Either one works. Undo one (8 mm socket), wrap the bare GND wire clockwise under the washer, and tighten it back down. Give the wire a tug to check it's held tight. Leave the power plug sitting in the slot.
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/ground-wire-slot-bolt.jpg" alt="Ground wire fixed under the left slot bolt" width="420"></p>
 

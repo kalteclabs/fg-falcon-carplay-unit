@@ -96,7 +96,7 @@ Nothing in the car gets cut or spliced. Instead, we extend the head unit's two p
 
 - Wire strippers
 - A heat gun or lighter, for the heat-shrink
-- **Fuse box only:** crimpers, for the fuse taps, and a socket for the M7 ground bolt
+- **Fuse box only:** crimpers, for the fuse taps, and an 8 mm socket for the ground bolt
 - Optional: a plastic trim tool
 - Optional: a multimeter or test light
 
