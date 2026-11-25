@@ -1,11 +1,9 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT · KIT GUIDE" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-kit-header.png" width="100%">
 
 ### Kit guide: fitting your KALTEC FG Falcon CarPlay kit
-**FG, MkII and FG-X. Not FPV.**
+**kits available at kaltec.au**
 
 This guide is for KALTEC kit owners: cigarette power or fuse tap power, with wired or wireless CarPlay. Everything is ready to plug in, so there's nothing to build. For more detail on any step, see the full [install guide](install-guide.md).
-
-**Cigarette power:** about 10 minutes. **Fuse tap power:** about 30–45 minutes.
 
 ---
 
