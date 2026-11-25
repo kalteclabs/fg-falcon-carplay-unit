@@ -2,7 +2,7 @@
 
 ### Kit guide: fitting your KALTEC FG Falcon CarPlay kit
 # kits available at kaltec.au
-## Video:** coming soon
+## Video: coming soon
 
 This guide is for KALTEC kit owners: cigarette power or fuse tap power, with wired or wireless CarPlay. Everything is ready to plug in, so there's nothing to build. For more detail on any step, see the full [install guide](install-guide.md).
 
@@ -15,7 +15,7 @@ This guide is for KALTEC kit owners: cigarette power or fuse tap power, with wir
 - RCA-to-AUX lead
 - Power lead: cigarette power or fuse tap power
 
-Check everything is there before you start. If anything is missing or damaged, [email me!](#help).
+Check everything is there before you start. If anything is missing or damaged, [email me](#help).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg" alt="Cigarette power kit: head unit fitted in the bracket, cigarette power lead and AUX lead" height="240">
@@ -45,21 +45,38 @@ Push the power lead's plug into the matching socket on the back of the head unit
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/cig-lead-2.jpg" alt="The cigarette power lead" width="420"></p>
 
-**Fuse tap power:** the lead's two power wires connect to the fuse box with two fuse taps, and the cable hides behind the console panel.
-*EDIT*add link to yt video about fuze taps, and make a sentence being like its the same method as wiring a dashcam if youu havent before check out video
+**Fuse tap power:** the lead's two power wires connect to the fuse box with two fuse taps, the ground wire goes under a bolt in the slot, and the cable hides behind the console panel.
 
-1. **Ground:** with the tissue box out, locate one of the two bolts inside the slot where the tissue box was, insert the fork ground lead (shortest wire) under the bolt and tighten it if needed. Give it a tug to check it's tight. [More detail](install-guide.md#72-connect-the-ground).
+New to fuse taps? It's the same method as wiring in a dash cam. If you haven't done it before, watch this first: [Fitting a fuse tap (dash cam)](https://www.youtube.com/watch?v=Hj4f70pEXC4).
 
-3. **Find the fuse box:** take the key out and turn the battery off. The fuse box is under the dash in the driver's footwell, to the right of the steering column. Pull the cover off. [More detail](install-guide.md#73-find-the-fuse-box).
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fuse-lead-ends.jpg" alt="The fuse tap power lead's ends: two fuse taps and the ground wire, highlighted" width="480"></p>
 
-5. **Route the wires:** pop off the plastic panel on the driver's side of the centre console, below the slot. Run the two power wires down behind the panel and behind the steering column to the fuse box. Leave the panel off until you've tested in step 7. [More detail](install-guide.md#74-route-the-wires).
-6. **Fit the taps:** look at the wire colour at the base of the connector, or by the marking.
-   - **Red = BATTERY (ALWAYS ON):** goes in an always-on fuse slot. On our FG, fuse 15.
-   - **Yellow = ACC (KEY ON):** goes in a key-on fuse slot. On our FG, fuse 21.
+> [!WARNING]
+> **Disconnect the battery before you start.** Take the key out, then disconnect the battery's negative (−) terminal, so nothing is live while you work on the fuse box. Reconnect it before you test in step 7.
 
-   Check your own layout first, as layouts differ between years. Don't tap airbag (SRS), ABS, engine (PCM) or fuel pump fuses. [Picking your fuses and loading the taps](install-guide.md#75-pick-your-fuses-and-connect-the-taps).
+**4a · Ground:** with the tissue box out, locate one of the two bolts inside the slot where the tissue box was. Loosen it with an 8 mm socket, slide the fork ground lead (the shortest wire) under it and tighten it back down. Give it a tug to check it's tight. [More detail](install-guide.md#72-connect-the-ground).
 
-<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fuse-lead-ends.jpg" alt="The fuse tap power lead's ends: the red (ALWAYS ON) and yellow (KEY ON) fuse taps and the ground terminal" width="480"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-ground-bolt.jpg" alt="The ground bolt inside the slot (8 mm socket), with the tissue box out" width="520"></p>
+
+**4b · Find the fuse box:** it's under the dash in the driver's footwell, to the right of the steering column. Pull the cover off. [More detail](install-guide.md#73-find-the-fuse-box).
+
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-fuse-box-location.jpg" alt="The fuse box cover under the dash, to the right of the steering column" width="360"></p>
+
+**4c · Route the wires:** pop off the plastic panel on the driver's side of the centre console, below the slot. Run the two power wires down behind the panel and behind the steering column to the fuse box. Leave the panel off until you've tested in step 7. [More detail](install-guide.md#74-route-the-wires).
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-console-panel-on.jpg" alt="The console panel on the driver's side, in place" height="300">
+  <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-console-panel-off.jpg" alt="The same panel taken off, with the wires routed behind it" height="300">
+</p>
+
+**4d · Fit the taps:** look at the wire colour at the base of the connector, or by the marking.
+
+- **Red = BATTERY (ALWAYS ON):** goes in an always-on fuse slot. On our FG, fuse 15.
+- **Yellow = ACC (KEY ON):** goes in a key-on fuse slot. On our FG, fuse 21.
+
+Check your own layout first, as layouts differ between years. Don't tap airbag (SRS), ABS, engine (PCM) or fuel pump fuses. [Picking your fuses and loading the taps](install-guide.md#75-pick-your-fuses-and-connect-the-taps).
+
+<p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-fuse-box-labelled.jpg" alt="The fuse box with fuses 15 and 21 taken out: fuse 15 (red, BATTERY, ALWAYS ON) in the top row and fuse 21 (yellow, ACC, KEY ON) at the right of the bottom row" width="560"></p>
 
 ## 5. PLUG THE AUX LEAD INTO THE FALCON
 
@@ -73,10 +90,9 @@ The head unit comes already fitted in the bracket. Tuck the wiring behind the he
 
 ## 7. TURN ON AND SELECT AUX
 
-Turn the key on and the head unit starts up. On the factory stereo, press <kbd>MEDIA</kbd> until the display shows AUX. **Fuse tap power:** turn the key off and check the unit switches off, then back on and check the clock and settings are still there. Then clip the console panel back on. [More detail](install-guide.md#6-test-it).
+Reconnect the battery if you disconnected it. Turn the key on and the head unit starts up. On the factory stereo, press <kbd>MEDIA</kbd> until the display shows AUX. **Fuse tap power:** turn the key off and check the unit switches off, then back on and check the clock and settings are still there. Then clip the console panel back on. [More detail](install-guide.md#6-test-it).
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/06-aux-selected.png" alt="Press MEDIA on the factory stereo until the display shows AUX" width="520"></p>
-
 
 ## 8. CONNECT YOUR PHONE
 
@@ -119,4 +135,4 @@ Email my personal at [aaron@kaltec.au](mailto:aaron@kaltec.au). If anything arri
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Kit Guide v1.0 · 23 November 2026
+FG FALCON SINGLE-DIN Head Unit Kit Guide v1.1 · 26 November 2026

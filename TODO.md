@@ -12,7 +12,7 @@ Everything unfinished in this repo, as of 24 November 2026. Each item matches a 
 | 2 | README.md (Download the bracket) | Paste the MakerWorld and Printables descriptions so they can be matched to this copy, and switch the MakerWorld print profile to ASA (after the repo is done) | Aaron pastes, repo project rewrites |
 | 3 | README.md (Kits and parts) | Photos: the carbon fibre finish bracket and the wireless head unit, both ready 1 December | Aaron (wireless photo waits on DOMAIN) |
 | 4 | install-guide.md (top) | Video links for the install guide (cigarette power and fuse tap power) | Aaron |
-| 5 | kit-guide.md (every step) | A video for each of the 8 steps (each step has `> **Video:** coming soon`) | Aaron |
+| 5 | kit-guide.md (top) | The kit guide video (`## Video: coming soon` under the heading) | Aaron |
 | 6 | Outside the repo: kalteclabs/.github | Upload the 7 new kit guide photos to `fg-falcon-carplay-unit/images/` before the kit guide update is pushed (`fuse-lead-ends.jpg` replaces the old one) | Aaron |
 | 7 | Outside the repo: the `kaltec.au/guide` redirect | Point `kaltec.au/guide` (the QR card in the box) at `kit-guide.md` on GitHub, in Cloudflare (being set up now) | DOMAIN |
 | 8 | install-guide.md (bottom) | The repo PDF (`kaltec-fg-install-guide.pdf`) is the 10 Nov edition with the old kit price, email and PETG wording. Rebuild it last with the photos and replace it under the same name (the release stays bracket files only) | Repo project |
