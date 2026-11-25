@@ -1,7 +1,8 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT · KIT GUIDE" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-kit-header.png" width="100%">
 
 ### Kit guide: fitting your KALTEC FG Falcon CarPlay kit
-**kits available at kaltec.au**
+# kits available at kaltec.au
+## Video:** coming soon
 
 This guide is for KALTEC kit owners: cigarette power or fuse tap power, with wired or wireless CarPlay. Everything is ready to plug in, so there's nothing to build. For more detail on any step, see the full [install guide](install-guide.md).
 
@@ -21,18 +22,14 @@ Check everything is there before you start. If anything is missing or damaged, [
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-fuse-tap.jpg" alt="Fuse tap power kit: head unit fitted in the bracket, fuse tap power lead and RCA-to-AUX lead" height="240">
 </p>
 
-> **Video:** coming soon
-
 ## 2. TAKE OUT THE TISSUE BOX
 
-No tools needed. Grip the bottom lip and pull it firmly towards you. It's held by two clips and pops straight out. Keep the tissue box: it goes straight back in if you ever remove the kit. [More detail](install-guide.md#1-take-out-the-tissue-box).
+No tools needed. Grip the bottom lip and pull it firmly towards you. It's held by two clips and pops straight out. Keep the tissue box: it goes straight back in if you ever remove the kit. 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/tissue-box-in-dash.jpg" alt="FG Falcon tissue box in the centre console, below the factory stereo" height="240">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/tissue-box-out.jpg" alt="The same slot with the tissue box taken out" height="240">
 </p>
-
-> **Video:** coming soon
 
 ## 3. CONNECT THE LEADS TO THE HEAD UNIT
 
@@ -41,8 +38,6 @@ Push the power lead's plug into the matching socket on the back of the head unit
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/power-plug-in.jpg" alt="Back of the head unit with the power lead plugged in and the RCA lead in the red and white outs" width="480"></p>
 
 **Fuse tap power?** Do the fuse tap steps in [step 4](#4-power-cigarette-or-fuse-tap) first, so the lead is grounded and tapped in before the head unit goes in the slot.
-
-> **Video:** coming soon
 
 ## 4. POWER: CIGARETTE OR FUSE TAP
 
@@ -66,14 +61,9 @@ Push the power lead's plug into the matching socket on the back of the head unit
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fuse-lead-ends.jpg" alt="The fuse tap power lead's ends: the red (ALWAYS ON) and yellow (KEY ON) fuse taps and the ground terminal" width="480"></p>
 
-
-> **Video:** coming soon
-
 ## 5. PLUG THE AUX LEAD INTO THE FALCON
 
 Plug the other end of the RCA-to-AUX lead into the Falcon's AUX input. Most Falcons have the AUX right next to the cigarette lighter. Push it all the way in.
-
-> **Video:** coming soon
 
 ## 6. CLIP THE BRACKET INTO THE TISSUE BOX SLOT
 
@@ -81,23 +71,18 @@ The head unit comes already fitted in the bracket. Tuck the wiring behind the he
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/fg-installed-side.jpg" alt="The head unit and bracket clipped into the FG Falcon's tissue box slot" width="520"></p>
 
-> **Video:** coming soon
-
 ## 7. TURN ON AND SELECT AUX
 
 Turn the key on and the head unit starts up. On the factory stereo, press <kbd>MEDIA</kbd> until the display shows AUX. **Fuse tap power:** turn the key off and check the unit switches off, then back on and check the clock and settings are still there. Then clip the console panel back on. [More detail](install-guide.md#6-test-it).
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/install/06-aux-selected.png" alt="Press MEDIA on the factory stereo until the display shows AUX" width="520"></p>
 
-> **Video:** coming soon
 
 ## 8. CONNECT YOUR PHONE
 
 Plug your phone into the USB port on the front of the head unit, at the front left below the volume knob, with a good data cable (some cheap cables only charge). **Wireless CarPlay:** turn on Bluetooth on your phone to connect without the cable. Either way, check CarPlay is allowed on your phone: Settings → General → CarPlay.
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-usb-front.jpg" alt="The USB ports on the front left of the head unit, below the volume knob" width="480"></p>
-
-> **Video:** coming soon
 
 **Done.** The head unit turns on and off with the key.
 
