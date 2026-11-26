@@ -71,8 +71,8 @@ New to fuse taps? It's the same method as wiring in a dash cam. If you haven't d
 
 **4d · Fit the taps:** look at the wire colour at the base of the connector, or by the marking.
 
-- **Red = BATTERY (ALWAYS ON):** goes in an always-on fuse slot. On our FG, fuse 15.
-- **Yellow = ACC (KEY ON):** goes in a key-on fuse slot. On our FG, fuse 21.
+- **Red = BATTERY (ALWAYS ON), 10A fuse fitted:** goes in an always-on fuse slot. On our FG, fuse 15.
+- **Yellow = ACC (KEY ON), 7.5A fuse fitted:** goes in a key-on fuse slot. On our FG, fuse 21.
 
 Check your own layout first, as layouts differ between years. Don't tap airbag (SRS), ABS, engine (PCM) or fuel pump fuses. [Picking your fuses and loading the taps](install-guide.md#75-pick-your-fuses-and-connect-the-taps).
 
@@ -135,4 +135,4 @@ Email my personal at [aaron@kaltec.au](mailto:aaron@kaltec.au). If anything arri
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Kit Guide v1.1 · 26 November 2026
+FG FALCON SINGLE-DIN Head Unit Kit Guide v1.2 · 26 November 2026
