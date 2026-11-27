@@ -1,7 +1,7 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT · PARTS LIST" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-parts-header.png" width="100%">
 
 ### Parts list for the FG Falcon CarPlay unit. Every link, price and item you need to build it as cheaply and easily as possible, all provided free by KALTEC.
-**FG, MkII and FG-X. Not FPV.**
+**For FG-X and FG MkI and MkII Falcons. Not suitable for FPV.**
 
 **Jump to:** [Parts](#parts) · [Fuse box layout](#fuse-box-layout) · [Troubleshooting](#troubleshooting)
 
@@ -205,4 +205,4 @@ Layouts are similar across FG models and years, but not identical. Always check 
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Parts List v1.4 · 23 November 2026
+FG FALCON SINGLE-DIN Head Unit Parts List v1.5 · 27 November 2026

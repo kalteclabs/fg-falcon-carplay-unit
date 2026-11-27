@@ -1,7 +1,7 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT · FREE BRACKET" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-bracket-header.png" width="100%">
 
 ### Free 3D print files for the FG Falcon. A bracket that replaces your tissue box and holds a single-DIN head unit, for a CarPlay or aftermarket stereo, all provided free by KALTEC.
-**FG, MkII and FG-X. Not FPV.**
+**For FG-X and FG MkI and MkII Falcons. Not suitable for FPV.**
 
 **Jump to:** [Download](#download) · [Print settings](#print-settings)
 
@@ -126,4 +126,4 @@ Ready? Fit it with the [install guide](install-guide.md).
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Free Bracket v1.5 · 23 November 2026
+FG FALCON SINGLE-DIN Head Unit Free Bracket v1.6 · 27 November 2026

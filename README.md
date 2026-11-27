@@ -1,7 +1,7 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-header.png" width="100%">
 
 ### A CarPlay screen in your FG Falcon, in about 10 minutes with cigarette power. Pull out the tissue box, clip in the bracket, and fit any single-DIN head unit to your centre console.
-**FG, MkII and FG-X. Not FPV.**
+**For FG-X and FG MkI and MkII Falcons. Not suitable for FPV.**
 
 **Jump to:** [FREE BRACKET FILE](#download-the-bracket) · [GET STARTED](#get-started) · [KITS AND PARTS](#kits-and-parts)
 
@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg" alt="KALTEC cigarette power kit: head unit fitted in the bracket, cigarette power lead and AUX lead" height="280">
 </p>
 
-<p align="center"><a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/raw/main/kaltec-fg-install-guide.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20THE%20INSTALL%20GUIDE%20%28PDF%29-237356?style=for-the-badge" alt="Download the install guide (PDF)"></a></p>
+<p align="center"><a href="https://github.com/kalteclabs/.github/raw/main/fg-falcon-carplay-unit/pdf/kaltec-fg-install-guide.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20THE%20INSTALL%20GUIDE%20%28PDF%29-237356?style=for-the-badge" alt="Download the install guide (PDF)"></a></p>
 
 The CarPlay head unit takes the place of the tissue box under your factory stereo. The factory stereo stays, and the sound plays through your Falcon's own speakers via the AUX. **No splicing or cutting into any of your car's wiring.**
 
@@ -154,4 +154,4 @@ Credit KALTEC with a link to this repo, and release anything you change under th
 
 **KALTEC · CC BY-SA 4.0 · [github.com/kalteclabs/fg-falcon-carplay-unit](https://github.com/kalteclabs/fg-falcon-carplay-unit)**
 
-FG FALCON SINGLE-DIN Head Unit README v1.5 · 23 November 2026
+FG FALCON SINGLE-DIN Head Unit README v1.6 · 27 November 2026

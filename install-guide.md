@@ -1,11 +1,11 @@
 <img alt="KALTEC · FG FALCON CARPLAY UNIT · INSTALL GUIDE" src="https://raw.githubusercontent.com/kalteclabs/.github/main/brand/fg/kaltec-fg-install-header.png" width="100%">
 
 ### Install guide to build and install your own FG Falcon CarPlay unit for about A$70 in parts, all provided free by KALTEC.
-**FG, MkII and FG-X. Not FPV.**
+**For FG-X and FG MkI and MkII Falcons. Not suitable for FPV.**
 
 **Jump to:** [Steps](#1-take-out-the-tissue-box) · [Parts list](parts-list.md) · [Troubleshooting](parts-list.md#troubleshooting)
 
-<p align="center"><a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/raw/main/kaltec-fg-install-guide.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20THE%20INSTALL%20GUIDE%20%28PDF%29-237356?style=for-the-badge" alt="Download the install guide (PDF)"></a></p>
+<p align="center"><a href="https://github.com/kalteclabs/.github/raw/main/fg-falcon-carplay-unit/pdf/kaltec-fg-install-guide.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20THE%20INSTALL%20GUIDE%20%28PDF%29-237356?style=for-the-badge" alt="Download the install guide (PDF)"></a></p>
 
 ---
 
@@ -301,9 +301,7 @@ Your power plug is now grounded, connected to the fuse box and waiting in the sl
 
 **Want it on paper?** The whole guide, parts list and fuse box layout as one A4 PDF:
 
-<p align="center"><a href="https://github.com/kalteclabs/fg-falcon-carplay-unit/raw/main/kaltec-fg-install-guide.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20THE%20INSTALL%20GUIDE%20%28PDF%29-237356?style=for-the-badge" alt="Download the install guide (PDF)"></a></p>
-
-> **TODO (repo project):** this PDF is the 10 Nov edition, with the old kit price, contact email and PETG wording. Rebuild it last with the photos and replace `kaltec-fg-install-guide.pdf` in the repo under the same name.
+<p align="center"><a href="https://github.com/kalteclabs/.github/raw/main/fg-falcon-carplay-unit/pdf/kaltec-fg-install-guide.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20THE%20INSTALL%20GUIDE%20%28PDF%29-237356?style=for-the-badge" alt="Download the install guide (PDF)"></a></p>
 
 ---
 
@@ -311,4 +309,4 @@ Your power plug is now grounded, connected to the fuse box and waiting in the sl
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Install Guide v1.5 · 23 November 2026
+FG FALCON SINGLE-DIN Head Unit Install Guide v1.6 · 27 November 2026

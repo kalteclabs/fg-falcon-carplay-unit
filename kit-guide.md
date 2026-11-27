@@ -15,7 +15,7 @@ This guide is for KALTEC kit owners: cigarette power or fuse tap power, with wir
 - RCA-to-AUX lead
 - Power lead: cigarette power or fuse tap power
 
-Check everything is there before you start. If anything is missing or damaged, [email me](#help).
+Check everything is there before you start. If anything is missing or damaged, [email us](#help).
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-parts-cig.jpg" alt="Cigarette power kit: head unit fitted in the bracket, cigarette power lead and AUX lead" height="240">
@@ -74,6 +74,8 @@ New to fuse taps? It's the same method as wiring in a dash cam. If you haven't d
 - **Red = BATTERY (ALWAYS ON), 10A fuse fitted:** goes in an always-on fuse slot. On our FG, fuse 15.
 - **Yellow = ACC (KEY ON), 7.5A fuse fitted:** goes in a key-on fuse slot. On our FG, fuse 21.
 
+Pull the car's fuse out of that slot, push it into the empty slot on the tap, then push the tap into the fuse slot.
+
 Check your own layout first, as layouts differ between years. Don't tap airbag (SRS), ABS, engine (PCM) or fuel pump fuses. [Picking your fuses and loading the taps](install-guide.md#75-pick-your-fuses-and-connect-the-taps).
 
 <p align="center"><img src="https://raw.githubusercontent.com/kalteclabs/.github/main/fg-falcon-carplay-unit/images/kit-fuse-box-labelled.jpg" alt="The fuse box with fuses 15 and 21 taken out: fuse 15 (red, BATTERY, ALWAYS ON) in the top row and fuse 21 (yellow, ACC, KEY ON) at the right of the bottom row" width="560"></p>
@@ -127,7 +129,7 @@ More fixes are in [troubleshooting](parts-list.md#troubleshooting).
 
 ## HELP
 
-Email my personal at [aaron@kaltec.au](mailto:aaron@kaltec.au). If anything arrives faulty or not as described, email me and we'll sort it out.
+Email us at [aaron@kaltec.au](mailto:aaron@kaltec.au). If anything arrives faulty or not as described, email us and we'll sort it out.
 
 ---
 
@@ -135,4 +137,4 @@ Email my personal at [aaron@kaltec.au](mailto:aaron@kaltec.au). If anything arri
 
 This guide and its photos are free to share and adapt under CC BY-SA 4.0: credit KALTEC with a link to this repo. The bracket design is free to build, change and sell under CERN-OHL-S-2.0.
 
-FG FALCON SINGLE-DIN Head Unit Kit Guide v1.2 · 26 November 2026
+FG FALCON SINGLE-DIN Head Unit Kit Guide v1.3 · 27 November 2026
